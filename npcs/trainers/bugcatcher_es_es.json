@@ -1,6 +1,6 @@
 {
     "data": {
-        "trainerType": "Cazabichos",
+        "trainerType": "BugCatcher",
         "minLevel": 6,
         "maxLevel": 10,
         "minPartyPokemon": 3,
@@ -29,7 +29,7 @@
             "name": "Darryl"
         },
         {
-            "name": "Bobby Sin-dedos"
+            "name": "Bobby No-toes"
         }
     ],
     "chat": [
