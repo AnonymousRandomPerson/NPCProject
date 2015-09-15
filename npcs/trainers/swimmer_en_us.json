@@ -142,23 +142,23 @@
     ],
     "chat": [
         {
-            "opening": "Let's test my new water Pokémon!"
-            "win": "My new water Pokémon are great!"
+            "opening": "Let's test my new water Pokémon!",
+            "win": "My new water Pokémon are great!",
             "lose": "My new Pokémon need some training!"
         },
         {
-            "opening": "I swim anytime I want!"
-            "win": "Swimming makes you strong like me!"
+            "opening": "I swim anytime I want!",
+            "win": "Swimming makes you strong like me!",
             "lose": "I might go for a swim to forget my defeat!"
         },
         {
-            "opening": "Have to warm up before I swim!"
-            "win": "My first win!"
+            "opening": "Have to warm up before I swim!",
+            "win": "My first win!",
             "lose": "I can never win a battle in the ocean!"
         },
         {
-            "opening": "Aren't water Pokémon beautiful?"
-            "win": "Get water Pokémon if you want to be strong!"
+            "opening": "Aren't water Pokémon beautiful?",
+            "win": "Get water Pokémon if you want to be strong!",
             "lose": "Your Pokémon are too strong!"
         }
     ]

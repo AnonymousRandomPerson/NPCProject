@@ -5,9 +5,7 @@
         "maxLevel": 10,
         "minPartyPokemon": 3,
         "maxPartyPokemon": 6,
-        "winnings": 200,
-        "rarity": 10,
-        "spawnBiomes": "Jungle"
+        "winnings": 200
     },
     "pokemon": [
         {

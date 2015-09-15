@@ -70,18 +70,18 @@
     ],
     "chat": [
         {
-            "opening": "Fire?"
-            "win": "Fire!"
+            "opening": "Fire?",
+            "win": "Fire!",
             "lose": "Fire..."
         },
         {
-            "opening": "This is such a strange profession."
-            "win": "But I sort of like it."
+            "opening": "This is such a strange profession.",
+            "win": "But I sort of like it.",
             "lose": "And I'm not fond of it.."
         },
         {
-            "opening": "Training my Pokémon is my passion."
-            "win": "My passion burns brighter than ever!"
+            "opening": "Training my Pokémon is my passion.",
+            "win": "My passion burns brighter than ever!",
             "lose": "My passion's burned out.."
         }
     ]

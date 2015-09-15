@@ -295,8 +295,8 @@
     ],
     "chat": [
         {
-            "opening": "I absolutely love Pokémon! Let's battle and see how much your Pokémon love you!"
-            "win": "You really should take better care of your Pokémon! Love makes them strong!"
+            "opening": "I absolutely love Pokémon! Let's battle and see how much your Pokémon love you!",
+            "win": "You really should take better care of your Pokémon! Love makes them strong!",
             "lose": "You must love your Pokémon as much as I love mine!"
         }
     ]

@@ -55,18 +55,18 @@
     ],
     "chat": [
         {
-            "opening": "Hello there."
-            "win": "Good bye."
+            "opening": "Hello there.",
+            "win": "Good bye.",
             "lose": "Good bye."
         },
         {
-            "opening": "How are you today?"
-            "win": "Till we meet again."
+            "opening": "How are you today?",
+            "win": "Till we meet again.",
             "lose": "Till we meet again."
         },
         {
-            "opening": "How's it going?"
-            "win": "Till next time."
+            "opening": "How's it going?",
+            "win": "Till next time.",
             "lose": "Till next time."
         }
     ]
