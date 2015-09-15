@@ -32,9 +32,16 @@
             "name": "Bobby No-toes"
         }
     ],
-    "chat": {
-        "opening": "Hello there young trainer!",
-        "win": "I bet you! Ha ha!",
-        "lose": "No way, I was sure I had you there..."
-    }
+    "chat": [
+        {
+            "opening": "Hello there young trainer!",
+            "win": "I bet you! Ha ha!",
+            "lose": "No way, I was sure I had you there..."
+        },
+        {
+            "opening": "Do I bug you?",
+            "win": "Bugs are the best",
+            "lose": "Now I'm starting to bug me..."
+        }
+    ]
 }
