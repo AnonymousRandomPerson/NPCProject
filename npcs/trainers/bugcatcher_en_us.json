@@ -1,0 +1,40 @@
+{
+    "data": {
+        "trainerType": "BugCatcher",
+        "minLevel": 6,
+        "maxLevel": 10,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 200,
+        "rarity": 10,
+        "spawnBiomes": "Jungle"
+    },
+    "pokemon": [
+        {
+            "name": "Caterpie"
+        },
+        {
+            "name": "Weedle"
+        },
+        {
+            "name": "Paras"
+        },
+        {
+            "name": "Venonat"
+        }
+
+    ],
+    "names": [
+        {
+            "name": "Darryl"
+        },
+        {
+            "name": "Bobby No-toes"
+        }
+    ],
+    "chat": {
+        "opening": "Hello there young trainer!",
+        "win": "I bet you! Ha ha!",
+        "lose": "No way, I was sure I had you there..."
+    }
+}
