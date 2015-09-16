@@ -2,6 +2,45 @@
     "villagers": [
         {
             "name": "oldman"
+        },
+        {
+            "name": "artist"
+        },
+        {
+            "name": "blackbelt"
+        },
+        {
+            "name": "engineer"
+        },
+        {
+            "name": "hexmaniac"
+        },
+        {
+            "name": "hiker"
+        },
+        {
+            "name": "madame"
+        },
+        {
+            "name": "pokefan_f"
+        },
+        {
+            "name": "pokefan_m"
+        },
+        {
+            "name": "psychic"
+        },
+        {
+            "name": "punkgirl"
+        },
+        {
+            "name": "punkguy"
+        },
+        {
+            "name": "scientist_f"
+        },
+        {
+            "name": "supernerd"
         }
     ],
     "trainers": [
