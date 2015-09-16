@@ -1,0 +1,45 @@
+{
+    "villagers": [
+        {
+            "name": "oldman"
+        }
+    ]
+    "trainers": [
+        {
+            "name": "bugcatcher"
+        },
+        {
+            "name": "bugmaniac"
+        },
+        {
+            "name": "femalerocketgrunt"
+        },
+        {
+            "name": "firebreather"
+        },
+        {
+            "name": "fisherman"
+        },
+        {
+            "name": "lass"
+        },
+        {
+            "name": "ornithologist"
+        },
+        {
+            "name": "pokefan"
+        },
+        {
+            "name": "pokefangirl"
+        },
+        {
+            "name": "richboy"
+        },
+        {
+            "name": "swimmer"
+        },
+        {
+            "name": "youngster"
+        }
+    ]
+}
