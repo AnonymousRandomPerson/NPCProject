@@ -1,6 +1,6 @@
 {
     "data": {
-        "trainerType": "PokeFan",
+        "trainerType": "PokeManiacgirl",
         "minLevel": 10,
         "maxLevel": 35,
         "minPartyPokemon": 1,
@@ -281,40 +281,16 @@
     ],
     "names": [
         {
-            "name": "Alex"
+            "name": "Beverly"
         },
         {
-            "name": "Allan"
+            "name": "Georgia"
         },
         {
-            "name": "Brandon"
+            "name": "Jaime"
         },
         {
-            "name": "Carter"
-        },
-        {
-            "name": "Colin"
-        },
-        {
-            "name": "Derek"
-        },
-        {
-            "name": "Jeremie"
-        },
-        {
-            "name": "Joshua"
-        },
-        {
-            "name": "Rex"
-        },
-        {
-            "name": "Robert"
-        },
-        {
-            "name": "Trevor"
-        },
-        {
-            "name": "William"
+            "name": "Ruth"
         }
     ],
     "chat": [
