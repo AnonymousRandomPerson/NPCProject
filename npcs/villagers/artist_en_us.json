@@ -1,6 +1,6 @@
-﻿{
+{
     "skins": [
-        { 
+        {
             "filename": "artist.png"
         }
     ],
@@ -14,9 +14,7 @@
         {
             "name": "Vincent"
         },
-        {
-            "name": "René"
-        },
+       
         {
             "name": "Andy"
         }
