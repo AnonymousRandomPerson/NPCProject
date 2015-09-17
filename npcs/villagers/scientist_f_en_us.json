@@ -1,4 +1,4 @@
-﻿{
+{
     "skins": [
         { 
             "filename": "scientist_f.png"
@@ -28,14 +28,14 @@
                     "text": "Fossils are fascinating."
                 },
                 {
-                    "text": "Did you know that you can find them deep in cave, among gravel?"
+                    "text": "Did you know that you can find them deep in caves, among gravel?"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "People say that you can't revive fossils, that science doesn't work that way."
+                    "text": "People say that you can't revive Fossils, that science doesn't work that way."
                 },
                 {
                     "text": "What do they know about science? One day I'll show them."
@@ -48,7 +48,7 @@
                     "text": "I'm starting to question my choice to wear a skirt."
                 },
                 {
-                    "text": "What if I spill acid on them? I'd better aim my test tubes straight at my labcoat."
+                    "text": "What if I spill acid on it? I'd better aim my test tubes straight at my lab coat."
                 }
             ]
         },

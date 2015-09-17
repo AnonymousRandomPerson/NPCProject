@@ -1,6 +1,6 @@
-﻿{
+{
     "skins": [
-        { 
+        {
             "filename": "artist.png"
         }
     ],
@@ -28,7 +28,7 @@
                     "text": "Ah, this town is so inspiring."
                 },
                 {
-                    "text": "If only I had my easel with me, my mind is buzzing with artsy thoughts!"
+                    "text": "If only I had my easel with me; my mind is buzzing with artsy thoughts!"
                 }
             ]
         },
@@ -55,7 +55,7 @@
         {
             "lines": [
                 {
-                    "text": "I hear about this team Aqua and team Magma rivalry..."
+                    "text": "I hear about this Team Aqua and Team Magma rivalry..."
                 },
                 {
                     "text": "... and I think this all lacks in yellow. There should be a yellow team."

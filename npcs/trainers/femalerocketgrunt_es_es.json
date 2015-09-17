@@ -106,54 +106,54 @@
     ],
     "chat": [
         {
-            "opening": "Hey kid, hand over your Pokémon!",
-            "win": "I won. Now give me your Pokémon.",
-            "lose": "Urgh, how did you beat me!"
+            "opening": "¡Oye chaval, trae aquí tus Pokémon!",
+            "win": "He ganado. Ahora dame tus Pokémon.",
+            "lose": "¡Urgh, como me has derrotado!"
         },
         {
-            "opening": "What are you doing here?!",
-            "win": "Get out of here.",
-            "lose": "Oh no! I lost!"
+            "opening": "¡¿Qué estás haciendo aquí?!",
+            "win": "Fuera de aquí.",
+            "lose": "¡Oh no! ¡He perdido!"
         },
         {
-            "opening": "This is an important operation. We don't need you snooping around!",
-            "win": "Get out now!",
-            "lose": "Impossible!"
+            "opening": "Esta es una operación importante. ¡No queremos que estés husmeando!",
+            "win": "¡Fuera ahora mismo!",
+            "lose": "¡Imposible!"
         },
         {
-            "opening": "Prepare for trouble!",
-            "win": "And I can make that double.",
-            "lose": "Pokémon are rubbish!"
+            "opening": "¡Preparate para los problemas!",
+            "win": "Y me puedo hacer este doble.",
+            "lose": "¡Los Pokémon son porquería!"
         },
         {
-            "opening": "Pokémon are tools. What use is treating them well?",
-            "win": "See? They are useless.",
-            "lose": "Useless things!"
+            "opening": "Los Pokémon son herramientas. ¿Cómo se les trata bien?",
+            "win": "¿Ves? Son inútiles.",
+            "lose": "¡Inútiles!"
         },
         {
-            "opening": "We are Team Rocket!",
-            "win": "Who are you?",
-            "lose": "Why are you here?"
+            "opening": "¡Somos el Team Rocket!",
+            "win": "¿Quién eres?",
+            "lose": "¿Por qué estás aquí?"
         },
         {
-            "opening": "What do you think you're doing here?",
-            "win": "Leave now!",
-            "lose": "Leave before I tell the boss!"
+            "opening": "¿Que piensas que estás haciendo aquí?",
+            "win": "¡Vete, ahora!",
+            "lose": "¡Vete antes de que se lo diga al jefe!"
         },
         {
-            "opening": "Get out of my way!",
-            "win": "I said move!",
-            "lose": "No way!"
+            "opening": "¡Apartate de mi camino!",
+            "win": "¡He dicho que te muevas!",
+            "lose": "¡No puede ser!"
         },
         {
-            "opening": "You've got some guts thinking you can fight me!",
-            "win": "You will never beat me.",
-            "lose": "You beat me!? Noooooo!"
+            "opening": "¡Tienes valor si piensas que puedes derrotarme!",
+            "win": "Nunca me vas a vencer.",
+            "lose": "¡¿Me has ganado!? ¡Noooooo!"
         },
         {
-            "opening": "Your Pokémon will fetch a pretty penny on the black market!",
-            "win": "Your Pokémon are terrible!",
-            "lose": "They may be worth more than I thought!"
-        }
+            "opening": "¡Tus Pokémon serán vendidos muy baratos en el mercado negro!",
+            "win": "¡Tus Pokémon son terribles!",
+            "lose": "¡Puede que merezcan más la pena de lo que pensaba!"
+        },
     ]
 }

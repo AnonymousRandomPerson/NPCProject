@@ -1,6 +1,6 @@
 {
     "data": {
-        "trainerType": "PokeFangirl",
+        "trainerType": "PokeManiac",
         "minLevel": 10,
         "maxLevel": 35,
         "minPartyPokemon": 1,
@@ -281,23 +281,47 @@
     ],
     "names": [
         {
-            "name": "Beverly"
+            "name": "Alex"
         },
         {
-            "name": "Georgia"
+            "name": "Allan"
         },
         {
-            "name": "Jaime"
+            "name": "Brandon"
         },
         {
-            "name": "Ruth"
+            "name": "Carter"
+        },
+        {
+            "name": "Colin"
+        },
+        {
+            "name": "Derek"
+        },
+        {
+            "name": "Jeremie"
+        },
+        {
+            "name": "Joshua"
+        },
+        {
+            "name": "Rex"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "Trevor"
+        },
+        {
+            "name": "William"
         }
     ],
     "chat": [
         {
-            "opening": "I absolutely love Pokémon! Let's battle and see how much your Pokémon love you!",
-            "win": "You really should take better care of your Pokémon! Love makes them strong!",
-            "lose": "You must love your Pokémon as much as I love mine!"
+            "opening": "¡Me encantan los Pokémon! ¡Vamos a luchar y veamos cuanto te quieren tus Pokémon!",
+            "win": "¡Deberías de cuidar mejor de tus Pokémon! ¡El amor los hace más fuertes!",
+            "lose": "¡Seguramente quieres a tus Pokémon tanto como yo a los míos!"
         }
     ]
 }
