@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "supernerd.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sheldon"
+        },
+        {
+            "name": "Steve"
+        },
+        {
+            "name": "Bernard"
+        },
+        {
+            "name": "Bill"
+        },
+        {
+            "name": "Gabe"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich moechte an meinem Projekt arbeiten! Wozu brauch ich \"sozialen Kontakt\"?"
+                },
+                {
+                    "text": "Eines Tages baue ich einen robotischen Klon, der ausgibt ich zu sein und lasse ihn Freunde finden."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hey! Wusstest du, dass wenn man ein Voltoball an einen Transponder anschliesst, man die Kommunikationsreichweite erhoeht und den Betrieb integrierter Sensorik moeglich..."
+                },
+                {
+                    "text": "... Hoerst du mir ueberhaupt zu?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Als ich ein Kind war, lud ich ein Virus auf das Porygon 2 meine Eltern."
+                },
+                {
+                    "text": "Ich wollte es nur weiter aufbessern! Sie waren so wuetend!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich habe meinen Computer modifiziert; jetzt kann ich meine Pokemon in 3D ordnen!"
+                },
+                {
+                    "text": "Es sieht einfach besser aus. Und ich glaub meinen Pokemon gefaellt es."
+                }
+            ]
+        }
+    ]
+}

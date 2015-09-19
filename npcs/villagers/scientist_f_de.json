@@ -1,0 +1,76 @@
+{
+    "skins": [
+        { 
+            "filename": "scientist_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Marie"
+        },
+        {
+            "name": "Ada"
+        },
+        {
+            "name": "Irène"
+        },
+        {
+            "name": "Harriet"
+        },
+        {
+            "name": "Sofia"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Fossile sind faszinierend."
+                },
+                {
+                    "text": "Wusstest du, dass man sie in tiefen Hoehlen im Kies finden kann?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Fossile sind faszinierend."
+                },
+                {
+                    "text": "Wusstest du, dass man sie besonders gut am Meeresboden findet?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Die meisten sagen man koenne keine Fossilien beleben, diese Wissenschafft funktioniere nicht."
+                },
+                {
+                    "text": "Was wissen die schon ueber Wissenschafft? Eines Tages werde ich es ihnen allen zeigen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich fange an meine Wahl des Kleids als Kleidung zu ueberdenken."
+                },
+                {
+                    "text": "Was wenn ich Saeure draufschuette? Mit meinem Laborkittel waere das nicht so schlimm."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Die Anatomie von Monozyto ueberwaeltigt mich."
+                },
+                {
+                    "text": "Es sieht aus wie ein Einzeller und doch hat es Augen und das ist so arg... so... arghe!"
+                }
+            ]
+        }
+    ]
+}

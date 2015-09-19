@@ -1,0 +1,37 @@
+{
+    "skins": [
+        { 
+            "filename": "npcchat1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Old Man Tom"
+        },
+        {
+            "name": "Fred the Librarian"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Halloechen junger Trainer!"
+                },
+                {
+                    "text": "Als ich in deinem Alter war, hatte ich ein wunderschoenes kleines Bisasam."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Meinst du wirklich du solltest mit Pokemon abhaengen?"
+                },
+                {
+                    "text": "Die sind so gruselig."
+                }
+            ]
+        }
+    ]
+}

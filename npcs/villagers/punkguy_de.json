@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "punkguy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sven"
+        },
+        {
+            "name": "Eugene"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Donny"
+        },
+        {
+            "name": "Spike"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich war letztes Wochenende auf einem Konzert. Wir tanzten und schubsten zu Metall im Moshpit!"
+                },
+                {
+                    "text": "Kampf Pokemon sollten dort allerdings nicht erlaubt sein."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Gefaellt dir meine Jacke? Ist aus echtem Miltankleder."
+                },
+                {
+                    "text": "Vom Typ Normal zum Typ Punk ist eine echte Verbesserung, mann."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich bin kein boeser Bub. Sieh, Ich mag mein sleima gerne."
+                },
+                {
+                    "text": "Manchmal lass ich sie auf meinem Kopf sitzen. Das riecht furchtbar, aber sieht echt laessig aus."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich moechte ein par Kumpels zusammenkriegen, die sich nicht um die Regeln scheren..."
+                },
+                {
+                    "text": "Um dann einen alle gegen alle Pokemon Kampf zu starten."
+                }
+            ]
+        }
+    ]
+}
