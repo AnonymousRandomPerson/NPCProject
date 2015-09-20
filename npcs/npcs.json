@@ -43,42 +43,78 @@
             "name": "supernerd"
         }
     ],
-    "trainers": [
-        {
-            "name": "bugcatcher"
-        },
-        {
-            "name": "bugmaniac"
-        },
-        {
-            "name": "femalerocketgrunt"
-        },
-        {
-            "name": "firebreather"
-        },
-        {
-            "name": "fisherman"
-        },
-        {
-            "name": "lass"
-        },
-        {
-            "name": "ornithologist"
-        },
-        {
-            "name": "pokefan"
-        },
-        {
-            "name": "pokefangirl"
-        },
-        {
-            "name": "richboy"
-        },
-        {
-            "name": "swimmer"
-        },
-        {
-            "name": "youngster"
-        }
-    ]
+    "trainers": {
+        "types": [
+            {
+                "name": "Steve",
+                "textures": [ "scottish", "santa", "suit", "prisoner", "Custom_RP", "Custom_PN" ]
+            },
+            {
+                "name": "BugCatcher",
+                "textures": [ "bugcatcher1", "bugcatcher2", "bugcatcher3", "bugcatcher4" ]
+            },
+            {
+                "name": "BugManiac",
+                "textures": [ "bugcatchergirl" ]
+            },
+            {
+                "name": "FireBreather",
+                "textures": [ "firebreather1", "firebreather2", "firebreather3", "firebreather4", "firebreather5" ]
+            },
+            {
+                "name": "Youngster",
+                "textures": [ "youngster1", "youngster2", "youngster3", "youngster4" ]
+            },
+            {
+                "name": "Lass",
+                "textures": [ "youngstergirl", "youngstergirl2" ]
+            },
+            {
+                "name": "Pokemaniac",
+                "textures": [ "pokemaniac1", "pokemaniac2", "pokemaniac3" ]
+            },
+            {
+                "name": "Pokemaniacgirl",
+                "textures": [ "pokemaniacgirl1", "pokemaniacgirl2" ]
+            }
+        ],
+        "list": [
+            {
+                "name": "bugcatcher"
+            },
+            {
+                "name": "bugmaniac"
+            },
+            {
+                "name": "femalerocketgrunt"
+            },
+            {
+                "name": "firebreather"
+            },
+            {
+                "name": "fisherman"
+            },
+            {
+                "name": "lass"
+            },
+            {
+                "name": "ornithologist"
+            },
+            {
+                "name": "pokefan"
+            },
+            {
+                "name": "pokefangirl"
+            },
+            {
+                "name": "richboy"
+            },
+            {
+                "name": "swimmer"
+            },
+            {
+                "name": "youngster"
+            }
+        ]
+    }
 }
