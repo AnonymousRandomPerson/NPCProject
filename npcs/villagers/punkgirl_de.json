@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "punkgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Nomy"
+        },
+        {
+            "name": "Avril"
+        },
+        {
+            "name": "Joan"
+        },
+        {
+            "name": "Penelope"
+        },
+        {
+            "name": "Cherie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Meine Haare sind schwer zu ertragen, aber ich komme schon damit klar."
+                },
+                {
+                    "text": "Als Punk muss man so manches Opfer bringen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Nieder mit dem System; wer benoetigt schon Pokebaelle!"
+                },
+                {
+                    "text": "Ich fange meine Pokemon allein mit den Haenden!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "An mein Armband muessen mehr Stacheln."
+                },
+                {
+                    "text": "Du hast nicht zufaellig ein Sandamer?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Meinst du ich kann meinem Pummeluff beibringen Punk Rock zu singen?"
+                },
+                {
+                    "text": "Moeglicherweise kann ich es auch noch faerben. Yeah, geil."
+                }
+            ]
+        }
+    ]
+}

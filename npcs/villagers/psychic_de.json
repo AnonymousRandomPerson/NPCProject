@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Tetsuo"
+        },
+        {
+            "name": "Neo"
+        },
+        {
+            "name": "Luke"
+        },
+        {
+            "name": "Raz"
+        },
+        {
+            "name": "Nate"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Nein, Ich gebe keine Vorstellung."
+                },
+                {
+                    "text": "Psychische Kraefte sind ein Geschenk, welches nach bestem Gewissen einzusetzen ist und nicht irgendein billiger Partytrick."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Dein Geist ist voller... boa."
+                },
+                {
+                    "text": "Nein, vergiss es, Ich lass dich alleine, leb wohl."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Nichts ist unmoeglich fuer einen wachen Verstand."
+                },
+                {
+                    "text": "Mit bloss einem Gedanken, kann ich Pokebaelle jonglieren, nur ist es ziemlich unnuetz."
+                }
+            ]
+        }
+    ]
+}

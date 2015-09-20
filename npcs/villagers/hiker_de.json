@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hiker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Hermann"
+        },
+        {
+            "name": "Zsolt"
+        },
+        {
+            "name": "Gaston"
+        },
+        {
+            "name": "Willi"
+        },
+        {
+            "name": "Marek"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich bleibe nur kurz im Dorfe."
+                },
+                {
+                    "text": "Ich brauche Rast und Vorraete, dann setze ich meine Wanderung fort!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Gute Schuhe sind die Spitze beim Bergsteigen."
+                },
+                {
+                    "text": "Spitzenbergsteigen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wenn du immer dein Gemuese isst und einen grossen Rucksack wie meinen rumtraegst, dann wirst du genauso gross und stark wie ich!"
+                },
+                {
+                    "text": "Das Ringen mit Ursaring in den Bergen koennte auch dazu beitragen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Vor einigen Wochen kletterte ich einen steilen Hang hinauf und eins meiner Pokemon hat statt Kraxler Steinhagel eingesetzt."
+                },
+                {
+                    "text": "Ich versenkte es im Fluss mit Kleinstein als Beschwerung."
+                }
+            ]
+        }
+    ]
+}
