@@ -1,0 +1,117 @@
+{
+    "data": {
+        "trainerType": "BugManiac",
+        "minLevel": 16,
+        "maxLevel": 24,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 24
+    },
+    "pokemon": [
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Beedrill"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Paras"
+        }
+    ],
+    "names": [
+        {
+            "name": "Rydia"
+        },
+        {
+            "name": "Crystal"
+        },
+        {
+            "name": "Megan"
+        },
+        {
+            "name": "Natalie"
+        },
+        {
+            "name": "Agatha"
+        },
+        {
+            "name": "Alexandra"
+        },
+        {
+            "name": "Brooke"
+        },
+        {
+            "name": "Marlee"
+        },
+        {
+            "name": "Julia"
+        },
+        {
+            "name": "Stella"
+        },
+        {
+            "name": "Tami"
+        },
+        {
+            "name": "Elsa"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Ich liebe Kaefer!",
+            "win": "Ich sagte ihnen doch, Kaefer Pokemon sind die Besten!",
+            "lose": "Kaefer sind trotzdem toll!"
+        },
+        {
+            "opening": "Haben sie schon mal ein Pudox gesehen? Ich liebe sie.",
+            "win": "Ich glaube ich seh eins. Danke fuer den Kampf.",
+            "lose": "Ach ja. Wenn sie eins sehen, lassen sie es mich wissen."
+        },
+        {
+            "opening": "Kaefer Pokemon sind so Wundervoll. Ich wuerde gerne sehen wie Sie versuchen meine zu besiegen!",
+            "win": "Sehe die Schoenheit der Kaefer.",
+            "lose": "Sie moegen mich besiegt haben, aber es waren meine Kaefer Pokemon, die wahrhaft glaenzten."
+        },
+        {
+            "opening": "Lasst uns kaempfen. Meine Kaefer Pokemon muessen staerker werden.",
+            "win": "Es scheint als seien meine Kaefer Pokemon staerker als ich dachte.",
+            "lose": "Ich haette wissen muessen, dass meine Pokemon zu schwach waren."
+        },
+        {
+            "opening": "Mit viel Langmut hab ich meine Kampfgruppe trainiert... Legen wir Los!",
+            "win": "Scheint als haette sich das harte Training ausgezahlt.",
+            "lose": "Wie konnte ich nur nach so viel Training verlieren?"
+        },
+        {
+            "opening": "Der Kampf ist eine ernste Sache. Lasst uns diesen nicht zu ernst nehmen!",
+            "win": "Das war amuesant. Lasst uns eines Tages nochmal kaempfen.",
+            "lose": "Das war lustig. Danke fuer den Kampf."
+        },
+        {
+            "opening": "Wenn ich gewinne, musst du mir deine Kaefer Pokemon geben!",
+            "win": "Haha, gib sie her!",
+            "lose": "Glaub ja nicht du bekommst jetzt meine!"
+        },
+        {
+            "opening": "KAEFER!",
+            "win": "KAEFER dominieren!",
+            "lose": "Warum sind Kaefer Pokemon so schwach?"
+        },
+        {
+            "opening": "Es gibt keine guten Kaefer Pokemon! Sollte ich verlieren so werfe ich meine in die Muelltone und starte von vorn!",
+            "win": "Ich brauch kein neues Team! Dieses ist fantastisch!",
+            "lose": "Das wars! Die Muelltonne wartet!"
+        },
+        {
+            "opening": "zKaefer, zKaeferz, Kaeferz!",
+            "win": "Brauche  mehr  zKaeferz!",
+            "lose": "Brauche  mehr  zKaeferz!"
+        }
+    ]
+}

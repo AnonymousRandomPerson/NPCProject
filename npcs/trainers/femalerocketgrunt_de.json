@@ -1,0 +1,159 @@
+{
+    "data": {
+        "trainerType": "FemaleRocketGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jessie"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Butch"
+        },
+        {
+            "name": "Cassidy"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Paul"
+        },
+        {
+            "name": "Chazz"
+        },
+        {
+            "name": "Jayden"
+        },
+        {
+            "name": "Zain"
+        },
+        {
+            "name": "Attila"
+        },
+        {
+            "name": "Hun"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "Oakley"
+        },
+        {
+            "name": "Gideon"
+        },
+        {
+            "name": "Rolf"
+        },
+        {
+            "name": "Jessie"
+        },
+        {
+            "name": "Cassidy"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Attila"
+        },
+        {
+            "name": "Hun"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "Oakley"
+        },
+        {
+            "name": "Gideon"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "He Kindchen, gib mir deine Pokemon!",
+            "win": "Ich habe gewonnen. Gib mir jetzt deine Pokemon.",
+            "lose": "Arghe, Wie konntest du mich schlagen!"
+        },
+        {
+            "opening": "Was hast du hier zu suchen?!",
+            "win": "RRrraaaauuuuuss.",
+            "lose": "Och noe, Verloren!"
+        },
+        {
+            "opening": "Dies ist eine wichtige Operation, wir dulden hier keine Schnueffler!",
+            "win": "Verschwinde jetzt!",
+            "lose": "Unmoeglich!"
+        },
+        {
+            "opening": "Bereit fuer Aerger!",
+            "win": "Und es wird noch aerger.",
+            "lose": "Pokemon sind Schrott!"
+        },
+        {
+            "opening": "Pokemon sind Werkzeuge. Was sollte es bringen sie gut zu behandeln?",
+            "win": "Siehste? Unnuetz.",
+            "lose": "Unnuetze Dinger!"
+        },
+        {
+            "opening": "Wir sind Team Rocket!",
+            "win": "Wer sind Sie?",
+            "lose": "Was wollen Sie hier?"
+        },
+        {
+            "opening": "Was denkst du was du hier tust?",
+            "win": "Geh jetzt!",
+            "lose": "Geh bevor ichs dem Chef erzaehle!"
+        },
+        {
+            "opening": "Geh mir aus den Augen!",
+            "win": "Ich sagte GEH!",
+            "lose": "Nicht moeglich!"
+        },
+        {
+            "opening": "Du hast Mumm mich herauszufordern!",
+            "win": "Du wirst niemals gegen mich siegen.",
+            "lose": "Du siegtest!? NeinNeinNeinNeinNein!"
+        },
+        {
+            "opening": "Deine Pokemon werden mir auf dem Schwarzmarkt ein nettes Suemmchen erbringen!",
+            "win": "Deine Pokemon sind nichts wert!",
+            "lose": "Sie scheinen mehr wert zu sein als ich dachte!"
+        }
+    ]
+}

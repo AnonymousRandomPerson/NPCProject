@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "pokefan_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Amadeus"
+        },
+        {
+            "name": "Ren"
+        },
+        {
+            "name": "Kealoha"
+        },
+        {
+            "name": "Carwyn"
+        },
+        {
+            "name": "Lubos"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Die neueste Ausgabe von Kussilla Aktuell kommt heute heraus!"
+                },
+                {
+                    "text": "Ich brauch sie! Ich werde mich besser beeilen sie zu holen bevor sie ausverkauft ist!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich habe gerade eine Auktion fuer ein Pokeplusch Paket gewonnen."
+                },
+                {
+                    "text": "Bald ist meine Sammlung komplett!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich kanns kaum erwarten, dass mein Kind ein wenig groesser wird."
+                },
+                {
+                    "text": "Ich habe ihm ein Pikachu Kostuem angefertigt aber es sitzt noch ein wenig zu locker."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Meine Frau und ich lieben Pokemon ueber alles."
+                },
+                {
+                    "text": "Manche Leute nervt es wenn wir ueber Pokemon zu reden anfangen. Pah!"
+                }
+            ]
+        }
+    ]
+}
