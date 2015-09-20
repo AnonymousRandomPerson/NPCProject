@@ -151,8 +151,8 @@
             "lose": "¡¿Me has ganado!? ¡Noooooo!"
         },
         {
-            "opening": "¡Tus Pokémon serán vendidos muy baratos en el mercado negro!",
-            "win": "¡Tus Pokémon son terribles!",
+            "opening": "¡Tus Pokémon van a ser vendidos muy baratos en el mercado negro!",
+            "win": "¡Tus Pokémon son muy malos!",
             "lose": "¡Puede que merezcan más la pena de lo que pensaba!"
         },
     ]
