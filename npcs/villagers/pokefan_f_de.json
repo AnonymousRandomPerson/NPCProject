@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "pokefan_f.png"
@@ -28,7 +28,7 @@
                     "text": "Ich liebe Zubat SO SEHR."
                 },
                 {
-                    "text": "Manchmal wage ich mich in Hoehlen nur um hunderte Zubat-Umarmungen zu bekommen!"
+                    "text": "Manchmal wage ich mich in Höhlen nur um hunderte Zubat-Umarmungen zu bekommen!"
                 }
             ]
         },
@@ -38,14 +38,14 @@
                     "text": "Ich habe mal einen Wettkampf gewonnen."
                 },
                 {
-                    "text": "Meine Pokemon sind offiziell die allerniedlichsten!"
+                    "text": "Meine Pokémon sind offiziell die allerniedlichsten!"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Siehst du den Anstecker auf meine Jacke? Der ist vom offiziellen Weltpokemonfreundeklubladen..."
+                    "text": "Siehst du den Anstecker auf meine Jacke? Der ist vom offiziellen Weltpokémonfreundeklubladen..."
                 },
                 {
                     "text": "Ich versuchte einen Eigenen zu machen aber der war nicht gut."
@@ -55,10 +55,10 @@
         {
             "lines": [
                 {
-                    "text": "Ich bin Vorsitzende im lokalen Pokemonfreundeklub."
+                    "text": "Ich bin Mitglied im lokalen Pokémonfreundeklub."
                 },
                 {
-                    "text": "Du solltest beitreten, du scheinst deine Pokemon zu lieben."
+                    "text": "Du solltest beitreten, du scheinst deine Pokémon zu lieben."
                 }
             ]
         }
