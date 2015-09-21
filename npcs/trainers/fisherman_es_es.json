@@ -7,6 +7,14 @@
         "maxPartyPokemon": 6,
         "winnings": 36
     },
+    "models":[
+        {
+            "name": "Fisherman"
+        },
+        {
+            "name": "Fisherman2"
+        }
+    ],
     "pokemon": [
         {
             "name": "Squirtle"
