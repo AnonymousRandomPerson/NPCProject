@@ -7,6 +7,9 @@
             "name": "artist"
         },
         {
+            "name": "battlegirl"
+        },
+        {
             "name": "blackbelt"
         },
         {
@@ -19,6 +22,9 @@
             "name": "hiker"
         },
         {
+            "name": "lass"
+        },
+        {
             "name": "madame"
         },
         {
@@ -28,6 +34,9 @@
             "name": "pokefan_m"
         },
         {
+            "name": "policeman"
+        },
+        {
             "name": "psychic"
         },
         {
@@ -35,6 +44,24 @@
         },
         {
             "name": "punkguy"
+        },
+        {
+            "name": "rancher"
+        },
+        {
+            "name": "ranger_f"
+        },
+        {
+            "name": "ranger_m"
+        },
+        {
+            "name": "richboy"
+        },
+        {
+            "name": "sailor"
+        },
+        {
+            "name": "scaryman"
         },
         {
             "name": "scientist_f"
@@ -67,7 +94,7 @@
             },
             {
                 "name": "Lass",
-                "textures": [ "youngstergirl", "youngstergirl2" ]
+                "textures": [ "youngstergirl", "youngstergirl2", "lass" ]
             },
             {
                 "name": "Pokemaniac",
