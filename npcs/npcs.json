@@ -55,7 +55,7 @@
             },
             {
                 "name": "BugManiac",
-                "textures": [ "bugcatchergirl" ]
+                "textures": [ "bugcatchergirl ]
             },
             {
                 "name": "FireBreather",
@@ -76,7 +76,11 @@
             {
                 "name": "Pokemaniacgirl",
                 "textures": [ "pokemaniacgirl1", "pokemaniacgirl2" ]
-            }
+            },
+            {
+                "name": "Swimmer",
+                "textures": [ "swimmer_m" ]
+            }    
         ],
         "list": [
             {

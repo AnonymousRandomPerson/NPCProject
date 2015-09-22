@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "psychic.png"
@@ -28,7 +28,7 @@
                     "text": "Nein, Ich gebe keine Vorstellung."
                 },
                 {
-                    "text": "Psychische Kraefte sind ein Geschenk, welches nach bestem Gewissen einzusetzen ist und nicht irgendein billiger Partytrick."
+                    "text": "Psychische Kräfte sind ein Geschenk, welches nach bestem Gewissen einzusetzen ist und nicht irgendein billiger Taschenspielertrick."
                 }
             ]
         },
@@ -45,10 +45,10 @@
         {
             "lines": [
                 {
-                    "text": "Nichts ist unmoeglich fuer einen wachen Verstand."
+                    "text": "Nichts ist unmöglich für einen wachen Verstand."
                 },
                 {
-                    "text": "Mit bloss einem Gedanken, kann ich Pokebaelle jonglieren, nur ist es ziemlich unnuetz."
+                    "text": "Mit bloss einem Gedanken, kann ich Pokébälle jonglieren, nur ist es ziemlich unnütz."
                 }
             ]
         }

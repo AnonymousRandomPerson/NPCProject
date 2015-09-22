@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "hiker.png"
@@ -28,7 +28,7 @@
                     "text": "Ich bleibe nur kurz im Dorfe."
                 },
                 {
-                    "text": "Ich brauche Rast und Vorraete, dann setze ich meine Wanderung fort!"
+                    "text": "Ich brauche Rast und Vorräte, dann setze ich meine Wanderung fort!"
                 }
             ]
         },
@@ -38,17 +38,17 @@
                     "text": "Gute Schuhe sind die Spitze beim Bergsteigen."
                 },
                 {
-                    "text": "Spitzenbergsteigen."
+                    "text": "Spitzenbergsteiger - ein Schuh für alle Fälle."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Wenn du immer dein Gemuese isst und einen grossen Rucksack wie meinen rumtraegst, dann wirst du genauso gross und stark wie ich!"
+                    "text": "Wenn du immer dein Gemüse isst und einen großen Rucksack wie meinen rumträgst, dann wirst du genauso groß und stark wie ich!"
                 },
                 {
-                    "text": "Das Ringen mit Ursaring in den Bergen koennte auch dazu beitragen."
+                    "text": "Das Ringen mit Ursaring in den Bergen könnte auch dazu beitragen."
                 }
             ]
         },

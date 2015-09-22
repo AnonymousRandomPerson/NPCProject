@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "Swimmer",
         "minLevel": 13,
@@ -142,24 +142,24 @@
     ],
     "chat": [
         {
-            "opening": "Gestattet mir meine neuen Wasser Pokemon auszuprobieren!",
-            "win": "Sie sind grossartig!",
-            "lose": "Sie benoetigen etwas Uebung!"
+            "opening": "Gestattet mir meine neuen Wasser Pokémon auszuprobieren!",
+            "win": "Sie sind großartig!",
+            "lose": "Sie benötigen etwas Übung!"
         },
         {
-            "opening": "Ich schwimme wann ich moechte!",
+            "opening": "Ich schwimme wann ich möchte!",
             "win": "Das Schwimmen machte dich stark wie mich!",
-            "lose": "Womoeglich schwimme ich eine Runde um meine Niederlage zu vergessen!"
+            "lose": "Womöglich schwimme ich eine Runde um meine Niederlage zu vergessen!"
         },
         {
-            "opening": "Muss mich aufwaermen bevor ich schwimme!",
+            "opening": "Muss mich aufwärmen bevor ich schwimme!",
             "win": "Mein erster Sieg!",
             "lose": "Ich werde niemals einen Kampf auf See gewinnen!"
         },
         {
-            "opening": "Sind Wasser-Pokemon nicht herrlich?",
-            "win": "Hol dir Wasser-Pokemon, wenn du stark sein willst!",
-            "lose": "Deine Pokemon sind zu stark!"
+            "opening": "Sind Wasser-Pokémon nicht herrlich?",
+            "win": "Hol dir Wasser-Pokémon, wenn du stark sein willst; Karpador kostet nur 500 Pokédollar!",
+            "lose": "Deine Pokémon sind zu stark!"
         }
     ]
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "BugCatcher",
         "minLevel": 8,
@@ -196,24 +196,24 @@
     ],
     "chat": [
         {
-            "opening": "Ich liebe Kaefer!",
-            "win": "Ich sagte dir doch, Kaefer-Pokemon sind die Besten!",
-            "lose": "Kaefer sind trotzdem toll!"
+            "opening": "Ich liebe Käfer!",
+            "win": "Ich sagte dir doch, Käfer-Pokémon sind die Besten!",
+            "lose": "Käfer sind trotzdem toll!"
         },
         {
             "opening": "Hast du schon mal ein Pudox gesehen? Ich liebe sie.",
-            "win": "Ich glaube ich seh eins. Danke fuer den Kampf.",
+            "win": "Ich glaube ich seh eins. Danke für den Kampf.",
             "lose": "Ach ja. Wenn du eins siehst, lass es mich wissen."
         },
         {
-            "opening": "Kaefer-Pokemon sind so Wundervoll. Ich wuerde gerne sehen wie du versuchst meine zu besiegen!",
-            "win": "Siehst du die Schoenheit meiner Kaefer?",
-            "lose": "Du magst mich besiegt haben, aber meine Kaefer-Pokemon waren ziemlich cool."
+            "opening": "Käfer-Pokémon sind so Wundervoll. Ich würde gerne sehen wie du versuchst meine zu besiegen!",
+            "win": "Siehst du die Schönheit meiner Käfer?",
+            "lose": "Du magst mich besiegt haben, aber meine Käfer-Pokémon waren ziemlich cool."
         },
         {
-            "opening": "Lass uns kaempfen. Meine Kaefer-Pokemon muessen staerker werden!",
-            "win": "Meine Kaefer-Pokemon sind staerker als ich dachte!",
-            "lose": "Meine Kaefer sind wieder nicht staerker geworden."
+            "opening": "Lass uns kämpfen. Meine Käfer-Pokémon müssen stärker werden!",
+            "win": "Meine Käfer-Pokémon sind stärker als ich dachte!",
+            "lose": "Meine Käfer sind wieder nicht stärker geworden."
         },
         {
             "opening": "Mit viel Geduld hab ich mein Team trainiert... Los Gehts!",
@@ -221,34 +221,34 @@
             "lose": "Wie konnte ich nur nach so viel Training verlieren?"
         },
         {
-            "opening": "Pokemon Kaempfe werden immer so ernst genommen. Lass uns nur zum Spass kaempfen!",
-            "win": "Das hat Spass gemacht. Lasst uns eines Tages nochmal kaempfen.",
-            "lose": "Das war lustig. Danke fuer den Kampf."
+            "opening": "Pokémon Kämpfe werden immer so ernst genommen. Lass uns nur zum Spaß kämpfen!",
+            "win": "Das hat Spaß gemacht. Lass uns eines Tages nochmal kämpfen.",
+            "lose": "Das war lustig. Danke für den Kampf."
         },
         {
-            "opening": "Sollte ich gewinnen, so muesst ihr mir eure Kaefer-Pokemon aushaendigen!",
-            "win": "Hehe, gebt sie her!",
-            "lose": "Glaubt ja nicht ihr bekommt nun meine!"
+            "opening": "Sollte ich gewinnen, so musst du mir deine Käfer-Pokémon geben!",
+            "win": "Hehe, gib sie her!",
+            "lose": "Glaub ja nicht du bekommst nun meine!"
         },
         {
-            "opening": "KAEFER!",
-            "win": "KAEFER siegen!",
-            "lose": "Warum sind Kaefer-Pokemon nur Muell?"
+            "opening": "KÄFER!",
+            "win": "KÄFER dominieren!",
+            "lose": "Warum sind Käfer-Pokémon nur Müll?"
         },
         {
-            "opening": "Es gibt keine guten Kaefer-Pokemon! Sollte ich verlieren so werfe ich meine in die Muelltone und starte von vorn!",
-            "win": "Ich muss mich geirrt haben! Alle Kaefer-Pokemon sind Klasse! Ich brauch kein neues Team! Dieses ist fantastisch!",
-            "lose": "Das wars! Die Muelltonne wartet!"
+            "opening": "Es gibt keine guten Käfer-Pokémon! Sollte ich verlieren so werfe ich meine in die Mülltone und starte von vorn!",
+            "win": "Ich muss mich geirrt haben! Alle Käfer-Pokémon sind Klasse! Ich brauch kein neues Team! Dieses ist fantastisch!",
+            "lose": "Das wars! Die Mülltonne wartet!"
         },
         {
-            "opening": "Gruess dich junger Bursche!",
+            "opening": "Grüss dich junger Bursche!",
             "win": "Ich schlug dich! Ha ha!",
-            "lose": "Unmoeglich, Ich hatte dich doch schon fast besiegt..."
+            "lose": "Unmöglich, ich hatte dich doch schon fast besiegt..."
         },
         {
             "opening": "Wurm ich dich?",
-            "win": "Kaefer sind die besten.",
-            "lose": "Nun faengst du an mich zu wurmen..."
+            "win": "Käfer sind die besten.",
+            "lose": "Nun fängst du an mich zu wurmen..."
         }
     ]
 }

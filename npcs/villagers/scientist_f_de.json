@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "scientist_f.png"
@@ -28,44 +28,44 @@
                     "text": "Fossile sind faszinierend."
                 },
                 {
-                    "text": "Wusstest du, dass man sie in tiefen Hoehlen im Kies finden kann?"
+                    "text": "Wusstest du, dass man sie in tiefen Höhlen im Kies finden kann?"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Fossile sind faszinierend."
+                    "text": "Fossile zu finden ist ne schwere Sache."
                 },
                 {
-                    "text": "Wusstest du, dass man sie besonders gut am Meeresboden findet?"
+                    "text": "Aber wenn man ein Pokémon mit Taucher hat, findet man schnell welche."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Die meisten sagen man koenne keine Fossilien beleben, diese Wissenschafft funktioniere nicht."
+                    "text": "Die meisten sagen man könne keine Fossilien beleben, diese Wissenschafft funktioniere nicht."
                 },
                 {
-                    "text": "Was wissen die schon ueber Wissenschafft? Eines Tages werde ich es ihnen allen zeigen."
+                    "text": "Was wissen die schon über Wissenschafft? Eines Tages werde ich es ihnen allen zeigen."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Ich fange an meine Wahl des Kleids als Kleidung zu ueberdenken."
+                    "text": "Ich fange an meine Wahl des Kleids als Kleidung zu überdenken."
                 },
                 {
-                    "text": "Was wenn ich Saeure draufschuette? Mit meinem Laborkittel waere das nicht so schlimm."
+                    "text": "Was wenn ich Säure draufschütte? Mit meinem Laborkittel wäre das nicht so schlimm."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Die Anatomie von Monozyto ueberwaeltigt mich."
+                    "text": "Die Anatomie von Monozyto überwältigt mich."
                 },
                 {
                     "text": "Es sieht aus wie ein Einzeller und doch hat es Augen und das ist so arg... so... arghe!"
