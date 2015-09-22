@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "RichBoy",
         "minLevel": 25,
@@ -55,7 +55,7 @@
     ],
     "chat": [
         {
-            "opening": "Seid gegruesst.",
+            "opening": "Seid gegrüßt.",
             "win": "Lebt wohl.",
             "lose": "Lebt wohl."
         },
@@ -65,9 +65,9 @@
             "lose": "Bis wir uns dann wiedersehen."
         },
         {
-            "opening": "Wie laeuft's?",
-            "win": "Bis zum naechsten Mal.",
-            "lose": "Bis zum naechsten Mal."
+            "opening": "Wie läuft's?",
+            "win": "Bis zum nächsten Mal.",
+            "lose": "Bis zum nächsten Mal."
         }
     ]
 }
