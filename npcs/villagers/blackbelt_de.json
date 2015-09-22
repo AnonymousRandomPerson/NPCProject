@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "blackbelt.png"
@@ -38,14 +38,14 @@
                     "text": "Huah! Sho! OooooooOOOOOOOOO!"
                 },
                 {
-                    "text": "Bist du jetzt beeindruckt? Habe ich dein Herz mit Ehrfurcht erfuellt?"
+                    "text": "Bist du jetzt beeindruckt? Habe ich dein Herz mit Ehrfurcht erfüllt?"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Mit meinem Koennen, ist alles eine Waffe."
+                    "text": "Mit meinem Können, ist alles eine Waffe."
                 },
                 {
                     "text": "Ich kann mit meinem kleinen Finger Horden von Rattikarl abwehren."
@@ -55,10 +55,10 @@
         {
             "lines": [
                 {
-                    "text": "Ich wurde von Maschoks aufgezogen."
+                    "text": "Ich wurde von Maschoks großgezogen."
                 },
                 {
-                    "text": "Wenn es Machomei gewesen waeren, waere ich womoeglich heute noch staerker."
+                    "text": "Wenn es Machomei gewesen wären, wäre ich womöglich heute noch stärker."
                 }
             ]
         }

@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         {
             "filename": "artist.png"
@@ -28,14 +28,14 @@
                     "text": "Ah, dieses Dorf ist so inspirierend."
                 },
                 {
-                    "text": "Haett ich nur meine Staffelei dabei; Mein Kopf summt vor lauter kuenstlerischer Energie!"
+                    "text": "Hätt ich nur meine Staffelei dabei; Mein Kopf summt vor lauter künstlerischer Energie!"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Nur weil ich eine Vorliebe fuer traditionelle Malkunst habe, heisst das nicht, dass ich Porygon nicht mag."
+                    "text": "Nur weil ich eine Vorliebe für traditionelle Malkunst habe, heißt das nicht, dass ich Porygon nicht mag."
                 },
                 {
                     "text": "Seine scharfen Kanten erinnern mich an kubiste Kunst."
@@ -45,17 +45,17 @@
         {
             "lines": [
                 {
-                    "text": "Ich bin froh, dass es Pokemon in allen erdenklichen Farben gibt."
+                    "text": "Ich bin froh, dass es Pokémon in allen erdenklichen Farben gibt."
                 },
                 {
-                    "text": "Lebhaft oder entsaettigt, dunkel oder hell, es ist wie eine Explosion der Farbtoene."
+                    "text": "Lebhaft oder entsättigt, dunkel oder hell, es ist wie eine Explosion der Farbtöne."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Ich hab von dieser Team Aqua und Team Magma Rivalisierung gehoert..."
+                    "text": "Ich hab von dieser Team Aqua und Team Magma Rivalisierung gehört..."
                 },
                 {
                     "text": "... und bin der Meinung, dass da Gelb fehlt. Es sollte ein gelbes Team geben."

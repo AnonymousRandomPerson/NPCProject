@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "engineer.png"
@@ -25,7 +25,7 @@
         {
             "lines": [
                 {
-                    "text": "Mit meiner Ausruestung bin ich vor elektrischen Schlaegen geschuetzt!"
+                    "text": "Mit meiner Ausrüstung bin ich vor elektrischen Schlägen geschützt!"
                 },
                 {
                     "text": "Das bedeutet, dass ich wilde Pikachu ohne Angst streicheln kann."
@@ -55,7 +55,7 @@
         {
             "lines": [
                 {
-                    "text": "Nein, Ich bin dir nicht boese. Ich sehe immer so aus."
+                    "text": "Nein, Ich bin dir nicht böse. Ich sehe immer so aus."
                 },
                 {
                     "text": "So sehe ich immer aus! Mein neutrales Gesicht. Hast du ein Problem damit?"
