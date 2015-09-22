@@ -103,6 +103,22 @@
             {
                 "name": "Pokemaniacgirl",
                 "textures": [ "pokemaniacgirl1", "pokemaniacgirl2" ]
+            },
+            {
+                "name": "Policeman",
+                "textures": [ "policeman" ]
+            },
+            {
+                "name": "Rancher",
+                "textures": [ "rancher" ]
+            },
+            {
+                "name": "RichBoy",
+                "textures": [ "richboy" ]
+            },
+            {
+                "name": "ScientistWoman",
+                "textures": [ "scientistwoman" ]
             }
         ],
         "list": [
@@ -128,13 +144,22 @@
                 "name": "ornithologist"
             },
             {
-                "name": "pokefan"
+                "name": "pokemaniac"
             },
             {
-                "name": "pokefangirl"
+                "name": "policeman"
+            },
+            {
+                "name": "rancher"
+            },
+            {
+                "name": "pokemaniacgirl"
             },
             {
                 "name": "richboy"
+            },
+            {
+                "name": "scientistwoman"
             },
             {
                 "name": "swimmer"
