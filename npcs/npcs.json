@@ -124,9 +124,13 @@
                 "name": "ScientistWoman",
                 "textures": [ "scientist_f" ]
             },
-			{
+            {
                 "name": "Swimmer",
                 "textures": [ "swimmer_m" ]
+            },
+            {
+                "name": "Fisherman",
+                "textures":[ "fisherman" ]
             }
         ],
         "list": [
