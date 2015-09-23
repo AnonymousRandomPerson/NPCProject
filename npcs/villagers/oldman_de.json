@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "npcchat1.png"
@@ -6,30 +6,44 @@
     ],
     "names": [
         {
-            "name": "Old Man Tom"
+            "name": "Der alte Tom"
         },
         {
-            "name": "Fred the Librarian"
+            "name": "Fred der Bibliothekar"
+        },
+        {
+            "name": "Onkel Göbels"
         }
     ],
     "chat": [
         {
             "lines": [
                 {
-                    "text": "Halloechen junger Trainer!"
+                    "text": "Hallöchen junger Trainer!"
                 },
                 {
-                    "text": "Als ich in deinem Alter war, hatte ich ein wunderschoenes kleines Bisasam."
+                    "text": "Als ich in deinem Alter war, hatte ich ein wunderschönes kleines Bisasam."
+                }
+            ]
+        },
+
+        {
+            "lines": [
+                {
+                    "text": "Meinst du wirklich du solltest mit Pokemon abhängen?"
+                },
+                {
+                    "text": "Die sind so gruselig."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Meinst du wirklich du solltest mit Pokemon abhaengen?"
+                    "text": "Wie bitte, was ?"
                 },
                 {
-                    "text": "Die sind so gruselig."
+                    "text": "Jetzt antwortet er nicht einmal; unhöfliche Leute gibt es."
                 }
             ]
         }

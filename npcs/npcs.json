@@ -118,7 +118,11 @@
             },
             {
                 "name": "ScientistWoman",
-                "textures": [ "scientistwoman" ]
+                "textures": [ "scientist_f" ]
+            },
+			{
+                "name": "Swimmer",
+                "textures": [ "swimmer_m" ]
             }
         ],
         "list": [

@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "PokeManiacgirl",
         "minLevel": 10,
@@ -295,9 +295,9 @@
     ],
     "chat": [
         {
-            "opening": "Ich liebe meine suessen Pokemon ueber alles! Zeig mir bitte ob du deine Pokemon gut behandelst.",
-            "win": "Du solltest dich wirklich mehr um deine Pokemon kuemmern! Liebe tut ihnen gut!",
-            "lose": "Du musst deine Pokemon genauso sehr lieben wie ich meine!"
+            "opening": "Ich liebe meine süßen Pokémon über alles! Zeig mir bitte ob du deine Pokémon gut erzogen hast.",
+            "win": "Du solltest dich wirklich mehr um deine Pokémon kümmern! Liebe tut ihnen gut!",
+            "lose": "Du musst deine Pokémon genauso sehr lieben wie ich meine!"
         }
     ]
 }
