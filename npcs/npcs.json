@@ -85,6 +85,10 @@
                 "textures": [ "bugcatchergirl" ]
             },
             {
+                "name": "FemaleRocketGrunt",
+                "textures": [ "rocketgruntfemale1", "rocketgruntfemale2", "rocketgruntfemale3", "rocketgruntfemale4", "rocketgruntfemale5", "rocketgruntfemale6" ]
+            },
+            {
                 "name": "FireBreather",
                 "textures": [ "firebreather1", "firebreather2", "firebreather3", "firebreather4", "firebreather5" ]
             },
