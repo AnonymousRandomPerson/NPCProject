@@ -121,7 +121,7 @@
                 "textures": [ "richboy" ]
             },
             {
-                "name": "ScientistWoman",
+                "name": "FemaleScientist",
                 "textures": [ "scientist_f" ]
             },
             {
