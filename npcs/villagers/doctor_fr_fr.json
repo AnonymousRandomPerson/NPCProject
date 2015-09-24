@@ -1,0 +1,66 @@
+﻿{
+    "skins": [
+        { 
+            "filename": "doctor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Le Doctor"
+        },
+        {
+            "name": "Dr.Pilule"
+        },
+        {
+            "name": "Dr.Joubert"
+        },
+        {
+            "name": "Dr.Vacance"
+        },
+        {
+            "name": "Dr.Bien"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Lancer la langue et dîtes, Aah."
+                },
+                {
+                    "text": "Vous semblez up peu malaise. Vous avez besoin d'un tonique."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Alors,vous devrais sortir plus au soleil. Il est bon pour les os,vous savez."
+                },
+                {
+                    "text": "Vous êtes mon prochain malade? C'est tant occupé aujourd'hui."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je n'ai que le plus délicieux de médicine. Je le prépare moi-même!"
+                },
+                {
+                    "text": "J'aurais du étudier devenir docteur de Pokémon. Ça c'est tant plus intéressant."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "N'oubliez pas de prendre vôtre tonique deux foix par jour. Peut-être trois foix. Ou quartre..."
+                },
+                {
+                    "text": "Le meiux tonique par tout, c'est à rire! Saviez-vous des bons blagues?"
+                }
+            ]
+        }
+    ]
+}
