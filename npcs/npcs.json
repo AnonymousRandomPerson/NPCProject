@@ -128,7 +128,7 @@
                 "textures": [ "scientist_f" ]
             },
             {
-                "name": "Scientist",
+                "name": "MaleScientist",
                 "textures": [ "scientist_m" ]
             },
             {
