@@ -7,6 +7,9 @@
             "name": "artist"
         },
         {
+            "name": "battlegirl"
+        },
+        {
             "name": "blackbelt"
         },
         {
@@ -19,6 +22,9 @@
             "name": "hiker"
         },
         {
+            "name": "lass"
+        },
+        {
             "name": "madame"
         },
         {
@@ -28,6 +34,9 @@
             "name": "pokefan_m"
         },
         {
+            "name": "policeman"
+        },
+        {
             "name": "psychic"
         },
         {
@@ -35,6 +44,24 @@
         },
         {
             "name": "punkguy"
+        },
+        {
+            "name": "rancher"
+        },
+        {
+            "name": "ranger_f"
+        },
+        {
+            "name": "ranger_m"
+        },
+        {
+            "name": "richboy"
+        },
+        {
+            "name": "sailor"
+        },
+        {
+            "name": "scaryman"
         },
         {
             "name": "scientist_f"
@@ -58,6 +85,10 @@
                 "textures": [ "bugcatchergirl" ]
             },
             {
+                "name": "FemaleRocketGrunt",
+                "textures": [ "rocketgruntfemale1", "rocketgruntfemale2", "rocketgruntfemale3", "rocketgruntfemale4", "rocketgruntfemale5", "rocketgruntfemale6" ]
+            },
+            {
                 "name": "FireBreather",
                 "textures": [ "firebreather1", "firebreather2", "firebreather3", "firebreather4", "firebreather5" ]
             },
@@ -67,7 +98,7 @@
             },
             {
                 "name": "Lass",
-                "textures": [ "youngstergirl", "youngstergirl2" ]
+                "textures": [ "youngstergirl", "youngstergirl2", "lass" ]
             },
             {
                 "name": "Pokemaniac",
@@ -78,9 +109,29 @@
                 "textures": [ "pokemaniacgirl1", "pokemaniacgirl2" ]
             },
             {
+                "name": "Policeman",
+                "textures": [ "policeman" ]
+            },
+            {
+                "name": "Rancher",
+                "textures": [ "rancher" ]
+            },
+            {
+                "name": "RichBoy",
+                "textures": [ "richboy" ]
+            },
+            {
+                "name": "ScientistWoman",
+                "textures": [ "scientist_f" ]
+            },
+            {
                 "name": "Swimmer",
                 "textures": [ "swimmer_m" ]
-            }    
+            },
+            {
+                "name": "Fisherman",
+                "textures":[ "fisherman" ]
+            }
         ],
         "list": [
             {
@@ -108,10 +159,19 @@
                 "name": "pokemaniac"
             },
             {
+                "name": "policeman"
+            },
+            {
+                "name": "rancher"
+            },
+            {
                 "name": "pokemaniacgirl"
             },
             {
                 "name": "richboy"
+            },
+            {
+                "name": "scientistwoman"
             },
             {
                 "name": "swimmer"
