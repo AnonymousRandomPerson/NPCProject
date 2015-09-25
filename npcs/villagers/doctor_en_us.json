@@ -9,23 +9,23 @@
             "name": "Doc"
         },
         {
-            "name": "Dr.Pill"
+            "name": "Dr. Pill"
         },
         {
-            "name": "Dr.Smith"
+            "name": "Dr. Smith"
         },
         {
-            "name": "Dr.Holiday"
+            "name": "Dr. Holiday"
         },
         {
-            "name": "Dr.Feelbetter"
+            "name": "Dr. Feelbetter"
         }
     ],
     "chat": [
         {
             "lines": [
                 {
-                    "text": "Stick out your tongue and say Aah."
+                    "text": "Stick out your tongue and say aah."
                 },
                 {
                     "text": "You are looking rather pale. Do you need a tonic?"
@@ -48,7 +48,7 @@
                     "text": "I have only the tastiest of medicine. I make it myself!"
                 },
                 {
-                    "text": "I should have studied to become a pokemon doctor. Much more interesting."
+                    "text": "I should have studied to become a Pokémon doctor. Much more interesting."
                 }
             ]
         },
