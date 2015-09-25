@@ -209,7 +209,7 @@
         {
             "opening": "Los bichos son preciosos. ¡Me encantaría ver como intentas ganar a mi equipo!",
             "win": "¿Ves la belleza de los bichos?",
-            "lose": "Puede que me hayas derrotado. pero fueron mis bichos los que de verdad brillaron."
+            "lose": "Puede que me hayas derrotado, pero fueron mis bichos los que de verdad brillaron."
         },
         {
             "opening": "¿Podemos luchar? Necesito hacer más fuerte a mis Pokémon de tipo bicho.",
@@ -222,14 +222,14 @@
             "lose": "¿Cómo he podido perder después de tanto entrenamiento?"
         },
         {
-            "opening": "Luchar es un asunto serio. ¡Hagamos una buena combate!",
+            "opening": "Luchar es un asunto serio. ¡Haremos un buen combate!",
             "win": "Fue divertido. Luchemos de nuevo otro día.",
             "lose": "Fue divertido. Gracias por el combate."
         },
         {
             "opening": "¡Si gano, me tienes que dar tu Pokémon de tipo bicho!",
             "win": "Ja ja, ¡entregamelo!",
-            "lose": "¡No toques mis Pokémon!"
+            "lose": "¡No toques a mis Pokémon!"
         },
         {
             "opening": "¡BICHOS!",
