@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "FemaleRocketGrunt",
         "minLevel": 32,
@@ -7,11 +7,6 @@
         "maxPartyPokemon": 6,
         "winnings": 40
     },
-    "models":[
-        {
-            "name": "FemaleRocketGrunt"
-        }
-    ],
     "pokemon": [
         {
             "name": "Pidgey"
@@ -111,54 +106,54 @@
     ],
     "chat": [
         {
-            "opening": "¡Oye chaval, trae aquí tus Pokémon!",
-            "win": "He ganado. Ahora dame tus Pokémon.",
-            "lose": "¡Urgh, como me has derrotado!"
+            "opening": "He Kindchen, gib mir deine Pokémon!",
+            "win": "Ich habe gewonnen. Gib mir jetzt deine Pokémon.",
+            "lose": "Arghe, Wie konntest du mich schlagen!"
         },
         {
-            "opening": "¡¿Qué estás haciendo aquí?!",
-            "win": "Fuera de aquí.",
-            "lose": "¡Oh no! ¡He perdido!"
+            "opening": "Was hast du hier zu suchen?!",
+            "win": "RRrraaaauuuuuss.",
+            "lose": "Och nö, Verloren!"
         },
         {
-            "opening": "Esta es una operación importante. ¡No queremos que estés husmeando!",
-            "win": "¡Fuera ahora mismo!",
-            "lose": "¡Imposible!"
+            "opening": "Dies ist eine wichtige Operation, wir dulden hier keine Schnüffler!",
+            "win": "Verschwinde jetzt!",
+            "lose": "Unmöglich!"
         },
         {
-            "opening": "¡Preparate para los problemas!",
-            "win": "Y me puedo hacer este doble.",
-            "lose": "¡Los Pokémon son porquería!"
+            "opening": "Bereit für Ärger!",
+            "win": "Und es wird noch ärger.",
+            "lose": "Pokémon sind Schrott!"
         },
         {
-            "opening": "Los Pokémon son herramientas. ¿Cómo se les trata bien?",
-            "win": "¿Ves? Son inútiles.",
-            "lose": "¡Inútiles!"
+            "opening": "Pokémon sind Werkzeuge. Was sollte es bringen sie gut zu behandeln?",
+            "win": "Siehste? Unnütz.",
+            "lose": "Unnütze Dinger!"
         },
         {
-            "opening": "¡Somos el Team Rocket!",
-            "win": "¿Quién eres?",
-            "lose": "¿Por qué estás aquí?"
+            "opening": "Wir sind Team Rocket!",
+            "win": "Wer sind Sie?",
+            "lose": "Was wollen Sie hier?"
         },
         {
-            "opening": "¿Que piensas que estás haciendo aquí?",
-            "win": "¡Vete, ahora!",
-            "lose": "¡Vete antes de que se lo diga al jefe!"
+            "opening": "Was denkst du was du hier tust?",
+            "win": "Geh jetzt!",
+            "lose": "Geh bevor ichs dem Chef erzähle!"
         },
         {
-            "opening": "¡Apartate de mi camino!",
-            "win": "¡He dicho que te muevas!",
-            "lose": "¡No puede ser!"
+            "opening": "Geh mir aus den Augen!",
+            "win": "Ich sagte GEH!",
+            "lose": "Nicht möglich!"
         },
         {
-            "opening": "¡Tienes valor si piensas que puedes derrotarme!",
-            "win": "Nunca me vas a vencer.",
-            "lose": "¡¿Me has ganado!? ¡Noooooo!"
+            "opening": "Du hast Mumm mich herauszufordern!",
+            "win": "Du wirst niemals gegen mich siegen.",
+            "lose": "Du siegtest!? NeinNeinNeinNeinNein!"
         },
         {
-            "opening": "¡Tus Pokémon van a ser vendidos muy baratos en el mercado negro!",
-            "win": "¡Tus Pokémon son muy malos!",
-            "lose": "¡Puede que merezcan más la pena de lo que pensaba!"
-        },
+            "opening": "Deine Pokémon werden mir auf dem Schwarzmarkt ein nettes Sümmchen erbringen!",
+            "win": "Deine Pokémon sind nichts wert!",
+            "lose": "Sie scheinen mehr wert zu sein als ich dachte!"
+        }
     ]
 }
