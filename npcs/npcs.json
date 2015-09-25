@@ -7,6 +7,9 @@
             "name": "artist"
         },
         {
+            "name": "battlegirl"
+        },
+        {
             "name": "blackbelt"
         },
         {
@@ -19,6 +22,9 @@
             "name": "hiker"
         },
         {
+            "name": "lass"
+        },
+        {
             "name": "madame"
         },
         {
@@ -26,6 +32,9 @@
         },
         {
             "name": "pokefan_m"
+        },
+        {
+            "name": "policeman"
         },
         {
             "name": "psychic"
@@ -37,48 +46,149 @@
             "name": "punkguy"
         },
         {
-            "name": "scientist_f"
+            "name": "rancher"
         },
         {
-            "name": "supernerd"
-        }
-    ],
-    "trainers": [
-        {
-            "name": "bugcatcher"
+            "name": "ranger_f"
         },
         {
-            "name": "bugmaniac"
-        },
-        {
-            "name": "femalerocketgrunt"
-        },
-        {
-            "name": "firebreather"
-        },
-        {
-            "name": "fisherman"
-        },
-        {
-            "name": "lass"
-        },
-        {
-            "name": "ornithologist"
-        },
-        {
-            "name": "pokefan"
-        },
-        {
-            "name": "pokefangirl"
+            "name": "ranger_m"
         },
         {
             "name": "richboy"
         },
         {
-            "name": "swimmer"
+            "name": "sailor"
         },
         {
-            "name": "youngster"
+            "name": "scaryman"
+        },
+        {
+            "name": "scientist_f"
+        },
+        {
+            "name": "scientist_m"
+        },
+        {
+            "name": "supernerd"
         }
-    ]
+    ],
+    "trainers": {
+        "types": [
+            {
+                "name": "Steve",
+                "textures": [ "scottish", "santa", "suit", "prisoner", "Custom_RP", "Custom_PN" ]
+            },
+            {
+                "name": "BugCatcher",
+                "textures": [ "bugcatcher1", "bugcatcher2", "bugcatcher3", "bugcatcher4" ]
+            },
+            {
+                "name": "BugManiac",
+                "textures": [ "bugcatchergirl" ]
+            },
+            {
+                "name": "FemaleRocketGrunt",
+                "textures": [ "rocketgruntfemale1", "rocketgruntfemale2", "rocketgruntfemale3", "rocketgruntfemale4", "rocketgruntfemale5", "rocketgruntfemale6" ]
+            },
+            {
+                "name": "FireBreather",
+                "textures": [ "firebreather1", "firebreather2", "firebreather3", "firebreather4", "firebreather5" ]
+            },
+            {
+                "name": "Youngster",
+                "textures": [ "youngster1", "youngster2", "youngster3", "youngster4" ]
+            },
+            {
+                "name": "Lass",
+                "textures": [ "youngstergirl", "youngstergirl2", "lass" ]
+            },
+            {
+                "name": "Pokemaniac",
+                "textures": [ "pokemaniac1", "pokemaniac2", "pokemaniac3" ]
+            },
+            {
+                "name": "Pokemaniacgirl",
+                "textures": [ "pokemaniacgirl1", "pokemaniacgirl2" ]
+            },
+            {
+                "name": "Policeman",
+                "textures": [ "policeman" ]
+            },
+            {
+                "name": "Rancher",
+                "textures": [ "rancher" ]
+            },
+            {
+                "name": "RichBoy",
+                "textures": [ "richboy" ]
+            },
+            {
+                "name": "FemaleScientist",
+                "textures": [ "scientist_f" ]
+            },
+            {
+                "name": "MaleScientist",
+                "textures": [ "scientist_m" ]
+            },
+            {
+                "name": "Swimmer",
+                "textures": [ "swimmer_m" ]
+            },
+            {
+                "name": "Fisherman",
+                "textures":[ "fisherman" ]
+            }
+        ],
+        "list": [
+            {
+                "name": "bugcatcher"
+            },
+            {
+                "name": "bugmaniac"
+            },
+            {
+                "name": "femalerocketgrunt"
+            },
+            {
+                "name": "firebreather"
+            },
+            {
+                "name": "fisherman"
+            },
+            {
+                "name": "lass"
+            },
+            {
+                "name": "ornithologist"
+            },
+            {
+                "name": "pokemaniac"
+            },
+            {
+                "name": "policeman"
+            },
+            {
+                "name": "rancher"
+            },
+            {
+                "name": "pokemaniacgirl"
+            },
+            {
+                "name": "richboy"
+            },
+            {
+                "name": "scientistwoman"
+            },
+            {
+                "name": "scientist"
+            },
+            {
+                "name": "swimmer"
+            },
+            {
+                "name": "youngster"
+            }
+        ]
+    }
 }
