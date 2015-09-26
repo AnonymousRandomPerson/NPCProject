@@ -1,0 +1,69 @@
+{
+    "skins": [
+        { 
+            "filename": "pkmn_breeder_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Corinne"
+        },
+        {
+            "name": "Gretchen"
+        },
+        {
+            "name": "Carol"
+        },
+        {
+            "name": "Meredith"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "\"Mama Teddiursa\""
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "My Pokédex talks about Cubone's dead mother... that's absurd!"
+                },
+                {
+                    "text": "I bred my Cubone. Her mother is just fine!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I get to spend all day taking care of cute little baby Pokémon..."
+                },
+                {
+                    "text": "It's my dream job!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ditto! Is that you?"
+                },
+                {
+                    "text": "Oh! Sorry... my Ditto likes to play games sometimes."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My little girl wanted to know why her Leaf Stone wasn't working on Eevee..."
+                },
+                {
+                    "text": "I'd never thought about it before- but I'm not sure why either!?"
+                }
+            ]
+        }
+    ]
+}
