@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "FireBreather",
         "minLevel": 20,
@@ -75,13 +75,13 @@
             "lose": "Feuer..."
         },
         {
-            "opening": "Feuerspucker zu sein ist ziemlich ungewoehnlich.",
+            "opening": "Feuerspucker zu sein ist ziemlich ungewöhnlich.",
             "win": "Aber irgendwie mag ichs.",
             "lose": "Und ich machs auch nicht gerne."
         },
         {
-            "opening": "Das Trainieren meiner Pokemon ist meine Leidenschaft.",
-            "win": "Meine Leidenschaft brennt heller denn je!",
+            "opening": "Das Trainieren meiner Pokémon ist meine Leidenschaft.",
+            "win": "Mein Herz brennt!",
             "lose": "Meine Feurigkeit ist ausgebrannt.."
         }
     ]

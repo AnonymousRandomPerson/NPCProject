@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "PokeManiac",
         "minLevel": 10,
@@ -319,9 +319,9 @@
     ],
     "chat": [
         {
-            "opening": "Ich liebe meine Pokemon ueber alles! Lass uns herausfinden wie sehr deine Pokemon dich lieben!",
-            "win": "Du solltest dich mehr um deine Pokemon kuemmern! Liebe macht sie stark!",
-            "lose": "Du musst deine Pokemon genauso sehr lieben wie ich meine!"
+            "opening": "Ich liebe meine Pokémon über alles! Lass uns herausfinden wie sehr deine Pokémon dich lieben!",
+            "win": "Du solltest dich mehr um deine Pokémon kümmern! Liebe macht sie stark!",
+            "lose": "Du musst deine Pokémon genauso sehr lieben wie ich meine!"
         }
     ]
 }

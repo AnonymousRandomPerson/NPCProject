@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "hexmaniac.png"
@@ -28,7 +28,7 @@
                     "text": "Sieh nur, mein Nebulak hat mich verflucht."
                 },
                 {
-                    "text": "Ich erwartete schreckliche Hoellenqualen, aber es kitzelt nur ein wenig."
+                    "text": "Ich erwartete schreckliche Höllenqualen, aber es kitzelt nur ein wenig."
                 }
             ]
         },

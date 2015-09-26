@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "punkgirl.png"
@@ -25,7 +25,7 @@
         {
             "lines": [
                 {
-                    "text": "Meine Haare sind schwer zu ertragen, aber ich komme schon damit klar."
+                    "text": "Meine Haare sind schwer zu bändigen, aber ich komme schon damit klar."
                 },
                 {
                     "text": "Als Punk muss man so manches Opfer bringen."
@@ -35,20 +35,20 @@
         {
             "lines": [
                 {
-                    "text": "Nieder mit dem System; wer benoetigt schon Pokebaelle!"
+                    "text": "Nieder mit dem System; wer benötigt schon Pokébälle!"
                 },
                 {
-                    "text": "Ich fange meine Pokemon allein mit den Haenden!"
+                    "text": "Ich fange meine Pokémon allein mit den Händen!"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "An mein Armband muessen mehr Stacheln."
+                    "text": "An mein Armband müssen mehr Stacheln."
                 },
                 {
-                    "text": "Du hast nicht zufaellig ein Sandamer?"
+                    "text": "Du hast nicht zufällig ein Sandamer?"
                 }
             ]
         },
@@ -58,7 +58,7 @@
                     "text": "Meinst du ich kann meinem Pummeluff beibringen Punk Rock zu singen?"
                 },
                 {
-                    "text": "Moeglicherweise kann ich es auch noch faerben. Yeah, geil."
+                    "text": "Möglicherweise kann ich es auch noch färben. Yeah, geil."
                 }
             ]
         }

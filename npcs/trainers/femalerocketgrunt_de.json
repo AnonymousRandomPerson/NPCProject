@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "FemaleRocketGrunt",
         "minLevel": 32,
@@ -106,29 +106,29 @@
     ],
     "chat": [
         {
-            "opening": "He Kindchen, gib mir deine Pokemon!",
-            "win": "Ich habe gewonnen. Gib mir jetzt deine Pokemon.",
+            "opening": "He Kindchen, gib mir deine Pokémon!",
+            "win": "Ich habe gewonnen. Gib mir jetzt deine Pokémon.",
             "lose": "Arghe, Wie konntest du mich schlagen!"
         },
         {
             "opening": "Was hast du hier zu suchen?!",
             "win": "RRrraaaauuuuuss.",
-            "lose": "Och noe, Verloren!"
+            "lose": "Och nö, Verloren!"
         },
         {
-            "opening": "Dies ist eine wichtige Operation, wir dulden hier keine Schnueffler!",
+            "opening": "Dies ist eine wichtige Operation, wir dulden hier keine Schnüffler!",
             "win": "Verschwinde jetzt!",
-            "lose": "Unmoeglich!"
+            "lose": "Unmöglich!"
         },
         {
-            "opening": "Bereit fuer Aerger!",
-            "win": "Und es wird noch aerger.",
-            "lose": "Pokemon sind Schrott!"
+            "opening": "Bereit für Ärger!",
+            "win": "Und es wird noch ärger.",
+            "lose": "Pokémon sind Schrott!"
         },
         {
-            "opening": "Pokemon sind Werkzeuge. Was sollte es bringen sie gut zu behandeln?",
-            "win": "Siehste? Unnuetz.",
-            "lose": "Unnuetze Dinger!"
+            "opening": "Pokémon sind Werkzeuge. Was sollte es bringen sie gut zu behandeln?",
+            "win": "Siehste? Unnütz.",
+            "lose": "Unnütze Dinger!"
         },
         {
             "opening": "Wir sind Team Rocket!",
@@ -138,12 +138,12 @@
         {
             "opening": "Was denkst du was du hier tust?",
             "win": "Geh jetzt!",
-            "lose": "Geh bevor ichs dem Chef erzaehle!"
+            "lose": "Geh bevor ichs dem Chef erzähle!"
         },
         {
             "opening": "Geh mir aus den Augen!",
             "win": "Ich sagte GEH!",
-            "lose": "Nicht moeglich!"
+            "lose": "Nicht möglich!"
         },
         {
             "opening": "Du hast Mumm mich herauszufordern!",
@@ -151,8 +151,8 @@
             "lose": "Du siegtest!? NeinNeinNeinNeinNein!"
         },
         {
-            "opening": "Deine Pokemon werden mir auf dem Schwarzmarkt ein nettes Suemmchen erbringen!",
-            "win": "Deine Pokemon sind nichts wert!",
+            "opening": "Deine Pokémon werden mir auf dem Schwarzmarkt ein nettes Sümmchen erbringen!",
+            "win": "Deine Pokémon sind nichts wert!",
             "lose": "Sie scheinen mehr wert zu sein als ich dachte!"
         }
     ]

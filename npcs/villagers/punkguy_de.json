@@ -1,4 +1,4 @@
-{
+﻿{
     "skins": [
         { 
             "filename": "punkguy.png"
@@ -28,14 +28,14 @@
                     "text": "Ich war letztes Wochenende auf einem Konzert. Wir tanzten und schubsten zu Metall im Moshpit!"
                 },
                 {
-                    "text": "Kampf Pokemon sollten dort allerdings nicht erlaubt sein."
+                    "text": "Kampf Pokémon sollten dort allerdings nicht erlaubt sein."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Gefaellt dir meine Jacke? Ist aus echtem Miltankleder."
+                    "text": "Gefällt dir meine Jacke? Ist aus echtem Miltankleder."
                 },
                 {
                     "text": "Vom Typ Normal zum Typ Punk ist eine echte Verbesserung, mann."
@@ -45,10 +45,10 @@
         {
             "lines": [
                 {
-                    "text": "Ich bin kein boeser Bub. Sieh, Ich mag mein sleima gerne."
+                    "text": "Ich bin kein böser Bub. Sieh, ich mag mein sleima gerne."
                 },
                 {
-                    "text": "Manchmal lass ich sie auf meinem Kopf sitzen. Das riecht furchtbar, aber sieht echt laessig aus."
+                    "text": "Manchmal lass ich sie auf meinem Kopf sitzen. Das riecht furchtbar, aber sieht echt lässig aus."
                 }
             ]
         },
@@ -58,7 +58,7 @@
                     "text": "Ich moechte ein par Kumpels zusammenkriegen, die sich nicht um die Regeln scheren..."
                 },
                 {
-                    "text": "Um dann einen alle gegen alle Pokemon Kampf zu starten."
+                    "text": "Um dann einen alle gegen alle Pokémon Kampf zu starten."
                 }
             ]
         }

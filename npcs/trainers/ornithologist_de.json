@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "Ornithologist",
         "minLevel": 15,
@@ -68,13 +68,13 @@
     "chat": [
         {
             "opening": "Ich Reise durch die Welt mit meinen gefiederten Freunden.",
-            "win": "Meine Flugpokemon sind Grossartig!",
-            "lose": "Neeeiin, meine wunderbaren Pokemon!"
+            "win": "Meine Flugpokémon sind Großartig!",
+            "lose": "Neeeiin, meine wunderbaren Pokémon!"
         },
         {
-            "opening": "Ich wuesste zu gerne welchen Typ Pokemon sie haben",
-            "win": "Flugpokemon sind wirklich stark. Eure Niederlage wundert mich nicht.",
-            "lose": "Ich schaetze andere Typen Pokemon koennen auch ziemlich stark sein."
+            "opening": "Ich wüsste zu gerne welchen Typ Pokémon sie preferieren.",
+            "win": "Flugpokémon sind wirklich stark. Eure Niederlage wundert mich nicht.",
+            "lose": "Ich schätze andere Typen Pokémon können auch ziemlich stark sein."
         }
     ]
 }
