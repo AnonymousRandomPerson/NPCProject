@@ -67,6 +67,9 @@
             "name": "scientist_f"
         },
         {
+            "name": "scientist_m"
+        },
+        {
             "name": "supernerd"
         }
     ],
@@ -121,12 +124,20 @@
                 "textures": [ "richboy" ]
             },
             {
-                "name": "ScientistWoman",
+                "name": "FemaleScientist",
                 "textures": [ "scientist_f" ]
             },
-			{
+            {
+                "name": "MaleScientist",
+                "textures": [ "scientist_m" ]
+            },
+            {
                 "name": "Swimmer",
                 "textures": [ "swimmer_m" ]
+            },
+            {
+                "name": "Fisherman",
+                "textures":[ "fisherman" ]
             }
         ],
         "list": [
@@ -168,6 +179,9 @@
             },
             {
                 "name": "scientistwoman"
+            },
+            {
+                "name": "scientist"
             },
             {
                 "name": "swimmer"

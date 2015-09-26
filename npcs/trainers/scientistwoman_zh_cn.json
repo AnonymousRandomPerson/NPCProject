@@ -113,36 +113,36 @@
     ],
     "names": [
         {
-            "name": "Marie"
+            "name": "玛丽"
         },
         {
-            "name": "Ada"
+            "name": "阿达"
         },
         {
-            "name": "Irène"
+            "name": "伊伦"
         },
         {
-            "name": "Harriet"
+            "name": "哈里特"
         },
         {
-            "name": "Sofia"
+            "name": "索非亚"
         }
     ],
 	"chat": [
         {
-            "opening": "I'll be collecting data about this battle!",
-            "win": "And I'm chalking this up as a success. There.",
-            "lose": "The data shows I hadn't trained hard enough..."
+            "opening": "我将收集这场对战的数据！",
+            "win": "并且我的分析能力在这次对战中很成功。",
+            "lose": "数据显示我的刻苦训练还不够..."
         },
         {
-            "opening": "Yay! Experimental battle!",
-            "win": "That was so educational!",
-            "lose": "The trials are inconclusive. Rework everything."
+            "opening": "耶！实验性的对战！",
+            "win": "这是如此的有教育意义！",
+            "lose": "这些试验都还没有定论。一切都要再加工。"
         },
         {
-            "opening": "I've worked out a strategy through elaborate statistics. I can't lose!",
-            "win": "Statistically speaking, that's what I expected.",
-            "lose": "Oh no, my calculations were wrong..."
+            "opening": "我已经通过统计数据精心制作的制定了战略。我不能输！",
+            "win": "从统计数字上看，这正是我所期待的。",
+            "lose": "哦，不，我的计算是错误的..."
         }
     ]
 }

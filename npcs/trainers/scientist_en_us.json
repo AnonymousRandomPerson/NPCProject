@@ -1,6 +1,6 @@
 {
     "data": {
-        "trainerType": "ScientistWoman",
+        "trainerType": "MaleScientist",
         "minLevel": 25,
         "maxLevel": 45,
         "minPartyPokemon": 2,
@@ -113,36 +113,36 @@
     ],
     "names": [
         {
-            "name": "Marie"
+            "name": "Adam"
         },
         {
-            "name": "Ada"
+            "name": "Archimedes"
         },
         {
-            "name": "Irène"
+            "name": "Riff"
         },
         {
-            "name": "Harriet"
+            "name": "Theodore \"Six Eyes\""
         },
         {
-            "name": "Sofia"
+            "name": "Cornelius"
         }
     ],
 	"chat": [
         {
-            "opening": "I'll be collecting data about this battle!",
-            "win": "And I'm chalking this up as a success. There.",
-            "lose": "The data shows I hadn't trained hard enough..."
+            "opening": "Through meticulous research I've found the perfect team!",
+            "win": "Science! It works.",
+            "lose": "Let me check my notes..."
         },
         {
-            "opening": "Yay! Experimental battle!",
-            "win": "That was so educational!",
-            "lose": "The trials are inconclusive. Rework everything."
+            "opening": "My primary objective here is simply to observe.",
+            "win": "Though victory could be a secondary objective!",
+            "lose": "Oh... that was hard to observe."
         },
         {
-            "opening": "I've worked out a strategy through elaborate statistics. I can't lose!",
-            "win": "Statistically speaking, that's what I expected.",
-            "lose": "Oh no, my calculations were wrong..."
+            "opening": "I hypothesize that I am about to defeat you!",
+            "win": "Hypothesis confirmed.",
+            "lose": "That's what these tests are for."
         }
     ]
 }
