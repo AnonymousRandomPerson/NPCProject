@@ -2,6 +2,9 @@
     "skins": [
         { 
             "filename": "pkmn_breeder_f.png"
+        },
+        { 
+            "filename": "pkmn_breeder_f2.png"
         }
     ],
     "names": [
@@ -9,16 +12,13 @@
             "name": "Corinne"
         },
         {
-            "name": "Gretchen"
+            "name": "Elyse"
         },
         {
-            "name": "Carol"
+            "name": "Zoey"
         },
         {
-            "name": "Meredith"
-        },
-        {
-            "name": "Annie"
+            "name": "Gabriella"
         },
         {
             "name": "\"Mama Teddiursa\""
@@ -52,6 +52,16 @@
                 },
                 {
                     "text": "Oh! Sorry... my Ditto likes to play games sometimes."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My husband uses my breeding for research he's doing on \"Shiny\" Pokémon."
+                },
+                {
+                    "text": "I'm sure it's very fascinating, but sometimes he goes on..."
                 }
             ]
         },
