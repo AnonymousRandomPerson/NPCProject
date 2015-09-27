@@ -13,7 +13,13 @@
             "name": "blackbelt"
         },
         {
+            "name": "doctor"
+        },
+        {
             "name": "engineer"
+        },
+        {
+            "name": "fisherman"
         },
         {
             "name": "hexmaniac"
@@ -26,6 +32,12 @@
         },
         {
             "name": "madame"
+        },
+        {
+            "name": "officerjenny"
+        },
+        {
+            "name": "oldwoman"
         },
         {
             "name": "pokefan_f"
