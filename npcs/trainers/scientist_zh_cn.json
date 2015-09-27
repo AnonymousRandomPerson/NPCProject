@@ -1,6 +1,6 @@
 {
     "data": {
-        "trainerType": "ScientistWoman",
+        "trainerType": "MaleScientist",
         "minLevel": 25,
         "maxLevel": 45,
         "minPartyPokemon": 2,
@@ -113,36 +113,36 @@
     ],
     "names": [
         {
-            "name": "Marie"
+            "name": "亚当"
         },
         {
-            "name": "Ada"
+            "name": "阿基米德"
         },
         {
-            "name": "Irène"
+            "name": "里夫"
         },
         {
-            "name": "Harriet"
+            "name": "西奥多·六眼"
         },
         {
-            "name": "Sofia"
+            "name": "科尼利厄斯"
         }
     ],
 	"chat": [
         {
-            "opening": "I'll be collecting data about this battle!",
-            "win": "And I'm chalking this up as a success. There.",
-            "lose": "The data shows I hadn't trained hard enough..."
+            "opening": "通过细致的研究，我已经找到了完美的队伍！",
+            "win": "科学！ 正在发挥作用。",
+            "lose": "让我看一下我的笔记..."
         },
         {
-            "opening": "Yay! Experimental battle!",
-            "win": "That was so educational!",
-            "lose": "The trials are inconclusive. Rework everything."
+            "opening": "我在这里的主要目的仅仅是为了观察。",
+            "win": "虽然胜利可能是一个次要目标！",
+            "lose": "呵呵......这是难以观测。"
         },
         {
-            "opening": "I've worked out a strategy through elaborate statistics. I can't lose!",
-            "win": "Statistically speaking, that's what I expected.",
-            "lose": "Oh no, my calculations were wrong..."
+            "opening": "我推测我会打败你的！",
+            "win": "推测被证实了。",
+            "lose": "这是在测试些什么。"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "data": {
-        "trainerType": "Scientist",
+        "trainerType": "MaleScientist",
         "minLevel": 25,
         "maxLevel": 45,
         "minPartyPokemon": 2,
@@ -93,7 +93,7 @@
             "name": "Rampardos"
         },
         {
-            "name": "Sheildon"
+            "name": "Shieldon"
         },
         {
             "name": "Bastiodon"
