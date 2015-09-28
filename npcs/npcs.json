@@ -28,6 +28,9 @@
             "name": "madame"
         },
         {
+            "name": "pkmn_breeder_f"
+        },
+        {
             "name": "pokefan_f"
         },
         {
@@ -35,6 +38,9 @@
         },
         {
             "name": "policeman"
+        },
+        {
+            "name": "preschooler_f"
         },
         {
             "name": "psychic"
@@ -104,6 +110,10 @@
                 "textures": [ "youngstergirl", "youngstergirl2", "lass" ]
             },
             {
+                "name": "PkmnBreederWoman",
+                "textures": [ "pkmn_breeder_f, pkmn_breeder_f2"]
+            },
+            {
                 "name": "Pokemaniac",
                 "textures": [ "pokemaniac1", "pokemaniac2", "pokemaniac3" ]
             },
@@ -114,6 +124,10 @@
             {
                 "name": "Policeman",
                 "textures": [ "policeman" ]
+            },
+            {
+                "name": "PreschoolerGirl",
+                "textures": [ "preschooler_f1" ]
             },
             {
                 "name": "Rancher",
@@ -166,7 +180,13 @@
                 "name": "pokemaniac"
             },
             {
+                "name": "pokemonbreederwoman"
+            },
+            {
                 "name": "policeman"
+            },
+            {
+                "name": "preschoolergirl"
             },
             {
                 "name": "rancher"
