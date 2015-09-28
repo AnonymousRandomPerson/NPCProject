@@ -28,9 +28,6 @@
             "name": "madame"
         },
         {
-            "name": "pkmn_breeder_f"
-        },
-        {
             "name": "pokefan_f"
         },
         {
@@ -107,10 +104,6 @@
                 "textures": [ "youngstergirl", "youngstergirl2", "lass" ]
             },
             {
-                "name": "PkmnBreederWoman",
-                "textures": [ "pkmn_breeder_f"]
-            },
-            {
                 "name": "Pokemaniac",
                 "textures": [ "pokemaniac1", "pokemaniac2", "pokemaniac3" ]
             },
@@ -171,9 +164,6 @@
             },
             {
                 "name": "pokemaniac"
-            },
-            {
-                "name": "pokemonbreederwoman"
             },
             {
                 "name": "policeman"
