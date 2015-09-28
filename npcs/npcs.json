@@ -108,7 +108,7 @@
             },
             {
                 "name": "PkmnBreederWoman",
-                "textures": [ "pkmn_breeder_f, pkmn_breeder_f2"]
+                "textures": [ "pkmn_breeder_f"]
             },
             {
                 "name": "Pokemaniac",
