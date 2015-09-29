@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "richboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Christian"
+        },
+        {
+            "name": "Pierre"
+        },
+        {
+            "name": "Francois"
+        },
+        {
+            "name": "Gaston"
+        },
+        {
+            "name": "Gilbert"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mes Pokémons méritent le meilleur. S'il un deux est rayé, je restaure sa sante en pleinne."
+                },
+                {
+                    "text": "Je ne me soucie pas pour rien d'autre."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mes Pokémons duvent être les plus forts, à cause de l'argent que j'ai depensé pour leurs Pokéballs."
+                },
+                {
+                    "text": "Placez votre argent en valeur, recevez un retour. Prouvez que je me trompe."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Comment si je ne me dérange pas d'aller à la chasse pour les Pokémons, et au lieu acheter le Pokédex plien d'un enfant qui est plus pauvre que moi."
+                },
+                {
+                    "text": "Aurais-je alors un Entraîneur bien accompli sans effort?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mon père m'a envoyé au monde pour devinir un Entraîneur éprouvé."
+                },
+                {
+                    "text": "J'ai perdu tous mes battailles mais je suis encore plus riche que vous. Hm!"
+                }
+            ]
+        }
+    ]
+}
