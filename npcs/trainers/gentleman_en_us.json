@@ -39,14 +39,14 @@
     ],
     "chat": [
         {
-            "opening": "I own a mansion in New Town",
-            "win": "That was a gentleman's game",
-            "lose": "How rude of you..."
+            "opening": "I own a mansion.",
+            "win": "That was a gentleman's game.",
+            "lose": "How rude of you."
         },
         {
-            "opening": "Making money isn't my only skill...",
+            "opening": "Making money isn't my only skill.",
             "win": "There's plenty more where that came from.",
-            "lose": "Perhaps I need more practice"
+            "lose": "Perhaps I need more practice."
         }
     ]
 }
