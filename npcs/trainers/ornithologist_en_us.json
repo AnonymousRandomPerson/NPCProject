@@ -1,4 +1,4 @@
-{
+﻿{
     "data": {
         "trainerType": "Ornithologist",
         "minLevel": 15,
@@ -70,6 +70,11 @@
             "opening": "I travel around the world with my flying Pokémon.",
             "win": "My flying Pokémon are great!",
             "lose": "No, my wonderful Pokémon!"
+        },
+        {
+            "opening": "Bird-type Pokémon are the most impressive, I'll have you know.",
+            "win": "As you see, bird-type Pokémon are superior!",
+            "lose": "Oh dear. Oh well, got to fly!"
         },
         {
             "opening": "I'd love to see what kind of Pokémon you have",
