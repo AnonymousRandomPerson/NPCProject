@@ -6,7 +6,7 @@
     ],
     "names": [
         {
-            "name": "Greasejockey Joe"
+            "name": "Grease Jockey Joe"
         },
         {
             "name": "Mac the Wrench"
@@ -18,17 +18,17 @@
             "name": "Angus"
         },
         {
-            "name": "Pittstop Pete"
+            "name": "Pit Stop Pete"
         }
     ],
     "chat": [
         {
             "lines": [
                 {
-                    "text": "You got a squeaky wheel on that Pokécycle there."
+                    "text": "You got a squeaky wheel on a vehicle?"
                 },
                 {
-                    "text": "Y'oughta bring that there vehicle into my workshop for an overhaul."
+                    "text": "Y'oughta bring that vehicle into my workshop for an overhaul."
                 }
             ]
         },
@@ -55,10 +55,10 @@
         {
             "lines": [
                 {
-                    "text": "I just love the smell of axel grease in the mornin'!"
+                    "text": "I just love the smell of axle grease in the mornin'!"
                 },
                 {
-                    "text": "Come back sometime with that Pokécycle of yours. I'll have her hummin' sweetly!"
+                    "text": "Come back some time with a vehicle of yours. I'll have her hummin' sweetly!"
                 }
             ]
         }

@@ -37,6 +37,12 @@
             "name": "madame"
         },
         {
+            "name": "monsieur"
+        },
+        {
+            "name": "pkmn_breeder_f"
+        },
+        {
             "name": "mechanic"
         },
         {
@@ -46,7 +52,7 @@
             "name": "officerjenny"
         },
         {
-            "name": "oldwoman"
+            "name": "oldwoman"=
         },
         {
             "name": "ornithologist"
@@ -62,6 +68,9 @@
         },
         {
             "name": "policeman"
+        },
+        {
+            "name": "preschooler_f"
         },
         {
             "name": "psychic"
@@ -94,7 +103,16 @@
             "name": "scaryman"
         },
         {
+            "name": "schoolboy"
+        },
+        {
+            "name": "schoolgirl"
+        },
+        {
             "name": "scientist_f"
+        },
+        {
+            "name": "scientist_m"
         },
         {
             "name": "supernerd"
@@ -131,6 +149,10 @@
                 "textures": [ "youngstergirl", "youngstergirl2", "lass" ]
             },
             {
+                "name": "PkmnBreederWoman",
+                "textures": [ "pkmn_breeder_f, pkmn_breeder_f2"]
+            },
+            {
                 "name": "Pokemaniac",
                 "textures": [ "pokemaniac1", "pokemaniac2", "pokemaniac3" ]
             },
@@ -143,6 +165,10 @@
                 "textures": [ "policeman" ]
             },
             {
+                "name": "PreschoolerGirl",
+                "textures": [ "preschooler_f1" ]
+            },
+            {
                 "name": "Rancher",
                 "textures": [ "rancher" ]
             },
@@ -151,8 +177,12 @@
                 "textures": [ "richboy" ]
             },
             {
-                "name": "ScientistWoman",
+                "name": "FemaleScientist",
                 "textures": [ "scientist_f" ]
+            },
+            {
+                "name": "MaleScientist",
+                "textures": [ "scientist_m" ]
             },
             {
                 "name": "Swimmer",
@@ -189,7 +219,13 @@
                 "name": "pokemaniac"
             },
             {
+                "name": "pokemonbreederwoman"
+            },
+            {
                 "name": "policeman"
+            },
+            {
+                "name": "preschoolergirl"
             },
             {
                 "name": "rancher"
@@ -202,6 +238,9 @@
             },
             {
                 "name": "scientistwoman"
+            },
+            {
+                "name": "scientist"
             },
             {
                 "name": "swimmer"

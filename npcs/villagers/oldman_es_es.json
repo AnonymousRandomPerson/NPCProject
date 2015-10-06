@@ -6,10 +6,10 @@
     ],
     "names": [
         {
-            "name": "Old Man Tom"
+            "name": "Anciano Tom"
         },
         {
-            "name": "Fred the Librarian"
+            "name": "Fred el Bibliotecario"
         }
     ],
     "chat": [
@@ -26,7 +26,7 @@
         {
             "lines": [
                 {
-                    "text": "¿De verdad crees que debes de ir por ahí con Pokémon?"
+                    "text": "¿De verdad crees que debes de ir con Pokémon por ahí?"
                 },
                 {
                     "text": "Creo que tienen miedo."

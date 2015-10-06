@@ -33,7 +33,7 @@
             "name": "Golduck"
         },
         {
-            "name": "Farfetch'd"
+            "name": "Farfetchd"
         },
         {
             "name": "Miltank"
@@ -104,7 +104,7 @@
             "lose": "Y'all only won 'cuz I was tired."
         },
         {
-            "opening": "I'm tired o' lookin' at Miltanks grazin'. Battle time!",
+            "opening": "I'm tired o' lookin' at Miltank grazin'. Battle time!",
             "win": "I should do that more often!",
             "lose": "I should never have stopped lookin' at 'em."
         }

@@ -121,7 +121,7 @@
             "lose": "¡Oh no! ¡He perdido!"
         },
         {
-            "opening": "Esta es una operación importante. ¡No queremos que estés husmeando!",
+            "opening": "Esta es una operación importante. ¡No queremos que estés husmeando por aquí!",
             "win": "¡Fuera ahora mismo!",
             "lose": "¡Imposible!"
         },
@@ -156,7 +156,7 @@
             "lose": "¡¿Me has ganado!? ¡Noooooo!"
         },
         {
-            "opening": "¡Tus Pokémon van a ser vendidos muy baratos en el mercado negro!",
+            "opening": "¡Tus Pokémon serán vendidos muy baratos en el mercado negro!",
             "win": "¡Tus Pokémon son muy malos!",
             "lose": "¡Puede que merezcan más la pena de lo que pensaba!"
         },

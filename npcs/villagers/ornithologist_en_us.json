@@ -35,10 +35,10 @@
         {
             "lines": [
                 {
-                    "text": "The nesting habits of the Red Crested Pidgeot are remarkably similar to those of the Tawny Hoothoot."
+                    "text": "The nesting habits of the red-crested Pidgeot are remarkably similar to those of the tawny Hoothoot."
                 },
                 {
-                    "text": "It is such an interesting thing to observe bird-type Pokémon! You should try it sometime."
+                    "text": "It is such an interesting thing to observe bird Pokémon! You should try it sometime."
                 }
             ]
         },
@@ -55,18 +55,17 @@
         {
             "lines": [
                 {
-                    "text": "My job is very important, you know! I provide all the infomation on bird Pokémon that you need to train them."
+                    "text": "My job is very important, you know! I provide all the information on bird Pokémon that you need to train them."
                 },
                 {
                     "text": "Yes, the poor ornithologist is an unsung hero in the field of Pokémon research."
                 }
             ]
-        }
-    ]
-}
+        },
+        {
             "lines": [
                 {
-                    "text": "Pardon me, do you have any bread? I've run out of bird seed to tempt this Starly with."
+                    "text": "Pardon me, do you have any bread? I've run out of bird seed to tempt Starly with."
                 },
                 {
                     "text": "My binoculars are the strongest available. I can spot a pygmy Starly from ten miles away!"
