@@ -1,6 +1,6 @@
 {
     "data": {
-        "trainerType": "ScientistWoman",
+        "trainerType": "FemaleScientist",
         "minLevel": 25,
         "maxLevel": 45,
         "minPartyPokemon": 2,
