@@ -1,13 +1,11 @@
 {
     "data": {
-        "trainerType": "Mountaineer",
+        "trainerType": "Miner",
         "minLevel": 10,
         "maxLevel": 18,
         "minPartyPokemon": 2,
         "maxPartyPokemon": 6,
-        "winnings": 54,
-        "rarity": 10,
-        "spawnBiomes": "Stone Beach"
+        "winnings": 54
     },
     "pokemon": [
         {
