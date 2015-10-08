@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littlegirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Colette"
+        },
+        {
+            "name": "Amelie"
+        },
+        {
+            "name": "Claudette"
+        },
+        {
+            "name": "Marie-Louise"
+        },
+        {
+            "name": "Suzette"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Je ne veux pas vous parler! Vous êtes étranger!"
+                },
+                {
+                    "text": "Comment c'est d'être étranger?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pah! J'ai des meilleurs Pokémons dans mon placard! J'ai un Moltres, même!"
+                },
+                {
+                    "text": "Qu'importe qu'il est un jouet? Vous n'avez pas de Moltres de tout, vous!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "T'es venu pour capturer des Pokémons? Est-ce qu'ils seront féroces?"
+                },
+                {
+                    "text": "Je me sens capable de capturer un Pokémon féroce si j'avais un Pokéball Super Magique!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tu as peur des Pokémons? Moi, je n'ai pas peur des Pokémons de tout! Au moins, pas beaucoup peut-être...!"
+                },
+                {
+                    "text": "Moi, je préfère les Pokémons duveteux."
+                }
+            ]
+        }
+    ]
+}

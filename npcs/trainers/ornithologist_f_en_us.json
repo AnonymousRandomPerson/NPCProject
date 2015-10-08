@@ -1,4 +1,4 @@
-﻿{
+{
     "data": {
         "trainerType": "Ornithologist",
         "minLevel": 15,
@@ -44,42 +44,37 @@
     ],
     "names": [
         {
-            "name": "Watson"
+            "name": "Miss Bird"
         },
         {
-            "name": "Walter"
+            "name": "Lucy"
         },
         {
-            "name": "Montgomery"
+            "name": "Amelia"
         },
         {
-            "name": "Diego"
+            "name": "Annette"
         },
         {
-            "name": "Arthur"
+            "name": "Cassie"
         },
         {
-            "name": "Callum"
+            "name": "Jane"
         },
         {
-            "name": "Gastby"
+            "name": "Gloria"
         }
     ],
     "chat": [
         {
-            "opening": "I travel around the world with my flying Pokémon.",
-            "win": "My flying Pokémon are great!",
-            "lose": "No, my wonderful Pokémon!"
+            "opening": "Flying Pokémon are just lovely, aren't they?",
+            "win": "Aha! My flying Pokémon and I have worked hard, you see!",
+            "lose": "Oh my poor Pokémon! Never mind!"
         },
         {
-            "opening": "Bird-type Pokémon are the most impressive, I'll have you know.",
-            "win": "As you see, bird-type Pokémon are superior!",
-            "lose": "Oh dear. Oh well, got to fly!"
-        },
-        {
-            "opening": "I'd love to see what kind of Pokémon you have",
-            "win": "Flying Pokémon are really strong. It's no wonder you lost.",
-            "lose": "I guess other kinds of Pokémon are pretty cool too."
+            "opening": "Do you have all kinds of Pokémon there?",
+            "win": "Better luck next time. Keep up that training!",
+            "lose": "Well, I can't win them all, can I?"
         }
     ]
 }
