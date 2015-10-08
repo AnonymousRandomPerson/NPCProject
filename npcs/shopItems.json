@@ -1,0 +1,463 @@
+{
+  "items": [
+    {
+      "name": "Poke Ball",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "Great Ball",
+      "buy": 600,
+      "sell": 300
+    },
+    {
+      "name": "Ultra Ball",
+      "buy": 1200,
+      "sell": 600
+    },
+    {
+      "name": "Level Ball",
+      "sell": 100
+    },
+    {
+      "name": "Moon Ball",
+      "sell": 100
+    },
+    {
+      "name": "Friend Ball",
+      "sell": 100
+    },
+    {
+      "name": "Love Ball",
+      "sell": 100
+    },
+    {
+      "name": "Heavy Ball",
+      "sell": 100
+    },
+    {
+      "name": "Fast Ball",
+      "sell": 100
+    },
+    {
+      "name": "Repeat Ball",
+      "sell": 100
+    },
+    {
+      "name": "Timer Ball",
+      "sell": 100
+    },
+    {
+      "name": "Nest Ball",
+      "sell": 100
+    },
+    {
+      "name": "Net Ball",
+      "sell": 100
+    },
+    {
+      "name": "Dive Ball",
+      "sell": 100
+    },
+    {
+      "name": "Luxury Ball",
+      "buy": 1000
+      "sell": 500
+    },
+    {
+      "name": "Heal Ball",
+      "sell": 100
+    },
+    {
+      "name": "Dusk Ball",
+      "sell": 100
+    },
+    {
+      "name": "Park Ball",
+      "sell": 100
+    },
+    {
+      "name": "Quick Ball",
+      "sell": 100
+    },
+    {
+      "name": "Lure Ball",
+      "sell": 100
+    },
+    {
+      "name": "Sport Ball",
+      "sell": 100
+    },
+    {
+      "name": "Cherish Ball",
+      "sell": 100
+    },
+    {
+      "name": "Premier Ball",
+      "sell": 100
+    },
+    {
+      "name": "Master Ball"
+    },
+    {
+      "name": "GS Ball"
+    },
+    {
+      "name": "Safari Ball"
+    },
+    {
+      "name": "Rare Candy",
+      "sell": 2400
+    },
+    {
+      "name": "Potion",
+      "buy": 300,
+      "sell": 150
+    },
+    {
+      "name": "Super Potion",
+      "buy": 700,
+      "sell": 350
+    },
+    {
+      "name": "Hyper Potion",
+      "buy": 1200,
+      "sell": 600
+    },
+    {
+      "name": "Max Potion",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "Full Restore",
+      "buy": 3000,
+      "sell": 1500
+    },
+    {
+      "name": "Fresh Water",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "Soda Pop",
+      "buy": 300,
+      "sell": 150
+    },
+    {
+      "name": "Lemonade",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "Moomoo Milk",
+      "buy": 500,
+      "sell": 250
+    },
+    {
+      "name": "Revive",
+      "buy": 1500,
+      "sell": 750
+    },
+    {
+      "name": "Max Revive",
+      "sell": 2000
+    },
+    {
+      "name": "Ether",
+      "sell": 600
+    },
+    {
+      "name": "Max Ether",
+      "sell": 1000
+    },
+    {
+      "name": "Elixir",
+      "sell": 1500
+    },
+    {
+      "name": "Max Elixir",
+      "sell": 2250
+    },
+    {
+      "name": "Antidote",
+      "buy": 100,
+      "sell": 50
+    },
+    {
+      "name": "Paralyze Heal",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "Awakening",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "Burn Heal",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "Ice Heal",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "Full Heal",
+      "buy": 600,
+      "sell": 300
+    },
+    {
+      "name": "Blue Flute",
+      "sell": 50
+    },
+    {
+      "name": "Yellow Flute",
+      "sell": 100
+    },
+    {
+      "name": "Red Flute",
+      "sell": 150
+    },
+    {
+      "name": "HP Up",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Protein",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Iron",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Calcium",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Zinc",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Carbos",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Pomeg Berry",
+      "sell": 10
+    },
+    {
+      "name": "Kelpsy Berry",
+      "sell": 10
+    },
+    {
+      "name": "Qualot Berry",
+      "sell": 10
+    },
+    {
+      "name": "Hondew Berry",
+      "sell": 10
+    },
+    {
+      "name": "Grepa Berry",
+      "sell": 10
+    },
+    {
+      "name": "Tamato Berry",
+      "sell": 10
+    },
+    {
+      "name": "Oran Berry",
+      "sell": 10
+    },
+    {
+      "name": "Rawst Berry",
+      "sell": 10
+    },
+    {
+      "name": "Leppa Berry",
+      "sell": 10
+    },
+    {
+      "name": "CheriBerry",
+      "sell": 10
+    },
+    {
+      "name": "ChestoBerry",
+      "sell": 10
+    },
+    {
+      "name": "PechaBerry",
+      "sell": 10
+    },
+    {
+      "name": "AspearBerry",
+      "sell": 10
+    },
+    {
+      "name": "PersimBerry",
+      "sell": 10
+    },
+    {
+      "name": "LumBerry",
+      "sell": 10
+    },
+    {
+      "name": "SitrusBerry",
+      "sell": 10
+    },
+    {
+      "name": "BerryJuice",
+      "sell": 50
+    },
+    {
+      "name": "PumkinBerry",
+      "sell": 10
+    },
+    {
+      "name": "DrashBerry",
+      "sell": 10
+    },
+    {
+      "name": "EggantBerry",
+      "sell": 10
+    },
+    {
+      "name": "YagoBerry",
+      "sell": 10
+    },
+    {
+      "name": "TougaBerry",
+      "sell": 10
+    },
+    {
+      "name": "ApicotBerry",
+      "sell": 10
+    },
+    {
+      "name": "LiechiBerry",
+      "sell": 10
+    },
+    {
+      "name": "GanlonBerry",
+      "sell": 10
+    },
+    {
+      "name": "SalacBerry",
+      "sell": 10
+    },
+    {
+      "name": "PetayaBerry",
+      "sell": 10
+    },
+    {
+      "name": "LansatBerry",
+      "sell": 10
+    },
+    {
+      "name": "StarfBerry",
+      "sell": 10
+    },
+    {
+      "name": "CustapBerry",
+      "sell": 10
+    },
+    {
+      "name": "AquavBerry",
+      "sell": 10
+    },
+    {
+      "name": "FigBerry",
+      "sell": 10
+    },
+    {
+      "name": "IapapaBerry",
+      "sell": 10
+    },
+    {
+      "name": "MagoBerry",
+      "sell": 10
+    },
+    {
+      "name": "WikiBerry",
+      "sell": 10
+    },
+    {
+      "name": "OccaBerry",
+      "sell": 10
+    },
+    {
+      "name": "PasshoBerry",
+      "sell": 10
+    },
+    {
+      "name": "WacanBerry",
+      "sell": 10
+    },
+    {
+      "name": "RindoBerry",
+      "sell": 10
+    },
+    {
+      "name": "YacheBerry",
+      "sell": 10
+    },
+    {
+      "name": "ChopleBerry",
+      "sell": 10
+    },
+    {
+      "name": "KebiaBerry",
+      "sell": 10
+    },
+    {
+      "name": "ShucaBerry",
+      "sell": 10
+    },
+    {
+      "name": "CobaBerry",
+      "sell": 10
+    },
+    {
+      "name": "PayapaBerry",
+      "sell": 10
+    },
+    {
+      "name": "TangaBerry",
+      "sell": 10
+    },
+    {
+      "name": "ChartiBerry",
+      "sell": 10
+    },
+    {
+      "name": "KasiBerry",
+      "sell": 10
+    },
+    {
+      "name": "HabanBerry",
+      "sell": 10
+    },
+    {
+      "name": "ColburBerry",
+      "sell": 10
+    },
+    {
+      "name": "BabiriBerry",
+      "sell": 10
+    },
+    {
+      "name": "ChilanBerry",
+      "sell": 10
+    }
+  ]
+}
