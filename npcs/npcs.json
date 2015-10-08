@@ -13,9 +13,6 @@
             "name": "blackbelt"
         },
         {
-            "name": "blacksmith"
-        },
-        {
             "name": "doctor"
         },
         {
@@ -50,9 +47,6 @@
         },
         {
             "name": "mechanic"
-        },
-        {
-            "name": "miner"
         },
         {
             "name": "officerjenny"
@@ -156,7 +150,7 @@
             },
             {
                 "name": "PkmnBreederWoman",
-                "textures": [ "pkmn_breeder_f, pkmn_breeder_f2"]
+                "textures": [ "pkmn_breeder_f", "pkmn_breeder_f2"]
             },
             {
                 "name": "Pokemaniac",
@@ -199,9 +193,17 @@
                 "textures":[ "fisherman" ]
             },
             {
+                "name": "Miner",
+                "textures": [ "miner" ]
+            },
+            {
+                "name": "Blacksmith",
+                "textures": [ "blacksmith" ]
+            }/*,
+            {
                 "name": "Mountaineer",
                 "textures":[ "mountaineer" ]
-            }
+            }*/
         ],
         "list": [
             {
@@ -254,6 +256,12 @@
             },
             {
                 "name": "swimmer"
+            },
+            {
+                "name": "miner"
+            },
+            {
+                "name": "blacksmith"
             },
             {
                 "name": "youngster"
