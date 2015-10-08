@@ -46,7 +46,7 @@
             "name": "officerjenny"
         },
         {
-            "name": "oldwoman"=
+            "name": "oldwoman"
         },
         {
             "name": "ornithologist"
@@ -182,6 +182,10 @@
             {
                 "name": "Fisherman",
                 "textures":[ "fisherman" ]
+            },
+            {
+                "name": "Mountaineer",
+                "textures":[ "mountaineer" ]
             }
         ],
         "list": [
