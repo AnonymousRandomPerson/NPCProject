@@ -70,7 +70,7 @@
     ],
     "chat": [
         {
-            "opening": "You would dare to challenge a steel-type trainer?",
+            "opening": "You would dare to challenge a Steel-type Trainer?",
             "win": "You dared and lost!",
             "lose": "Your dare paid off..."
         },
