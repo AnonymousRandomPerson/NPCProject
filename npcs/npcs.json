@@ -13,6 +13,9 @@
             "name": "blackbelt"
         },
         {
+            "name": "blacksmith"
+        },
+        {
             "name": "doctor"
         },
         {
@@ -31,6 +34,12 @@
             "name": "lass"
         },
         {
+            "name": "littleboy"
+        },
+        {
+            "name": "littlegirl"
+        },
+        {
             "name": "madame"
         },
         {
@@ -43,6 +52,9 @@
             "name": "mechanic"
         },
         {
+            "name": "miner"
+        },
+        {
             "name": "officerjenny"
         },
         {
@@ -50,6 +62,9 @@
         },
         {
             "name": "ornithologist"
+        },
+        {
+            "name": "ornithologist_f"
         },
         {
             "name": "pokefan_f"

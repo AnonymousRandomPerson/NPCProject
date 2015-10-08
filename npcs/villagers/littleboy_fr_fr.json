@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littleboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Guillaume"
+        },
+        {
+            "name": "Akihiko"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "Petit Jean"
+        },
+        {
+            "name": "Pip"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Quand je grandis, je serais Pokémon Maitre. Et pompier!"
+                },
+                {
+                    "text": "Je veux que j'avais un Pokémon comme le tien!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ouah, t'as acheté tes Pokémons dans un magasin, ou t'as les capturés toi-même?"
+                },
+                {
+                    "text": "J'ai fait un Pokéball de papier et de colle. Ça ne marche pas bien, quand-même."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mon père est fameux Pokémon chasseur!"
+                },
+                {
+                    "text": "Actuellement, il a attrapé un Caterpie dans le jardin, mais il l'a relâché..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Regardes-moi capturer de Pokémon avec un filet! J'ai presque capturé un Weedle l'autre jour!"
+                },
+                {
+                    "text": "Un jour je vais les capturer tous!"
+                }
+            ]
+        }
+    ]
+}
