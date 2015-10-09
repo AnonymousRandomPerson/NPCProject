@@ -2014,6 +2014,181 @@
       "name": "HM10 - Dive",
       "sell": 8000
     }
+    {
+      "name": "PokeMail-air",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bloom",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-brick",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridged",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridgem",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridges",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridget",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridgev",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bubble",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-dream",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-fab",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-favored",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-flame",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-glitter",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-grass",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-greet",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-harbor",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-heart",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-inquiry",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-like",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-mech",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-mosaic",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-orange",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-reply",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-retro",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-rsvp",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-shadown",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-snow",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-space",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-steel",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-thanks",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-tropic",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-tunnel",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-wave",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-wood",
+      "buy": 50,
+      "sell": 25
+    }
 
   ]
 }
