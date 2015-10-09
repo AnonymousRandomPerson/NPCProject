@@ -5,9 +5,7 @@
         "maxLevel": 18,
         "minPartyPokemon": 2,
         "maxPartyPokemon": 6,
-        "winnings": 54,
-        "rarity": 10,
-        "spawnBiomes": "Stone Beach"
+        "winnings": 54
     },
     "pokemon": [
         {
@@ -48,24 +46,24 @@
     ],
     "chat": [
         {
-            "opening": "My pokemon and I are having a race.",
-            "win": "You should try racing, it's good for your pokemon.",
-            "lose": "Now I don't feel like racing anymore..."
+            "opening": "My Pokémon and I are having a race.",
+            "win": "You should try racing. It's good for your Pokémon.",
+            "lose": "Now I don't feel like racing anymore."
         },
         {
-            "opening": "These mountains are full of pokemon!",
+            "opening": "These mountains are full of Pokémon!",
             "win": "And look how strong they are.",
-            "lose": "But they need some proper training though..."
+            "lose": "But they need some proper training though."
         },
         {
             "opening": "Can you climb and battle?",
             "win": "Don't be afraid of heights.",
-            "lose": "I almost fell..."
+            "lose": "I almost fell."
         },
         {
-            "opening": "Nothing like a king of the mountain battle...",
-            "win": "I am the king of this mountain",
-            "lose": "You are the king of this mountain"
+            "opening": "Nothing like a king of the mountain battle.",
+            "win": "I am the king of this mountain.",
+            "lose": "You are the king of this mountain."
         }
     ]
 }

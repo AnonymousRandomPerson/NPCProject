@@ -1,0 +1,98 @@
+{
+    "data": {
+        "trainerType": "Miner",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Roggenrola"
+        },
+        {
+            "name": "Graveler"
+        },
+        {
+            "name": "Rhyhorn"
+        },
+        {
+            "name": "Dwebble"
+        },
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Cranidos"
+        },
+        {
+            "name": "Aron"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mac"
+        },
+        {
+            "name": "Duggy"
+        },
+        {
+            "name": "Bruce"
+        },
+        {
+            "name": "Rocky"
+        },
+        {
+            "name": "Benjamin Boulder"
+        },
+        {
+            "name": "Gravelly Pete"
+        },
+        {
+            "name": "Jimmy the Digger"
+        },
+        {
+            "name": "Louis"
+        },
+        {
+            "name": "Johanne"
+        },
+        {
+            "name": "Haruto"
+        },
+        {
+            "name": "Rui"
+        },
+        {
+            "name": "Pierre"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "My rock-type Pokémon are super tough!",
+            "win": "Told you they were tough!",
+            "lose": "Not as tough as I thought..."
+        },
+        {
+            "opening": "I train my rock types to stand up to anything.",
+            "win": "They sure stood up to yours!",
+            "lose": "Yours stood up a bit taller!"
+        },
+        {
+            "opening": "Think you can beat a rock-type trainer, eh?",
+            "win": "Not yet you can't! Keep training.",
+            "lose": "I guess you can..."
+        },
+        {
+            "opening": "Give me a rock-type over an electric type anyday!",
+            "win": "My rockies are the best!",
+            "lose": "Hmm. Well, you can't win em all..."
+        },
+        {
+            "opening": "My rock-type Pokémon are not sissies, like most others.",
+            "win": "Nice try, but I warned you.",
+            "lose": "I'm the sissy. My poor Pokémon!"
+        }
+    ]
+}
