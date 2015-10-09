@@ -41,35 +41,42 @@
     },
     {
       "name": "Repeat Ball",
+      "buy": 1000,
       "sell": 100
     },
     {
       "name": "Timer Ball",
+      "buy": 1000,
       "sell": 100
     },
     {
       "name": "Nest Ball",
+      "buy": 1000,
       "sell": 100
     },
     {
       "name": "Net Ball",
+      "buy": 1000,
       "sell": 100
     },
     {
       "name": "Dive Ball",
+      "buy": 1000,
       "sell": 100
     },
     {
       "name": "Luxury Ball",
-      "buy": 1000
+      "buy": 1000,
       "sell": 500
     },
     {
       "name": "Heal Ball",
+      "buy": 300,
       "sell": 100
     },
     {
       "name": "Dusk Ball",
+      "buy": 1000,
       "sell": 100
     },
     {
@@ -78,6 +85,7 @@
     },
     {
       "name": "Quick Ball",
+      "buy": 1000,
       "sell": 100
     },
     {
@@ -208,18 +216,6 @@
       "name": "Full Heal",
       "buy": 600,
       "sell": 300
-    },
-    {
-      "name": "Blue Flute",
-      "sell": 50
-    },
-    {
-      "name": "Yellow Flute",
-      "sell": 100
-    },
-    {
-      "name": "Red Flute",
-      "sell": 150
     },
     {
       "name": "HP Up",
@@ -440,7 +436,7 @@
       "sell": 10
     },
     {
-      "name": "KasiBerry",
+      "name": "KasibBerry",
       "sell": 10
     },
     {
