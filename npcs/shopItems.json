@@ -17,52 +17,52 @@
     },
     {
       "name": "Level Ball",
-      "sell": 100
+      "sell": 150
     },
     {
       "name": "Moon Ball",
-      "sell": 100
+      "sell": 150
     },
     {
       "name": "Friend Ball",
-      "sell": 100
+      "sell": 150
     },
     {
       "name": "Love Ball",
-      "sell": 100
+      "sell": 150
     },
     {
       "name": "Heavy Ball",
-      "sell": 100
+      "sell": 150
     },
     {
       "name": "Fast Ball",
-      "sell": 100
+      "sell": 150
     },
     {
       "name": "Repeat Ball",
       "buy": 1000,
-      "sell": 100
+      "sell": 500
     },
     {
       "name": "Timer Ball",
       "buy": 1000,
-      "sell": 100
+      "sell": 500
     },
     {
       "name": "Nest Ball",
       "buy": 1000,
-      "sell": 100
+      "sell": 500
     },
     {
       "name": "Net Ball",
       "buy": 1000,
-      "sell": 100
+      "sell": 500
     },
     {
       "name": "Dive Ball",
       "buy": 1000,
-      "sell": 100
+      "sell": 500
     },
     {
       "name": "Luxury Ball",
@@ -72,33 +72,31 @@
     {
       "name": "Heal Ball",
       "buy": 300,
-      "sell": 100
+      "sell": 150
     },
     {
       "name": "Dusk Ball",
       "buy": 1000,
-      "sell": 100
+      "sell": 500
     },
     {
-      "name": "Park Ball",
-      "sell": 100
+      "name": "Park Ball"
     },
     {
       "name": "Quick Ball",
       "buy": 1000,
-      "sell": 100
+      "sell": 500
     },
     {
       "name": "Lure Ball",
-      "sell": 100
+      "sell": 150
     },
     {
-      "name": "Sport Ball",
-      "sell": 100
+      "name": "Sport Ball"
     },
     {
       "name": "Cherish Ball",
-      "sell": 100
+      "sell": 500
     },
     {
       "name": "Premier Ball",
