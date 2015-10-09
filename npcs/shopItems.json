@@ -514,78 +514,79 @@
     },
     {
       "name": "HelixFossil",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "DomeFossil",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "OldAmber",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "RootFossil",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "ClawFossil",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "SkullFossil",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "ArmorFossil",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "CoverFossil",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "PlumeFossil",
-      "sell": 800
+      "sell": 2000
     },
     {
       "name": "CoveredFossil0",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "CoveredFossil1",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "CoveredFossil2",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "CoveredFossil3",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "CoveredFossil4",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "CoveredFossil5",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "CoveredFossil6",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "CoveredFossil7",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "CoveredFossil8",
-      "sell": 300
+      "sell": 1000
     },
     {
       "name": "Sun Stone",
+      "buy": 2100,
       "sell": 1050
     },
     {
@@ -614,10 +615,12 @@
     },
     {
       "name": "Dawn Stone",
+      "buy": 2100,
       "sell": 1050
     },
     {
       "name": "Dusk Stone",
+      "buy": 2100,
       "sell": 1050
     },
     {
@@ -645,7 +648,7 @@
       "sell": 100
     },
     {
-      "name": "Muscleband",
+      "name": "MuscleBand",
       "sell": 100
     },
     {
@@ -869,7 +872,8 @@
       "sell": 100
     },
     {
-      "name": "BrightPowder"
+      "name": "BrightPowder",
+      "sell": 10
     },
     {
       "name": "GinemaBerry",
@@ -925,48 +929,39 @@
     },
     {
       "name": "Full Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Lax Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Luck Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Odd Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Pure Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Rock Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Rose Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Sea Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Wave Incense",
-      "buy": 9600,
-      "sell": 4800
+      "sell": 100
     },
     {
       "name": "Bug Gem",
@@ -1149,828 +1144,828 @@
     },
     {
       "name": "TM1 - Hone Claws",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM2 - Dragon Claw",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM3 - Psyshock",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 5000
     },
     {
       "name": "TM4 - Calm Mind",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM5 - Roar",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM6 - Toxic",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM7 - Hail",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM8 - Bulk Up",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM9 - Venoshock",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM10 - Hidden Power",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM11 - Sunny Day",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM12 - Taunt",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM13 - Ice Beam",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM14 - Blizzard",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM15 - Hyper Beam",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM16 - Light Screen",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM17 - Protect",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM18 - Rain Dance",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM19 - Telekinesis",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM20 - Safeguard",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM21 - Frustration",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM22 - SolarBeam",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM23 - Smack Down",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM24 - Thunderbolt",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM25 - Thunder",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM26 - Earthquake",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM27 - Return",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM28 - Dig",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM29 - Psychic",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM30 - Shadow Ball",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM31 - Brick Break",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM32 - Double Team",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM33 - Reflect",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM34 - Sludge Wave",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM35 - Flamethrower",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM36 - Sludge Bomb",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM37 - Sandstorm",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM38 - Fire Blast",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM39 - Rock Tomb",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM40 - Aerial Ace",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM41 - Torment",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM42 - Facade",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM43 - Flame Charge",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM44 - Rest",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM45 - Attract",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM46 - Thief",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM47 - Low Sweep",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM48 - Round",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM49 - Echoed Voice",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM50 - Overheat",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM51 - Ally Switch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM52 - Focus Blast",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM53 - Energy Ball",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM54 - False Swipe",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000,
     },
     {
       "name": "TM55 - Scald",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM56 - Fling",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM57 - Charge Beam",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM58 - Sky Drop",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM59 - Incinerate",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM60 - Quash",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM61 - Will-O-Wisp",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM62 - Acrobatics",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM63 - Embargo",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM64 - Explosion",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM65 - Shadow Claw",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM66 - Payback",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM67 - Retaliate",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM68 - Giga Impact",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM69 - Rock Polish",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM70 - Flash",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM71 - Stone Edge",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM72 - Volt Switch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM73 - Thunder Wave",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM74 - Gyro Ball",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM75 - Swords Dance",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 15000,
+      "sell": 7500
     },
     {
       "name": "TM76 - Struggle Bug",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM77 - Psych Up",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM78 - Bulldoze",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM79 - Frost Breath",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM80 - Rock Slide",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 500
     },
     {
       "name": "TM81 - X-Scissor",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM82 - Dragon Tail",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM83 - Work Up",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM84 - Poison Jab",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM85 - Dream Eater",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM86 - Grass Knot",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM87 - Swagger",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM88 - Pluck",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM89 - U-Turn",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM90 - Substitute",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM91 - Flash Cannon",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM92 - Trick Room",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM93 - Wild Charge",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM94 - Rock Smash",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM95 - Snarl",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM96 - Mega Punch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM97 - Razor Wind",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM98 - Whirlwind",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 500
     },
     {
       "name": "TM99 - Mega Kick",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM100 - Horn Drill",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM101 - Body Slam",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM102 - Take Down",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM103 - Double-Edge",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM104 - BubbleBeam",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM105 - Water Gun",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM106 - Pay Day",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM107 - Submission",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM108 - Counter",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM109 - Seismic Toss",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM110 - Rage",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM111 - Mega Drain",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM112 - Dragon Rage",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM113 - Fissure",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM114 - Teleport",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM115 - Mimic",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM116 - Bide",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM117 - Metronome",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM118 - Selfdestruct",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM119 - Egg Bomb",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM120 - Swift",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM121 - Skull Bash",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM122 - Softboiled",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM123 - Sky Attack",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM124 - Psywave",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM125 - Tri Attack",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM126 - DynamicPunch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM127 - Headbutt",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM128 - Curse",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM129 - Rollout",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM130 - Zap Cannon",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM131 - Sweet Scent",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM132 - Snore",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM133 - Icy Wind",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM134 - Giga Drain",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM135 - Endure",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM136 - Iron Tail",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM137 - DragonBreath",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM138 - Mud-Slap",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM139 - Ice Punch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM140 - Sleep Talk",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM141 - Defense Curl",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
-      "name": "TM142 - ThunderPunchh",
-      "buy": 3000,
-      "sell": 1500
+      "name": "TM142 - Thunder Punch",
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM143 - Detect",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM144 - Steel Wing",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM145 - Fire Punch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM146 - Fury Cutter",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM147 - Nightmare",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM148 - Focus Punch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM149 - Water Pulse",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM150 - Bullet Seed",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM151 - Shock Wave",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM152 - Secret Power",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM153 - Skill Swap",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 5000,
+      "sell": 2500
     },
     {
       "name": "TM154 - Snatch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM155 - Roost",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM156 - Brine",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM157 - Dragon Pulse",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 10000,
+      "sell": 5000
     },
     {
       "name": "TM158 - Drain Punch",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM159 - Silver Wind",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM160 - Recycle",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM161 - Avalanche",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 7500,
+      "sell": 3750
     },
     {
       "name": "TM162 - Stealth Rock",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM163 - Captivate",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "TM164 - Dark Pulse",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 12500,
+      "sell": 6250
     },
     {
       "name": "TM165 - Natural Gift",
-      "buy": 3000,
-      "sell": 1500
+      "buy": 2500,
+      "sell": 1250
     },
     {
       "name": "HM1 - Cut",
