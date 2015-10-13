@@ -70,27 +70,27 @@
     ],
     "chat": [
         {
-            "opening": "My rock-type Pokémon are super tough!",
+            "opening": "My Rock-type Pokémon are super tough!",
             "win": "Told you they were tough!",
             "lose": "Not as tough as I thought..."
         },
         {
-            "opening": "I train my rock types to stand up to anything.",
+            "opening": "I train my Rock types to stand up to anything.",
             "win": "They sure stood up to yours!",
             "lose": "Yours stood up a bit taller!"
         },
         {
-            "opening": "Think you can beat a rock-type trainer, eh?",
+            "opening": "Think you can beat a Rock-type Trainer, eh?",
             "win": "Not yet you can't! Keep training.",
             "lose": "I guess you can..."
         },
         {
-            "opening": "Give me a rock-type over an electric type anyday!",
+            "opening": "Give me a Rock type over an Electric type any day!",
             "win": "My rockies are the best!",
-            "lose": "Hmm. Well, you can't win em all..."
+            "lose": "Hmm. Well, you can't win 'em all..."
         },
         {
-            "opening": "My rock-type Pokémon are not sissies, like most others.",
+            "opening": "My Rock-type Pokémon are not sissies, like most others.",
             "win": "Nice try, but I warned you.",
             "lose": "I'm the sissy. My poor Pokémon!"
         }
