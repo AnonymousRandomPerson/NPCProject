@@ -50,10 +50,10 @@
             "name": "Gravelly Pete"
         },
         {
-            "name": "Jimmy the Digger"
+            "name": "Jimmy el Excavador"
         },
         {
-            "name": "Louis"
+            "name": "Luís"
         },
         {
             "name": "Johanne"
@@ -70,29 +70,29 @@
     ],
     "chat": [
         {
-            "opening": "My Rock-type Pokémon are super tough!",
-            "win": "Told you they were tough!",
-            "lose": "Not as tough as I thought..."
+            "opening": "¡Mis Pokémon de tipo Roca son súper fuertes!",
+            "win": "¡Te dije que eran fuertes!",
+            "lose": "No son tan fuertes como yo pensaba..."
         },
         {
-            "opening": "I train my Rock types to stand up to anything.",
-            "win": "They sure stood up to yours!",
-            "lose": "Yours stood up a bit taller!"
+            "opening": "He entrenado a mis tipo Roca para parar cualquier cosa.",
+            "win": "¡Por supuesto que ellos te superan!",
+            "lose": "¡Tú los superas un poco más!"
         },
         {
-            "opening": "Think you can beat a Rock-type Trainer, eh?",
-            "win": "Not yet you can't! Keep training.",
-            "lose": "I guess you can..."
+            "opening": "¿Crees que puedes derrotar a un entrenador de tipo Roca, eh?",
+            "win": "¡No puedes aún! Sigue entrenando.",
+            "lose": "Supongo que puedes..."
         },
         {
-            "opening": "Give me a Rock type over an Electric type any day!",
-            "win": "My rockies are the best!",
-            "lose": "Hmm. Well, you can't win 'em all..."
+            "opening": "¡Dame un tipo Roca sobre un tipo Electrico algún día!",
+            "win": "¡Mis rocas son las mejores!",
+            "lose": "Hmm. Bueno, no puedes ganar a todos..."
         },
         {
-            "opening": "My Rock-type Pokémon are not sissies, like most others.",
-            "win": "Nice try, but I warned you.",
-            "lose": "I'm the sissy. My poor Pokémon!"
+            "opening": "Mis Pokémon de tipo Roca no son unos gallinas, como muchos otros.",
+            "win": "Buen intento, pero ya te advertí.",
+            "lose": "Soy un gallina. ¡Mis pobres Pokémon!"
         }
     ]
 }

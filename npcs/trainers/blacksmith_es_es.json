@@ -50,7 +50,7 @@
             "name": "Tibo"
         },
         {
-            "name": "Henry"
+            "name": "Henrry"
         },
         {
             "name": "Bart"
@@ -59,10 +59,10 @@
             "name": "Mikio"
         },
         {
-            "name": "Bartholomew"
+            "name": "Bartholomé"
         },
         {
-            "name": "Gunther"
+            "name": "Gunter"
         },
         {
             "name": "Lars"
@@ -70,19 +70,19 @@
     ],
     "chat": [
         {
-            "opening": "You would dare to challenge a Steel-type Trainer?",
-            "win": "You dared and lost!",
-            "lose": "Your dare paid off..."
+            "opening": "¿Cómo te atreves a desafiar a un entrenador de tipo Acero?",
+            "win": "¡Me desafiaste y perdiste!",
+            "lose": "Tu reto valió la pena..."
         },
         {
-            "opening": "They do not call me the Man of Steel for nothing! Be prepared to battle hard!",
-            "win": "Steel is impervious to all, you see.",
-            "lose": "I guess steel is not everything.."
+            "opening": "¡No me llaman el Hombre de Acero por nada! ¡Preparate para luchar!",
+            "win": "El Acero es impenetrable, ya lo has visto.",
+            "lose": "Supongo que el acero no lo es todo..."
         },
         {
-            "opening": "My Pokémon are trained hard over the fires of endurance. They are invincible!",
-            "win": "I did warn you! Nice try.",
-            "lose": "Not as invincible as I thought.."
+            "opening": "Mis Pokémon están entrenados resistiendo los fuegos más fuertes. ¡Son invencibles!",
+            "win": "¡Te lo advertí! Buen intento.",
+            "lose": "No son tan invencibles como pensaba..."
         }
     ]
 }
