@@ -44,42 +44,37 @@
     ],
     "names": [
         {
-            "name": "Watson"
+            "name": "Miss Pájaro"
         },
         {
-            "name": "Walter"
+            "name": "Lucy"
         },
         {
-            "name": "Montgomery"
+            "name": "Amelia"
         },
         {
-            "name": "Diego"
+            "name": "Annette"
         },
         {
-            "name": "Arthur"
+            "name": "Cassie"
         },
         {
-            "name": "Callum"
+            "name": "Jane"
         },
         {
-            "name": "Gastby"
+            "name": "Gloria"
         }
     ],
     "chat": [
         {
-            "opening": "He viajado por todo el mundo con mis Pokémon voladores.",
-            "win": "¡Mis Pokémon de tipo Volador son magníficos!",
-            "lose": "¡No!, ¡mis maravillosos Pokémon!"
+            "opening": "Los Pokémon voladores son encantadores, ¿no?",
+            "win": "¡Aha! ¡Mis Pokémon voladores y yo hemos trabajado duro, ya viste!",
+            "lose": "¡Oh mis pobres Pokémon! ¡No importa!"
         },
         {
-		    "opening": "Los Pokémon de tipo Volador son impresionantes, pensaba que lo sabías.",
-            "win": "Como viste, ¡los Pokémon de tipo Volador son superiores!",
-            "lose": "Oh queridos. Oh bueno, ¡me iré volando!"
-        },
-        {
-            "opening": "Me encantaría ver que tipo de Pokémon tienes.",
-            "win": "Los Pokémon voladores son muy fuertes. No es de extrañar que perdieses.",
-            "lose": "Supongo que otros tipos de Pokémon son mejores."
+            "opening": "¿Tienes todos los tipos de Pokémon por ahí?",
+            "win": "Más suerte la próxima vez. ¡Continua entrenando!",
+            "lose": "Bueno, no puedo ganarles a todos, ¿puedo?"
         }
     ]
 }
