@@ -7,22 +7,22 @@
 
       More will be added as new shop types are added
     */
-    "type": "PokemartSecond"
+    "type": "PokemartMain"
   },
   "textures": [
     {
-      "name": "shoplady.png"
+      "name": "shopgirl.png"
     }
   ],
   "names": [
     {
-      "name": "Mme. Contraire"
+      "name": "Babbette"
     }
   ],
   "chat": [
     {
-      "hello": "Bien venu à notre belle boutique. La qualité de nos produits vous plaira.",
-      "goodbye": "Ravi d'avoir fait votre connaissance. Au revoir."
+      "hello": "Salut! Voulez-vous de l'aide? Nous avons des objets cool!",
+      "goodbye": "Ciaou!"
     }
   ],
   /*
@@ -34,24 +34,24 @@
   */
   "items": [
     {
-      "name": "XAttack",
+      "name": "Poke Ball",
+      "multi": 0.9
+    },
+    {
+      "name": "Friend Ball",
       "multi": 1.1
     },
     {
-      "name": "TM5 - Roar",
+      "name": "Love Ball",
       "multi": 1.1
     },
     {
-      "name": "XDefence",
+      "name": "Fast Ball",
       "multi": 1.1
     },
     {
-      "name": "TM13 - Ice Beam",
-      "multi": 1.1
-    },
-    {
-      "name": "Rare Candy",
-      "rarity": 0.2
+      "name": "Potion",
+      "rarity": 0.4
     }
   ]
 }

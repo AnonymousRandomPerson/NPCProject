@@ -11,18 +11,18 @@
   },
   "textures": [
     {
-      "name": "shoplady.png"
+      "name": "shoplady2.png"
     }
   ],
   "names": [
     {
-      "name": "Mme. Contraire"
+      "name": "Mme. Benoit"
     }
   ],
   "chat": [
     {
-      "hello": "Bien venu à notre belle boutique. La qualité de nos produits vous plaira.",
-      "goodbye": "Ravi d'avoir fait votre connaissance. Au revoir."
+      "hello": "Bien venu à notre belle magasin. La qualité de ce Pokémart est insurpassable.",
+      "goodbye": "Je vous remercie pour le shopping à Pokémart."
     }
   ],
   /*
@@ -34,24 +34,24 @@
   */
   "items": [
     {
-      "name": "XAttack",
+      "name": "TM9 - Venoshock",
+      "multi": 1.2
+    },
+    {
+      "name": "CoverFossil",
+      "multi": 1.2
+    },
+    {
+      "name": "HealPowder",
+      "rarity": 0.3
+    },
+    {
+      "name": "RevivalHerb",
       "multi": 1.1
     },
     {
-      "name": "TM5 - Roar",
+      "name": "Water Stone",
       "multi": 1.1
-    },
-    {
-      "name": "XDefence",
-      "multi": 1.1
-    },
-    {
-      "name": "TM13 - Ice Beam",
-      "multi": 1.1
-    },
-    {
-      "name": "Rare Candy",
-      "rarity": 0.2
     }
   ]
 }
