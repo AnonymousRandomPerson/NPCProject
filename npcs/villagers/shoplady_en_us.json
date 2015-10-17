@@ -18,7 +18,7 @@
             "name": "Ms. Thrift"
         },
         {
-            "name": "Mrs White"
+            "name": "Mrs. White"
         }
     ],
     "chat": [
@@ -35,10 +35,10 @@
         {
             "lines": [
                 {
-                    "text": "Welcome to the Store. Is there anything special you require?"
+                    "text": "Welcome to the store. Is there anything special you require?"
                 },
                 {
-                    "text": "Well I'm not sure I can help you with that. Good day."
+                    "text": "Well, I'm not sure I can help you with that. Good day."
                 }
             ]
         },
@@ -68,7 +68,7 @@
                     "text": "Hello there, are you intending to buy that?"
                 },
                 {
-                    "text": "Well put it back then. You are not allowed to damage the merchandise."
+                    "text": "Well, put it back then. You are not allowed to damage the merchandise."
                 }
             ]
         }
