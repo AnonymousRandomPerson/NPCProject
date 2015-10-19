@@ -34,14 +34,60 @@
   */
   "items": [
     {
-      "name": "Heavy Ball"
+      "name": "Poke Ball"
     },
     {
-      "name": "Dusk Ball"
+      "name": "Dive Ball",
+      "rarity": 0.4
     },
     {
-      "name": "Poke Ball",
-      "multi": 0.9
+      "name": "Dusk Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Fast Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Heavy Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Level Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Lure Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Net Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Nest Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Quick Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Repeat Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Timer Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Fresh Water"
+    },
+    {
+      "name": "Soda Pop"   
+    },
+    {
+      "name": "Lemonade"
     },
     {
       "name": "Moomoo Milk",

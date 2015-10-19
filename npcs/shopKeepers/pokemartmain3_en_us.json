@@ -34,24 +34,34 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
-      "multi": 0.9
-    },
-    {
       "name": "Friend Ball",
-      "multi": 1.1
+      "multi": 0.8
     },
     {
       "name": "Love Ball",
-      "multi": 1.1
+      "multi": 0.8
     },
     {
-      "name": "Fast Ball",
-      "multi": 1.1
+      "name": "Heal Ball",
+      "multi": 0.8
     },
     {
-      "name": "Potion",
-      "rarity": 0.4
+      "name": "Moon Ball",
+      "multi": 0.8
+    },
+    {
+      "name": "HealPowder"
+    },
+    {
+      "name": "EnergyPowder"
+    },
+    {
+      "name": "EnergyRoot"
+    },
+    {
+      "name": "RevivalHerb",
+      "rarity": 0.7
     }
+    
   ]
 }

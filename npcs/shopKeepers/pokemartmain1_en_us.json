@@ -42,11 +42,44 @@
     },
     {
       "name": "Ultra Ball",
-      "multi": 1.1
+      "multi": 1.1,
+      "rarity": 0.7
     },
     {
-      "name": "Rare Candy",
-      "rarity": 0.2
+      "name": "Potion"
+    },
+    {
+      "name": "Super Potion"
+    },
+    {
+      "name": "Hyper Potion"
+      "rarity": 0.5
+    },
+    {
+      "name": "Max Potion"
+      "rarity": 0.1,
+      "multi": 0.6
+    },
+    {
+      "name": "Full Heal"
+    },
+    {
+      "name": "Antidote"
+    },
+    {
+      "name": "Awakening"
+    },
+    {
+      "name": "Burn Heal"
+    },
+    {
+      "name": "Ice Heal"
+    },
+    {
+      "name": "Paralyze Heal"
+    },
+    {
+      "name": "Revive"
     }
   ]
 }
