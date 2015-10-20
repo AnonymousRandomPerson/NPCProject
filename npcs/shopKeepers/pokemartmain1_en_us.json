@@ -12,17 +12,27 @@
   "textures": [
     {
       "name": "shopkeeper.png"
+    },
+    {
+      "name": "shopman2.png"
     }
   ],
   "names": [
     {
       "name": "Charles"
+    },
+    {
+      "name": "Eito"
     }
   ],
   "chat": [
     {
       "hello": "Welcome to my Poké Mart. I hope you find something you like!",
       "goodbye": "See you next time."
+    },
+    {
+      "hello": "Hello, welcome to the Pokémart. How may I help you?",
+      "goodbye": "Thank you for shopping at the Pokémart. Have a nice day."
     }
   ],
   /*
@@ -46,6 +56,10 @@
       "rarity": 0.7
     },
     {
+      "name": "Luxury Ball",
+      "rarity": 0.3
+    },
+    {
       "name": "Potion"
     },
     {
@@ -58,32 +72,38 @@
     {
       "name": "Max Potion",
       "rarity": 0.1,
-      "multi": 0.6
+      "multi": 0.8
     },
     {
       "name": "Full Restore",
-      "rarity": 0.1,
+      "rarity": 0.1
     },
     {
       "name": "Full Heal"
     },
     {
-      "name": "Antidote"
+      "name": "Antidote",
+      "rarity": 0.5
     },
     {
-      "name": "Awakening"
+      "name": "Awakening",
+      "rarity": 0.5
     },
     {
-      "name": "Burn Heal"
+      "name": "Burn Heal",
+      "rarity": 0.5
     },
     {
-      "name": "Ice Heal"
+      "name": "Ice Heal",
+      "rarity": 0.5
     },
     {
-      "name": "Paralyze Heal"
+      "name": "Paralyze Heal",
+      "rarity": 0.5
     },
     {
-      "name": "Revive"
+      "name": "Revive",
+      "rarity": 0.8
     }
   ]
 }

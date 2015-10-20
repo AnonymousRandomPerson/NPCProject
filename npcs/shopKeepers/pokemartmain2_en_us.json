@@ -37,76 +37,72 @@
       "name": "Poke Ball"
     },
     {
+      "name": "Great Ball",
+      "multi": 1.1
+    },
+    {
       "name": "Dive Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Dusk Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Fast Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Friend Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Heal Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Heavy Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Level Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Love Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Lure Ball",
-      "rarity": 0.4
-    },
-    {
-      "name": "Luxury Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Moon Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Nest Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Net Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Quick Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Repeat Ball",
-      "rarity": 0.4
-    },
-    {
-      "name": "Safari Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Sport Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     },
     {
       "name": "Timer Ball",
-      "rarity": 0.4
+      "rarity": 0.3
     }
     {
       "name": "Fresh Water"
@@ -119,6 +115,37 @@
     },
     {
       "name": "Moomoo Milk"
+    },
+    {
+      "name": "Full Restore",
+      "rarity": 0.1,
+    },
+    {
+      "name": "Full Heal"
+    },
+    {
+      "name": "Antidote",
+      "rarity": 0.5      
+    },
+    {
+      "name": "Awakening",
+      "rarity": 0.5     
+    },
+    {
+      "name": "Burn Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "Ice Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "Paralyze Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "Revive",
+      "rarity": 0.5     
     }
   ]
 }

@@ -34,6 +34,34 @@
   */
   "items": [
     {
+      "name": "Poke Ball",
+      "multi": 1.2
+    },
+    {
+      "name": "Great Ball"
+    },
+    {
+      "name": "Ultra Ball",
+      "multi": 1.1,
+      "rarity": 0.5
+    },
+    {
+      "name": "Friend Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Heal Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Luxury Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Moomoo Milk",
+      "rarity": 0.5
+    },
+    {
       "name": "HealPowder"
     },
     {
