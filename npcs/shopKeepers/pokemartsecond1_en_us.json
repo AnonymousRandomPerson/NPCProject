@@ -33,25 +33,500 @@
     rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
   */
   "items": [
-    {
-      "name": "XAttack",
-      "multi": 1.1
+        {
+      "name": "TM1 - Hone Claws"
     },
     {
-      "name": "TM5 - Roar",
-      "multi": 1.1
+      "name": "TM2 - Dragon Claw"
     },
     {
-      "name": "XDefence",
-      "multi": 1.1
+      "name": "TM3 - Psyshock"
     },
     {
-      "name": "TM13 - Ice Beam",
-      "multi": 1.1
+      "name": "TM4 - Calm Mind"
     },
     {
-      "name": "Rare Candy",
-      "rarity": 0.2
+      "name": "TM5 - Roar"
+    },
+    {
+      "name": "TM6 - Toxic"
+    },
+    {
+      "name": "TM7 - Hail"
+    },
+    {
+      "name": "TM8 - Bulk Up"
+    },
+    {
+      "name": "TM9 - Venoshock"
+    },
+    {
+      "name": "TM10 - Hidden Power"
+    },
+    {
+      "name": "TM11 - Sunny Day"
+    },
+    {
+      "name": "TM12 - Taunt"
+    },
+    {
+      "name": "TM13 - Ice Beam"
+    },
+    {
+      "name": "TM14 - Blizzard"
+    },
+    {
+      "name": "TM15 - Hyper Beam"
+    },
+    {
+      "name": "TM16 - Light Screen"
+    },
+    {
+      "name": "TM17 - Protect"
+    },
+    {
+      "name": "TM18 - Rain Dance"
+    },
+    {
+      "name": "TM19 - Telekinesis"
+    },
+    {
+      "name": "TM20 - Safeguard"
+    },
+    {
+      "name": "TM21 - Frustration"
+    },
+    {
+      "name": "TM22 - SolarBeam"
+    },
+    {
+      "name": "TM23 - Smack Down"
+    },
+    {
+      "name": "TM24 - Thunderbolt"
+    },
+    {
+      "name": "TM25 - Thunder"
+    },
+    {
+      "name": "TM26 - Earthquake"
+    },
+    {
+      "name": "TM27 - Return"
+    },
+    {
+      "name": "TM28 - Dig"
+    },
+    {
+      "name": "TM29 - Psychic"
+    },
+    {
+      "name": "TM30 - Shadow Ball"
+    },
+    {
+      "name": "TM31 - Brick Break"
+    },
+    {
+      "name": "TM32 - Double Team"
+    },
+    {
+      "name": "TM33 - Reflect"
+    },
+    {
+      "name": "TM34 - Sludge Wave"
+    },
+    {
+      "name": "TM35 - Flamethrower"
+    },
+    {
+      "name": "TM36 - Sludge Bomb"
+    },
+    {
+      "name": "TM37 - Sandstorm"
+    },
+    {
+      "name": "TM38 - Fire Blast"
+    },
+    {
+      "name": "TM39 - Rock Tomb"
+    },
+    {
+      "name": "TM40 - Aerial Ace"
+    },
+    {
+      "name": "TM41 - Torment"
+    },
+    {
+      "name": "TM42 - Facade"
+    },
+    {
+      "name": "TM43 - Flame Charge"
+    },
+    {
+      "name": "TM44 - Rest"
+    },
+    {
+      "name": "TM45 - Attract"
+    },
+    {
+      "name": "TM46 - Thief"
+    },
+    {
+      "name": "TM47 - Low Sweep"
+    },
+    {
+      "name": "TM48 - Round"
+    },
+    {
+      "name": "TM49 - Echoed Voice"
+    },
+    {
+      "name": "TM50 - Overheat"
+    },
+    {
+      "name": "TM51 - Ally Switch"
+    },
+    {
+      "name": "TM52 - Focus Blast"
+    },
+    {
+      "name": "TM53 - Energy Ball"
+    },
+    {
+      "name": "TM54 - False Swipe"
+    },
+    {
+      "name": "TM55 - Scald"
+    },
+    {
+      "name": "TM56 - Fling"
+    },
+    {
+      "name": "TM57 - Charge Beam"
+    },
+    {
+      "name": "TM58 - Sky Drop"
+    },
+    {
+      "name": "TM59 - Incinerate"
+    },
+    {
+      "name": "TM60 - Quash"
+    },
+    {
+      "name": "TM61 - Will-O-Wisp"
+    },
+    {
+      "name": "TM62 - Acrobatics"
+    },
+    {
+      "name": "TM63 - Embargo"
+    },
+    {
+      "name": "TM64 - Explosion"
+    },
+    {
+      "name": "TM65 - Shadow Claw"
+    },
+    {
+      "name": "TM66 - Payback"
+    },
+    {
+      "name": "TM67 - Retaliate"
+    },
+    {
+      "name": "TM68 - Giga Impact"
+    },
+    {
+      "name": "TM69 - Rock Polish"
+    },
+    {
+      "name": "TM70 - Flash"
+    },
+    {
+      "name": "TM71 - Stone Edge"
+    },
+    {
+      "name": "TM72 - Volt Switch"
+    },
+    {
+      "name": "TM73 - Thunder Wave"
+    },
+    {
+      "name": "TM74 - Gyro Ball"
+    },
+    {
+      "name": "TM75 - Swords Dance"
+    },
+    {
+      "name": "TM76 - Struggle Bug"
+    },
+    {
+      "name": "TM77 - Psych Up"
+    },
+    {
+      "name": "TM78 - Bulldoze"
+    },
+    {
+      "name": "TM79 - Frost Breath"
+    },
+    {
+      "name": "TM80 - Rock Slide"
+    },
+    {
+      "name": "TM81 - X-Scissor"
+    },
+    {
+      "name": "TM82 - Dragon Tail"
+    },
+    {
+      "name": "TM83 - Work Up"
+    },
+    {
+      "name": "TM84 - Poison Jab"
+    },
+    {
+      "name": "TM85 - Dream Eater"
+    },
+    {
+      "name": "TM86 - Grass Knot"
+    },
+    {
+      "name": "TM87 - Swagger"
+    },
+    {
+      "name": "TM88 - Pluck"
+    },
+    {
+      "name": "TM89 - U-Turn"
+    },
+    {
+      "name": "TM90 - Substitute"
+    },
+    {
+      "name": "TM91 - Flash Cannon"
+    },
+    {
+      "name": "TM92 - Trick Room"
+    },
+    {
+      "name": "TM93 - Wild Charge"
+    },
+    {
+      "name": "TM94 - Rock Smash"
+    },
+    {
+      "name": "TM95 - Snarl"
+    },
+    {
+      "name": "TM96 - Mega Punch"
+    },
+    {
+      "name": "TM97 - Razor Wind"
+    },
+    {
+      "name": "TM98 - Whirlwind"
+    },
+    {
+      "name": "TM99 - Mega Kick"
+    },
+    {
+      "name": "TM100 - Horn Drill"
+    },
+    {
+      "name": "TM101 - Body Slam"
+    },
+    {
+      "name": "TM102 - Take Down"
+    },
+    {
+      "name": "TM103 - Double-Edge"
+    },
+    {
+      "name": "TM104 - BubbleBeam"
+    },
+    {
+      "name": "TM105 - Water Gun"
+    },
+    {
+      "name": "TM106 - Pay Day"
+    },
+    {
+      "name": "TM107 - Submission"
+    },
+    {
+      "name": "TM108 - Counter"
+    },
+    {
+      "name": "TM109 - Seismic Toss"
+    },
+    {
+      "name": "TM110 - Rage"
+    },
+    {
+      "name": "TM111 - Mega Drain"
+    },
+    {
+      "name": "TM112 - Dragon Rage"
+    },
+    {
+      "name": "TM113 - Fissure"
+    },
+    {
+      "name": "TM114 - Teleport"
+    },
+    {
+      "name": "TM115 - Mimic"
+    },
+    {
+      "name": "TM116 - Bide"
+    },
+    {
+      "name": "TM117 - Metronome"
+    },
+    {
+      "name": "TM118 - Selfdestruct"
+    },
+    {
+      "name": "TM119 - Egg Bomb"
+    },
+    {
+      "name": "TM120 - Swift"
+    },
+    {
+      "name": "TM121 - Skull Bash"
+    },
+    {
+      "name": "TM122 - Softboiled"
+    },
+    {
+      "name": "TM123 - Sky Attack"
+    },
+    {
+      "name": "TM124 - Psywave"
+    },
+    {
+      "name": "TM125 - Tri Attack"
+    },
+    {
+      "name": "TM126 - DynamicPunch"
+    },
+    {
+      "name": "TM127 - Headbutt"
+    },
+    {
+      "name": "TM128 - Curse"
+    },
+    {
+      "name": "TM129 - Rollout"
+    },
+    {
+      "name": "TM130 - Zap Cannon"
+    },
+    {
+      "name": "TM131 - Sweet Scent"
+    },
+    {
+      "name": "TM132 - Snore"
+    },
+    {
+      "name": "TM133 - Icy Wind"
+    },
+    {
+      "name": "TM134 - Giga Drain"
+    },
+    {
+      "name": "TM135 - Endure"
+    },
+    {
+      "name": "TM136 - Iron Tail"
+    },
+    {
+      "name": "TM137 - DragonBreath"
+    },
+    {
+      "name": "TM138 - Mud-Slap"
+    },
+    {
+      "name": "TM139 - Ice Punch"
+    },
+    {
+      "name": "TM140 - Sleep Talk"
+    },
+    {
+      "name": "TM141 - Defense Curl"
+    },
+    {
+      "name": "TM142 - Thunder Punch"
+    },
+    {
+      "name": "TM143 - Detect"
+    },
+    {
+      "name": "TM144 - Steel Wing"
+    },
+    {
+      "name": "TM145 - Fire Punch"
+    },
+    {
+      "name": "TM146 - Fury Cutter"
+    },
+    {
+      "name": "TM147 - Nightmare"
+    },
+    {
+      "name": "TM148 - Focus Punch"
+    },
+    {
+      "name": "TM149 - Water Pulse"
+    },
+    {
+      "name": "TM150 - Bullet Seed"
+    },
+    {
+      "name": "TM151 - Shock Wave"
+    },
+    {
+      "name": "TM152 - Secret Power"
+    },
+    {
+      "name": "TM153 - Skill Swap"
+    },
+    {
+      "name": "TM154 - Snatch"
+    },
+    {
+      "name": "TM155 - Roost"
+    },
+    {
+      "name": "TM156 - Brine"
+    },
+    {
+      "name": "TM157 - Dragon Pulse"
+    },
+    {
+      "name": "TM158 - Drain Punch"
+    },
+    {
+      "name": "TM159 - Silver Wind"
+    },
+    {
+      "name": "TM160 - Recycle"
+    },
+    {
+      "name": "TM161 - Avalanche"
+    },
+    {
+      "name": "TM162 - Stealth Rock"
+    },
+    {
+      "name": "TM163 - Captivate"
+    },
+    {
+      "name": "TM164 - Dark Pulse"
+    },
+    {
+      "name": "TM165 - Natural Gift"
     }
   ]
 }

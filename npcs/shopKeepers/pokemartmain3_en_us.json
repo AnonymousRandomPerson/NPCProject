@@ -34,22 +34,6 @@
   */
   "items": [
     {
-      "name": "Friend Ball",
-      "multi": 0.8
-    },
-    {
-      "name": "Love Ball",
-      "multi": 0.8
-    },
-    {
-      "name": "Heal Ball",
-      "multi": 0.8
-    },
-    {
-      "name": "Moon Ball",
-      "multi": 0.8
-    },
-    {
       "name": "HealPowder"
     },
     {
@@ -62,6 +46,26 @@
       "name": "RevivalHerb",
       "rarity": 0.7
     }
-    
+    {
+      "name": "XAttack"
+    },
+    {
+      "name": "XDefence"
+    },
+    {
+      "name": "XSpecialAttack"
+    },
+    {
+      "name": "XSpecialDefence"
+    },
+    {
+      "name": "XSpeed"
+    },
+    {
+      "name": "XAccuracy"
+    },
+    {
+      "name": "DireHit"
+    }
   ]
 }
