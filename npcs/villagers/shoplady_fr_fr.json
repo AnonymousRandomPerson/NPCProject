@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shoplady.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mme Verte"
+        },
+        {
+            "name": "Margaritte"
+        },
+        {
+            "name": "Mlle Filigree"
+        },
+        {
+            "name": "Mme Économie"
+        },
+        {
+            "name": "Mme Blanche"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, je peux vous aider?"
+                },
+                {
+                    "text": "Mon Dieu, non, nous n'avons pas un quelconque de ceux!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bien venu a notre magasin. Y at-il quelquechose d'éspecial que vous désirez?"
+                },
+                {
+                    "text": "En fait je ne suis pas sûre que nous pouvons vous aider du tout."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Est-ce que je peux être de service à vous?"
+                },
+                {
+                    "text": "Faites le moi savoir lorsque vous êtes prêt à prendre une décision. Je suis occupée."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Oui, oui? Vous êtes le prochain? Dépêchez-vous, alors, d'autres sont en attente!"
+                },
+                {
+                    "text": "Trop cher? Bien, vous êtes venu à le magasin mauvais, je croix."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Salut, vous voudriez acheter çela?"
+                },
+                {
+                    "text": "Bien, vous devez le remettre. vous ne devez pas endommager la marchandise."
+                }
+            ]
+        }
+    ]
+}

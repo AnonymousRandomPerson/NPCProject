@@ -1,0 +1,99 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopgirl.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Babs"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hiya, welcome to the Poké Mart. Want any help?",
+      "goodbye": "Bye then."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "Poke Ball",
+      "multi": 1.2
+    },
+    {
+      "name": "Great Ball"
+    },
+    {
+      "name": "Ultra Ball",
+      "multi": 1.1,
+      "rarity": 0.5
+    },
+    {
+      "name": "Friend Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Heal Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Luxury Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Moomoo Milk",
+      "rarity": 0.5
+    },
+    {
+      "name": "HealPowder"
+    },
+    {
+      "name": "EnergyPowder"
+    },
+    {
+      "name": "EnergyRoot"
+    },
+    {
+      "name": "RevivalHerb",
+      "rarity": 0.7
+    }
+    {
+      "name": "XAttack"
+    },
+    {
+      "name": "XDefence"
+    },
+    {
+      "name": "XSpecialAttack"
+    },
+    {
+      "name": "XSpecialDefence"
+    },
+    {
+      "name": "XSpeed"
+    },
+    {
+      "name": "XAccuracy"
+    },
+    {
+      "name": "DireHit"
+    }
+  ]
+}
