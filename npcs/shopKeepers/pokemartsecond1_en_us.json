@@ -34,24 +34,664 @@
   */
   "items": [
     {
-      "name": "XAttack",
-      "multi": 1.1
+      "name": "TM1 - Hone Claws",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM2 - Dragon Claw",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM3 - Psyshock",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM4 - Calm Mind",
+      "rarity": 0.05
     },
     {
       "name": "TM5 - Roar",
-      "multi": 1.1
+      "rarity": 0.05
     },
     {
-      "name": "XDefence",
-      "multi": 1.1
+      "name": "TM6 - Toxic",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM7 - Hail",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM8 - Bulk Up",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM9 - Venoshock",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM10 - Hidden Power",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM11 - Sunny Day",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM12 - Taunt",
+      "rarity": 0.05
     },
     {
       "name": "TM13 - Ice Beam",
-      "multi": 1.1
+      "rarity": 0.05
     },
     {
-      "name": "Rare Candy",
-      "rarity": 0.2
+      "name": "TM14 - Blizzard",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM15 - Hyper Beam",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM16 - Light Screen",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM17 - Protect",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM18 - Rain Dance",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM19 - Telekinesis",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM20 - Safeguard",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM21 - Frustration",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM22 - SolarBeam",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM23 - Smack Down",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM24 - Thunderbolt",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM25 - Thunder",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM26 - Earthquake",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM27 - Return",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM28 - Dig",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM29 - Psychic",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM30 - Shadow Ball",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM31 - Brick Break",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM32 - Double Team",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM33 - Reflect",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM34 - Sludge Wave",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM35 - Flamethrower",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM36 - Sludge Bomb",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM37 - Sandstorm",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM38 - Fire Blast",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM39 - Rock Tomb",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM40 - Aerial Ace",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM41 - Torment",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM42 - Facade",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM43 - Flame Charge",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM44 - Rest",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM45 - Attract",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM46 - Thief",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM47 - Low Sweep",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM48 - Round",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM49 - Echoed Voice",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM50 - Overheat",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM51 - Ally Switch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM52 - Focus Blast",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM53 - Energy Ball",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM54 - False Swipe",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM55 - Scald",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM56 - Fling",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM57 - Charge Beam",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM58 - Sky Drop",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM59 - Incinerate",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM60 - Quash",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM61 - Will-O-Wisp",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM62 - Acrobatics",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM63 - Embargo",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM64 - Explosion",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM65 - Shadow Claw",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM66 - Payback",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM67 - Retaliate",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM68 - Giga Impact",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM69 - Rock Polish",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM70 - Flash",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM71 - Stone Edge",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM72 - Volt Switch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM73 - Thunder Wave",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM74 - Gyro Ball",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM75 - Swords Dance",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM76 - Struggle Bug",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM77 - Psych Up",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM78 - Bulldoze",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM79 - Frost Breath",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM80 - Rock Slide",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM81 - X-Scissor",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM82 - Dragon Tail",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM83 - Work Up",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM84 - Poison Jab",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM85 - Dream Eater",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM86 - Grass Knot",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM87 - Swagger",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM88 - Pluck",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM89 - U-Turn",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM90 - Substitute",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM91 - Flash Cannon",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM92 - Trick Room",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM93 - Wild Charge",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM94 - Rock Smash",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM95 - Snarl",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM96 - Mega Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM97 - Razor Wind",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM98 - Whirlwind",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM99 - Mega Kick",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM100 - Horn Drill",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM101 - Body Slam",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM102 - Take Down",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM103 - Double-Edge",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM104 - BubbleBeam",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM105 - Water Gun",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM106 - Pay Day",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM107 - Submission",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM108 - Counter",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM109 - Seismic Toss",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM110 - Rage",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM111 - Mega Drain",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM112 - Dragon Rage",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM113 - Fissure",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM114 - Teleport",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM115 - Mimic",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM116 - Bide",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM117 - Metronome",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM118 - Selfdestruct",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM119 - Egg Bomb",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM120 - Swift",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM121 - Skull Bash",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM122 - Softboiled",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM123 - Sky Attack",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM124 - Psywave",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM125 - Tri Attack",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM126 - DynamicPunch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM127 - Headbutt",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM128 - Curse",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM129 - Rollout",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM130 - Zap Cannon",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM131 - Sweet Scent",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM132 - Snore",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM133 - Icy Wind",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM134 - Giga Drain",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM135 - Endure",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM136 - Iron Tail",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM137 - DragonBreath",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM138 - Mud-Slap",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM139 - Ice Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM140 - Sleep Talk",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM141 - Defense Curl",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM142 - Thunder Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM143 - Detect",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM144 - Steel Wing",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM145 - Fire Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM146 - Fury Cutter",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM147 - Nightmare",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM148 - Focus Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM149 - Water Pulse",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM150 - Bullet Seed",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM151 - Shock Wave",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM152 - Secret Power",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM153 - Skill Swap",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM154 - Snatch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM155 - Roost",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM156 - Brine",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM157 - Dragon Pulse",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM158 - Drain Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM159 - Silver Wind",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM160 - Recycle",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM161 - Avalanche",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM162 - Stealth Rock",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM163 - Captivate",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM164 - Dark Pulse",
+      "rarity": 0.05
+    },
+    {
+      "name": "TM165 - Natural Gift",
+      "rarity": 0.05
     }
   ]
 }

@@ -49,6 +49,14 @@
       "rarity": 0.4
     },
     {
+      "name": "Friend Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Heal Ball",
+      "rarity": 0.4
+    },
+    {
       "name": "Heavy Ball",
       "rarity": 0.4
     },
@@ -57,15 +65,27 @@
       "rarity": 0.4
     },
     {
+      "name": "Love Ball",
+      "rarity": 0.4
+    },
+    {
       "name": "Lure Ball",
       "rarity": 0.4
     },
     {
-      "name": "Net Ball",
+      "name": "Luxury Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Moon Ball",
       "rarity": 0.4
     },
     {
       "name": "Nest Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Net Ball",
       "rarity": 0.4
     },
     {
@@ -77,9 +97,17 @@
       "rarity": 0.4
     },
     {
-      "name": "Timer Ball",
+      "name": "Safari Ball",
       "rarity": 0.4
     },
+    {
+      "name": "Sport Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Timer Ball",
+      "rarity": 0.4
+    }
     {
       "name": "Fresh Water"
     },
@@ -90,8 +118,7 @@
       "name": "Lemonade"
     },
     {
-      "name": "Moomoo Milk",
-      "multi": 0.9
+      "name": "Moomoo Milk"
     }
   ]
 }
