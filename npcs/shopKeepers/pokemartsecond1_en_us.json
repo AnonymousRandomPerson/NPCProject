@@ -33,7 +33,7 @@
     rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
   */
   "items": [
-        {
+    {
       "name": "TM1 - Hone Claws"
     },
     {
