@@ -31,8 +31,8 @@
       "goodbye": "See you next time."
     },
     {
-      "hello": "Hello, welcome to the Pokémart. How may I help you?",
-      "goodbye": "Thank you for shopping at the Pokémart. Have a nice day."
+      "hello": "Hello, welcome to the Poké Mart. How may I help you?",
+      "goodbye": "Thank you for shopping at the Poké Mart. Have a nice day."
     }
   ],
   /*
@@ -71,7 +71,7 @@
     },
     {
       "name": "Max Potion",
-      "rarity": 0.1,
+      "rarity": 0.2,
       "multi": 0.8
     },
     {
