@@ -31,8 +31,8 @@
       "goodbye": "See you next time."
     },
     {
-      "hello": "Hello, welcome to the Pokémart. How may I help you?",
-      "goodbye": "Thank you for shopping at the Pokémart. Have a nice day."
+      "hello": "Bonjour, bien venu au Pokémart. Comment puis-je vous aider?",
+      "goodbye": "Merci pour le shopping au Pokémart. Bonne journée."
     }
   ],
   /*

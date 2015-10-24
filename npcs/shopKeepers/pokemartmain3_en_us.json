@@ -35,23 +35,65 @@
   "items": [
     {
       "name": "Poke Ball",
-      "multi": 0.9
+      "multi": 1.2
+    },
+    {
+      "name": "Great Ball"
+    },
+    {
+      "name": "Ultra Ball",
+      "multi": 1.1,
+      "rarity": 0.5
     },
     {
       "name": "Friend Ball",
-      "multi": 1.1
+      "rarity": 0.3
     },
     {
-      "name": "Love Ball",
-      "multi": 1.1
+      "name": "Heal Ball",
+      "rarity": 0.3
     },
     {
-      "name": "Fast Ball",
-      "multi": 1.1
+      "name": "Luxury Ball",
+      "rarity": 0.3
     },
     {
-      "name": "Potion",
-      "rarity": 0.4
+      "name": "Moomoo Milk",
+      "rarity": 0.5
+    },
+    {
+      "name": "HealPowder"
+    },
+    {
+      "name": "EnergyPowder"
+    },
+    {
+      "name": "EnergyRoot"
+    },
+    {
+      "name": "RevivalHerb",
+      "rarity": 0.7
+    }
+    {
+      "name": "XAttack"
+    },
+    {
+      "name": "XDefence"
+    },
+    {
+      "name": "XSpecialAttack"
+    },
+    {
+      "name": "XSpecialDefence"
+    },
+    {
+      "name": "XSpeed"
+    },
+    {
+      "name": "XAccuracy"
+    },
+    {
+      "name": "DireHit"
     }
   ]
 }

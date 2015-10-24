@@ -601,6 +601,7 @@
     },
     {
       "name": "Moon Stone",
+      "buy": 2100,
       "sell": 1050
     },
     {
@@ -1410,7 +1411,7 @@
     {
       "name": "TM54 - False Swipe",
       "buy": 10000,
-      "sell": 5000,
+      "sell": 5000
     },
     {
       "name": "TM55 - Scald",
@@ -2006,7 +2007,7 @@
     {
       "name": "HM10 - Dive",
       "sell": 8000
-    }
+    },
     {
       "name": "PokeMail-air",
       "buy": 50,

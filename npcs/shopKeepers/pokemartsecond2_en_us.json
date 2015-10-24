@@ -34,24 +34,109 @@
   */
   "items": [
     {
-      "name": "TM9 - Venoshock",
-      "multi": 1.2
+      "name": "PokeMail-air"
     },
     {
-      "name": "CoverFossil",
-      "multi": 1.2
+      "name": "PokeMail-bloom"
     },
     {
-      "name": "HealPowder",
-      "rarity": 0.3
+      "name": "PokeMail-brick"
     },
     {
-      "name": "RevivalHerb",
-      "multi": 1.1
+      "name": "PokeMail-bridged"
     },
     {
-      "name": "Water Stone",
-      "multi": 1.1
+      "name": "PokeMail-bridgem"
+    },
+    {
+      "name": "PokeMail-bridges"
+    },
+    {
+      "name": "PokeMail-bridget"
+    },
+    {
+      "name": "PokeMail-bridgev"
+    },
+    {
+      "name": "PokeMail-bubble"
+    },
+    {
+      "name": "PokeMail-dream"
+    },
+    {
+      "name": "PokeMail-fab"
+    },
+    {
+      "name": "PokeMail-favored"
+    },
+    {
+      "name": "PokeMail-flame"
+    },
+    {
+      "name": "PokeMail-glitter"
+    },
+    {
+      "name": "PokeMail-grass"
+    },
+    {
+      "name": "PokeMail-greet"
+    },
+    {
+      "name": "PokeMail-harbor"
+    },
+    {
+      "name": "PokeMail-heart"
+    },
+    {
+      "name": "PokeMail-inquiry"
+    },
+    {
+      "name": "PokeMail-like"
+    },
+    {
+      "name": "PokeMail-mech"
+    },
+    {
+      "name": "PokeMail-mosaic"
+    },
+    {
+      "name": "PokeMail-orange"
+    },
+    {
+      "name": "PokeMail-reply"
+    },
+    {
+      "name": "PokeMail-retro"
+    },
+    {
+      "name": "PokeMail-rsvp"
+    },
+    {
+      "name": "PokeMail-shadown"
+    },
+    {
+      "name": "PokeMail-snow"
+    },
+    {
+      "name": "PokeMail-space"
+    },
+    {
+      "name": "PokeMail-steel"
+    },
+    {
+      "name": "PokeMail-thanks"
+    },
+    {
+      "name": "PokeMail-tropic"
+    },
+    {
+      "name": "PokeMail-tunnel"
+    },
+    {
+      "name": "PokeMail-wave"
+    },
+    {
+      "name": "PokeMail-wood"
     }
   ]
 }

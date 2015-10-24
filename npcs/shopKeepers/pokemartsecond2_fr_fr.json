@@ -38,17 +38,35 @@
       "multi": 1.2
     },
     {
-      "name": "CoverFossil",
-      "multi": 1.2
+      "name": "EnergyPowder",
+      "multi": 1.1
+    },
+    {
+      "name": "EnergyRoot",
+      "rarity": 0.3,
+      "multi": 1.1
     },
     {
       "name": "HealPowder",
-      "rarity": 0.3
+      "multi": 1.1
     },
     {
       "name": "RevivalHerb",
+      "rarity": 0.3,
       "multi": 1.1
     },
+    {
+      "name": "Fire Stone",
+      "multi": 1.1
+    }
+    {
+      "name": "Leaf Stone",
+      "multi": 1.1
+    }
+    {
+      "name": "Thunder Stone",
+      "multi": 1.1
+    }
     {
       "name": "Water Stone",
       "multi": 1.1
