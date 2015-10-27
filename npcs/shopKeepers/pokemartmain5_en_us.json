@@ -1,0 +1,117 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopboy2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hello, check out our Poké Mart! We have some great Pokémon gear for you!",
+      "goodbye": "Come back again soon, okay?"
+    }
+    {
+      "hello": "Hi, looking for the best Poké Mart? Well, you just found it!",
+      "goodbye": "Leaving so soon? Well, make sure you come back even sooner!"
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "Poke Ball",
+      "multi": 1.2
+    },
+    {
+      "name": "Friend Ball,"
+      "multi": 1.1
+    },
+    {
+      "name": "Ultra Ball",
+      "multi": 1.1,
+      "rarity": 0.5
+    },
+    {
+      "name": "Luxury Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Heal Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Premier Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "Full Restore",
+      "rarity": 0.3
+    },
+    {
+      "name": "Max Potion",
+      "rarity": 0.3
+    },
+    {
+      "name": "Old Amber",
+      "rarity": 0.3
+    },
+    {
+      "name": "EnergyRoot"
+    },
+    {
+      "name": "CoveredFossil1",
+      "rarity": 0.2
+    }
+    {
+      "name": "CoveredFossil3",
+      "rarity": 0.2
+    },
+    {
+      "name": "Thunder Stone,"
+      "multi": 1.2
+    },
+    {
+      "name": "Water Stone",
+      "multi": 1.2
+    },
+    {
+      "name": "Power Anklet,"
+      "multi": 1.2
+    },
+    {
+      "name": "Ghost Gem,"
+      "multi": 1.1
+    },
+    {
+      "name": "Fighting Gem,"
+      "multi": 1.1
+    },
+    {
+      "name": "Normal Gem,"
+      "multi": 1.1
+    },
+    {
+      "name": "XSpeed",
+      "multi": 1.1
+    }
+  ]
+}
