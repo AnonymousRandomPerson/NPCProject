@@ -11,9 +11,6 @@
   },
   "textures": [
     {
-      "name": "shopkeeper.png"
-    },
-    {
       "name": "shopman2.png"
     }
   ],
@@ -31,8 +28,8 @@
       "goodbye": "See you next time."
     },
     {
-      "hello": "Hello, welcome to the Poké Mart. How may I help you?",
-      "goodbye": "Thank you for shopping at the Poké Mart. Have a nice day."
+      "hello": "Hello, welcome to the Pokémart. How may I help you?",
+      "goodbye": "Thank you for shopping at the Pokémart. Have a nice day."
     }
   ],
   /*
@@ -44,65 +41,65 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
       "multi": 0.9
     },
     {
-      "name": "Great Ball"
+      "name": "pixelmon:item.Great_Ball"
     },
     {
-      "name": "Ultra Ball",
+      "name": "pixelmon:item.Ultra_Ball",
       "multi": 1.1,
       "rarity": 0.7
     },
     {
-      "name": "Luxury Ball",
+      "name": "pixelmon:item.Luxury_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Potion"
+      "name": "pixelmon:item.Potion"
     },
     {
-      "name": "Super Potion"
+      "name": "pixelmon:item.Super_Potion"
     },
     {
-      "name": "Hyper Potion",
+      "name": "pixelmon:item.Hyper_Potion",
       "rarity": 0.5
     },
     {
-      "name": "Max Potion",
-      "rarity": 0.2,
+      "name": "pixelmon:item.Max_Potion",
+      "rarity": 0.1,
       "multi": 0.8
     },
     {
-      "name": "Full Restore",
+      "name": "pixelmon:item.Full_Restore",
       "rarity": 0.1
     },
     {
-      "name": "Full Heal"
+      "name": "pixelmon:item.Full_Heal"
     },
     {
-      "name": "Antidote",
+      "name": "pixelmon:item.Antidote",
       "rarity": 0.5
     },
     {
-      "name": "Awakening",
+      "name": "pixelmon:item.Awakening",
       "rarity": 0.5
     },
     {
-      "name": "Burn Heal",
+      "name": "pixelmon:item.Burn_Heal",
       "rarity": 0.5
     },
     {
-      "name": "Ice Heal",
+      "name": "pixelmon:item.Ice_Heal",
       "rarity": 0.5
     },
     {
-      "name": "Paralyze Heal",
+      "name": "pixelmon:item.Paralyze_Heal",
       "rarity": 0.5
     },
     {
-      "name": "Revive",
+      "name": "pixelmon:item.Revive",
       "rarity": 0.8
     }
   ]
