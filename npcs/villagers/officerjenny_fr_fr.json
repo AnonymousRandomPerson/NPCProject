@@ -6,47 +6,47 @@
     ],
     "names": [
         {
-            "name": "Officer Jenny"
+            "name": "Agent Jenny"
         },
     ],
     "chat": [
         {
             "lines": [
                 {
-                    "text": "Hey, est-ce que tous ces Pokémons sont à vous? Soignez-les bien, d'accord?"
+                    "text": "Hé, est-ce que tous ces Pokémon sont à vous ? Prenez-en bien soin !"
                 },
                 {
-                    "text": "Je retournera bientôt pour que m'assurer que vous avez soignés bien vos Pokémons!"
+                    "text": "Je reviendrai vérifier !"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Avez-vous vu le Team Rocket? On ma dit qu'ils etaitent tout près récemment."
+                    "text": "Avez-vous remarqué un signe de la Team Rocket ? J'ai entendu dire qu'on les avait vu dans le coin."
                 },
                 {
-                    "text": "Vous avez vu le Team Rocket dans la ville prochaine? Alors, merci! Je pars!"
+                    "text": "Vous avez vu la Team Rocket dans la ville voisine ? Merci bien ! Je m'en occupe !"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Faites attention des voleurs des Pokémons. On a fait report qu'ils etaitent activent à cette region récemment."
+                    "text": "Attention aux voleurs de Pokémon. On a reçu des plaintes, récemment."
                 },
                 {
-                    "text": "Vous n'êtes pas voleur de Pokémons, vous?"
+                    "text": "Vous n'en êtes pas un, quand même ?"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "J'adore mon emploi! Je cherche les semeurs et je mes tout à droit!"
+                    "text": "J'adore ce boulot ! Je peu chercher les fauteurs de trouble et tout arranger !"
                 },
                 {
-                    "text": "Voleurs de Pokémons, tous les types d'ecrocs! Faites  attention à moi, Officer Jenny!"
+                    "text": "Voleurs de Pokémon, arnaqueurs, ecrocs en tout genre ! Gare à l'Agent Jenny!"
                 }
             ]
         }
