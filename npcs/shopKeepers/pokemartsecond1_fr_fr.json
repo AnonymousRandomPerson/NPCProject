@@ -1,0 +1,57 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mme. Contraire"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Bien venu à notre belle boutique. La qualité de nos produits vous plaira.",
+      "goodbye": "Ravi d'avoir fait votre connaissance. Au revoir."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "XAttack",
+      "multi": 1.1
+    },
+    {
+      "name": "XDefence",
+      "multi": 1.1
+    },
+    {
+      "name": "TM5 - Roar",
+      "multi": 1.1
+    },
+    {
+      "name": "TM13 - Ice Beam",
+      "multi": 1.1
+    },
+    {
+      "name": "Rare Candy",
+      "rarity": 0.2
+    }
+  ]
+}

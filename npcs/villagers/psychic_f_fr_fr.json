@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Maria"
+        },
+        {
+            "name": "Mme. Voyante"
+        },
+        {
+            "name": "Lutetia"
+        },
+        {
+            "name": "Estelle"
+        },
+        {
+            "name": "Natasha"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Vous voulez un demonstration? Pah! Traversez ma paume d'or, d'abord."
+                },
+                {
+                    "text": "Je peux voir que vous êtes dirigé des enuis!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je peux lire vos pensées. Ils sont pleins de Pokémon, riens mais de Pokémon."
+                },
+                {
+                    "text": "Ça ne m'intérresse pas de tout. Allez-vous en!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai la pouvoir de voir votre avenir! Je vois beaucoups de battailles, et aussi a petit peu de la gloire."
+                },
+                {
+                    "text": "Pour un peu d'or, Je suis sûr que je pourrais voir plus de la gloire."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Vous avez ici la meilleur psychique du monde! Demandez, et je peux révéler tout!"
+                },
+                {
+                    "text": "Lequelle de vos Pokémons serais le plus fort pour le Gym prochain? Je n'ai aucune idée! Allez-vous en!"
+                }
+            ]
+        }
+    ]
+}

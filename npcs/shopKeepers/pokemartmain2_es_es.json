@@ -1,0 +1,151 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Sr. Benson"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "¡Hola, bienvenido a la Poké Tienda! ¡Hoy tenemos muchos especiales!",
+      "goodbye": "Volverémos a vernos, ¿verdad?"
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "Poke Ball"
+    },
+    {
+      "name": "Great Ball",
+      "multi": 1.1
+    },
+    {
+      "name": "Dive Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Dusk Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Fast Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Friend Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Heal Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Heavy Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Level Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Love Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Lure Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Moon Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Nest Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Net Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Quick Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Repeat Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Sport Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Timer Ball",
+      "rarity": 0.3
+    }
+    {
+      "name": "Fresh Water"
+    },
+    {
+      "name": "Soda Pop"   
+    },
+    {
+      "name": "Lemonade"
+    },
+    {
+      "name": "Moomoo Milk"
+    },
+    {
+      "name": "Full Restore",
+      "rarity": 0.1,
+    },
+    {
+      "name": "Full Heal"
+    },
+    {
+      "name": "Antidote",
+      "rarity": 0.5      
+    },
+    {
+      "name": "Awakening",
+      "rarity": 0.5     
+    },
+    {
+      "name": "Burn Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "Ice Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "Paralyze Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "Revive",
+      "rarity": 0.5     
+    }
+  ]
+}

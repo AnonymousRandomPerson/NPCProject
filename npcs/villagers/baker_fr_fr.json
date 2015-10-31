@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "baker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "M. Croissant"
+        },
+        {
+            "name": "Mr. Souffle"
+        },
+        {
+            "name": "Bertie Boulanger"
+        },
+        {
+            "name": "M. Tarte"
+        },
+        {
+            "name": "M. Pâtisserie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Si vous avez besoin du pain, vener à mon boulangerie."
+                },
+                {
+                    "text": "Je n'utilise que la farine la plus fine."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, nous vendons les pains très frais cet après-midi pour demi-prix."
+                },
+                {
+                    "text": "Voudriez-vous une douzaine?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai le sentiment de descente lorsque je voix un gateau qui est à plat."
+                },
+                {
+                    "text": "Cuisson pâtisserie c'est un art exigeant! Il est pas pour les timides! "
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tu dois engraisser! Tiens, viens acheter des délicieuses tartes."
+                },
+                {
+                    "text": "Tu n'aimes pas les tartes? Plus pour moi, alors!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je veux que je pourrais arrête de manger tant du pain que je cuisine."
+                },
+                {
+                    "text": "Croix-tu que je dois faire un régime?"
+                }
+            ]
+        }
+    ]
+}

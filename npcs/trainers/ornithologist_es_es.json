@@ -68,13 +68,18 @@
     "chat": [
         {
             "opening": "He viajado por todo el mundo con mis Pokémon voladores.",
-            "win": "¡Mis Pokémon de tipo volador son magníficos!",
+            "win": "¡Mis Pokémon de tipo Volador son magníficos!",
             "lose": "¡No!, ¡mis maravillosos Pokémon!"
+        },
+        {
+		    "opening": "Los Pokémon de tipo Volador son impresionantes, pensaba que lo sabías.",
+            "win": "Como viste, ¡los Pokémon de tipo Volador son superiores!",
+            "lose": "Oh queridos. Oh bueno, ¡me iré volando!"
         },
         {
             "opening": "Me encantaría ver que tipo de Pokémon tienes.",
             "win": "Los Pokémon voladores son muy fuertes. No es de extrañar que perdieses.",
-            "lose": "Supongo que otros tipos de Pokémon son muy guays."
+            "lose": "Supongo que otros tipos de Pokémon son mejores."
         }
     ]
 }

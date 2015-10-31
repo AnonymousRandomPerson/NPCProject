@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shopman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "M. Pomme"
+        },
+        {
+            "name": "Edmund l'Épicier"
+        },
+        {
+            "name": "M. Coin"
+        },
+        {
+            "name": "Magasinier Maurice"
+        },
+        {
+            "name": "M. Vert"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, voudriez-vous du brocoli frais?"
+                },
+                {
+                    "text": "Vous n'aimez pas le brocoli? Je n'ai jamais entendu cela auparavant!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bien venu au marché. Puis-je vous aider à trouver ce que vous voulez?"
+                },
+                {
+                    "text": "Pokémon? Non, ceci est un marché d'alimentation. On ne mange pas les Pokémons!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Quelle belle journée! Voudriez-vous acheter des bananes?"
+                },
+                {
+                    "text": "Vous savez, les bananes nourissent le cerveau! Voilà pourquoi je suis si intelligent!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Dépêchez-vous!Beaucoup de bonnes affaires à notre magasin aujourd'hui!"
+                },
+                {
+                    "text": "Trop cher? Pah! Il est une bonne affaire rapport avec le prix d'hier!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, nous avons des pommes très sucrés aujourd'hui."
+                },
+                {
+                    "text": "Non, vous ne pouvez pas le goût de les tester d'abord!"
+                }
+            ]
+        }
+    ]
+}
