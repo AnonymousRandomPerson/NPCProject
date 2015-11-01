@@ -16,13 +16,13 @@
   ],
   "names": [
     {
-      "name": "Mr. Benson"
+      "name": "Sr. Benson"
     }
   ],
   "chat": [
     {
-      "hello": "Hello there, welcome to the Poké Mart! We have many specials today!",
-      "goodbye": "Come see us again, won't you?"
+      "hello": "¡Hola, bienvenido a la Poké Tienda! ¡Hoy tenemos muchos especiales!",
+      "goodbye": "Volverémos a vernos, ¿verdad?"
     }
   ],
   /*
@@ -34,117 +34,117 @@
   */
   "items": [
     {
-      "name": "pixelmon:item.Poke_Ball"
+      "name": "Poke Ball"
     },
     {
-      "name": "pixelmon:item.Great_Ball",
+      "name": "Great Ball",
       "multi": 1.1
     },
     {
-      "name": "pixelmon:item.Dive_Ball",
+      "name": "Dive Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Dusk_Ball",
+      "name": "Dusk Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Fast_Ball",
+      "name": "Fast Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Friend_Ball",
+      "name": "Friend Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Heal_Ball",
+      "name": "Heal Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Heavy_Ball",
+      "name": "Heavy Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Level_Ball",
+      "name": "Level Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Love_Ball",
+      "name": "Love Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Lure_Ball",
+      "name": "Lure Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Moon_Ball",
+      "name": "Moon Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Nest_Ball",
+      "name": "Nest Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Net_Ball",
+      "name": "Net Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Quick_Ball",
+      "name": "Quick Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Repeat_Ball",
+      "name": "Repeat Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Sport_Ball",
+      "name": "Sport Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Timer_Ball",
+      "name": "Timer Ball",
       "rarity": 0.3
+    }
+    {
+      "name": "Fresh Water"
     },
     {
-      "name": "pixelmon:item.Fresh_Water"
+      "name": "Soda Pop"   
     },
     {
-      "name": "pixelmon:item.Soda_Pop"   
+      "name": "Lemonade"
     },
     {
-      "name": "pixelmon:item.Lemonade"
+      "name": "Moomoo Milk"
     },
     {
-      "name": "pixelmon:item.Moomoo_Milk"
+      "name": "Full Restore",
+      "rarity": 0.1,
     },
     {
-      "name": "pixelmon:item.Full_Restore",
-      "rarity": 0.1
+      "name": "Full Heal"
     },
     {
-      "name": "pixelmon:item.Full_Heal"
-    },
-    {
-      "name": "pixelmon:item.Antidote",
+      "name": "Antidote",
       "rarity": 0.5      
     },
     {
-      "name": "pixelmon:item.Awakening",
+      "name": "Awakening",
       "rarity": 0.5     
     },
     {
-      "name": "pixelmon:item.Burn_Heal",
+      "name": "Burn Heal",
       "rarity": 0.5     
     },
     {
-      "name": "pixelmon:item.Ice_Heal",
+      "name": "Ice Heal",
       "rarity": 0.5     
     },
     {
-      "name": "pixelmon:item.Paralyze_Heal",
+      "name": "Paralyze Heal",
       "rarity": 0.5     
     },
     {
-      "name": "pixelmon:item.Revive",
+      "name": "Revive",
       "rarity": 0.5     
     }
   ]

@@ -21,8 +21,8 @@
   ],
   "chat": [
     {
-      "hello": "Hiya, welcome to the Poké Mart. Want any help?",
-      "goodbye": "Bye then."
+      "hello": "Hola, bienvenido a la Poké Tienda. ¿Necesitas algo?",
+      "goodbye": "Adiós."
     }
   ],
   /*
@@ -34,66 +34,66 @@
   */
   "items": [
     {
-      "name": "pixelmon:item.Poke_Ball",
+      "name": "Poke Ball",
       "multi": 1.2
     },
     {
-      "name": "pixelmon:item.Great_Ball"
+      "name": "Great Ball"
     },
     {
-      "name": "pixelmon:item.Ultra_Ball",
+      "name": "Ultra Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "pixelmon:item.Friend_Ball",
+      "name": "Friend Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Heal_Ball",
+      "name": "Heal Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Luxury_Ball",
+      "name": "Luxury Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Moomoo_Milk",
+      "name": "Moomoo Milk",
       "rarity": 0.5
     },
     {
-      "name": "pixelmon:item.HealPowder"
+      "name": "HealPowder"
     },
     {
-      "name": "pixelmon:item.EnergyPowder"
+      "name": "EnergyPowder"
     },
     {
-      "name": "pixelmon:item.EnergyRoot"
+      "name": "EnergyRoot"
     },
     {
-      "name": "pixelmon:item.RevivalHerb",
+      "name": "RevivalHerb",
       "rarity": 0.7
+    }
+    {
+      "name": "XAttack"
     },
     {
-      "name": "pixelmon:item.XAttack"
+      "name": "XDefence"
     },
     {
-      "name": "pixelmon:item.XDefence"
+      "name": "XSpecialAttack"
     },
     {
-      "name": "pixelmon:item.XSpecialAttack"
+      "name": "XSpecialDefence"
     },
     {
-      "name": "pixelmon:item.XSpecialDefence"
+      "name": "XSpeed"
     },
     {
-      "name": "pixelmon:item.XSpeed"
+      "name": "XAccuracy"
     },
     {
-      "name": "pixelmon:item.XAccuracy"
-    },
-    {
-      "name": "pixelmon:item.DireHit"
+      "name": "DireHit"
     }
   ]
 }
