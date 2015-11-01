@@ -11,22 +11,22 @@
   },
   "textures": [
     {
-      "name": "shopboy.png"
+      "name": "shopboy2.png"
     }
   ],
   "names": [
     {
-      "name": "Connor"
+      "name": "Denis"
     }
   ],
   "chat": [
     {
-      "hello": "Hey there, welcome to the Poké Mart. Looking for anything special?",
-      "goodbye": "Okay, see ya next time."
+      "hello": "Bonjour, visez notre PokéMart! Nous avons des cools équipement de Pokémon à vendre!",
+      "goodbye": "Revenez bientôt, ok?"
     }
     {
-      "hello": "Whassup? Welcome to our cool Poké Mart! We've got some great gear for your Pokémon.",
-      "goodbye": "Ciaou, my friend. Come back anytime."
+      "hello": "Hi, looking for the best Poké Mart? Well, you just found it!",
+      "goodbye": "Leaving so soon? Well, make sure you come back even sooner!"
     }
   ],
   /*
@@ -42,7 +42,7 @@
       "multi": 1.2
     },
     {
-      "name": "Repeat Ball,"
+      "name": "Friend Ball,"
       "multi": 1.1
     },
     {
@@ -51,60 +51,67 @@
       "rarity": 0.5
     },
     {
-      "name": "Level Ball",
+      "name": "Luxury Ball",
       "rarity": 0.4
     },
     {
-      "name": "Moon Ball",
+      "name": "Heal Ball",
       "rarity": 0.4
     },
     {
-      "name": "Quick Ball",
+      "name": "Premier Ball",
       "rarity": 0.4
     },
     {
-      "name": "Rare Candy",
+      "name": "Full Restore",
       "rarity": 0.3
     },
     {
-      "name": "Antidote"
+      "name": "Max Potion",
+      "rarity": 0.3
     },
     {
-      "name": "Burn Heal"
+      "name": "Old Amber",
+      "rarity": 0.3
     },
     {
       "name": "EnergyRoot"
     },
     {
-      "name": "Will-O-Wisp",
+      "name": "CoveredFossil1",
       "rarity": 0.2
     }
     {
-      "name": "Acrobatics",
+      "name": "CoveredFossil3",
       "rarity": 0.2
     },
     {
-      "name": "Exp. Share,"
+      "name": "Thunder Stone,"
       "multi": 1.2
     },
     {
-      "name": "Toxic",
-      "rarity": 0.3
+      "name": "Water Stone",
+      "multi": 1.2
     },
     {
-      "name": "DragonGem,"
+      "name": "Power Anklet,"
+      "multi": 1.2
+    },
+    {
+      "name": "Ghost Gem,"
       "multi": 1.1
     },
     {
-      "name": "FireGem,"
+      "name": "Fighting Gem,"
       "multi": 1.1
     },
     {
-      "name": "Flying Gem,"
+      "name": "Normal Gem,"
       "multi": 1.1
     },
     {
-      "name": "XSpecialAttack"
+      "name": "XSpeed",
+      "multi": 1.1
     }
   ]
 }

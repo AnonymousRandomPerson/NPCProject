@@ -16,17 +16,17 @@
   ],
   "names": [
     {
-      "name": "Connor"
+      "name": "Christian"
     }
   ],
   "chat": [
     {
-      "hello": "Hey there, welcome to the Poké Mart. Looking for anything special?",
-      "goodbye": "Okay, see ya next time."
+      "hello": "Bonjour, bien venu au Poké Mart. Vous recherchez quelque chose de spécial?",
+      "goodbye": "Ok, vous voir la prochain fois."
     }
     {
-      "hello": "Whassup? Welcome to our cool Poké Mart! We've got some great gear for your Pokémon.",
-      "goodbye": "Ciaou, my friend. Come back anytime."
+      "hello": "Salût! Bien venu à notre Poké Mart trés cool! Nous avons des équipement fantastiques pour tes Pokémons.",
+      "goodbye": "Ciaou, mon ami. Revenis à tout moment."
     }
   ],
   /*
@@ -42,7 +42,7 @@
       "multi": 1.2
     },
     {
-      "name": "Repeat Ball,"
+      "name": "Fast Ball,"
       "multi": 1.1
     },
     {
@@ -51,15 +51,15 @@
       "rarity": 0.5
     },
     {
-      "name": "Level Ball",
+      "name": "Timer Ball",
       "rarity": 0.4
     },
     {
-      "name": "Moon Ball",
+      "name": "Sport Ball",
       "rarity": 0.4
     },
     {
-      "name": "Quick Ball",
+      "name": "Lure Ball",
       "rarity": 0.4
     },
     {
@@ -67,44 +67,43 @@
       "rarity": 0.3
     },
     {
-      "name": "Antidote"
+      "name": "Hyper Potion"
     },
     {
-      "name": "Burn Heal"
+      "name": "Soda Pop"
     },
     {
-      "name": "EnergyRoot"
+      "name": "Moomoo Milk"
     },
     {
-      "name": "Will-O-Wisp",
+      "name": "Awakening",
       "rarity": 0.2
     }
     {
-      "name": "Acrobatics",
+      "name": "Full Heal",
       "rarity": 0.2
     },
     {
-      "name": "Exp. Share,"
+      "name": "Protein,"
       "multi": 1.2
     },
     {
-      "name": "Toxic",
-      "rarity": 0.3
+      "name": "ArmorFossil"
     },
     {
-      "name": "DragonGem,"
+      "name": "Sun Stone,"
       "multi": 1.1
     },
     {
-      "name": "FireGem,"
+      "name": "Water Stone,"
       "multi": 1.1
     },
     {
-      "name": "Flying Gem,"
+      "name": "Fire Stone,"
       "multi": 1.1
     },
     {
-      "name": "XSpecialAttack"
+      "name": "RazorClaw"
     }
   ]
 }

@@ -11,22 +11,18 @@
   },
   "textures": [
     {
-      "name": "shopboy.png"
+      "name": "shopgirl2.png"
     }
   ],
   "names": [
     {
-      "name": "Connor"
+      "name": "Sophie"
     }
   ],
   "chat": [
     {
-      "hello": "Hey there, welcome to the Poké Mart. Looking for anything special?",
-      "goodbye": "Okay, see ya next time."
-    }
-    {
-      "hello": "Whassup? Welcome to our cool Poké Mart! We've got some great gear for your Pokémon.",
-      "goodbye": "Ciaou, my friend. Come back anytime."
+      "hello": "Salût, comment ça va? Bien venu au PokéMart. Juste appelez si vous avez besion d'aide.",
+      "goodbye": "Ciaou. Bonne journée!"
     }
   ],
   /*
@@ -39,72 +35,92 @@
   "items": [
     {
       "name": "Poke Ball",
-      "multi": 1.2
-    },
-    {
-      "name": "Repeat Ball,"
       "multi": 1.1
     },
     {
-      "name": "Ultra Ball",
+      "name": "Ultra Ball,
+      "multi": 1.2"
+    },
+    {
+      "name": "Friend Ball",
+      "multi": 1.1
+    },
+    {
+      "name": "Love Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Level Ball",
-      "rarity": 0.4
-    },
-    {
       "name": "Moon Ball",
-      "rarity": 0.4
+      "multi": 1.1,
+      "rarity": 0.5
     },
     {
-      "name": "Quick Ball",
-      "rarity": 0.4
+      "name": "Nest Ball",
+      "multi": 1.1,
+      "rarity": 0.5
     },
     {
-      "name": "Rare Candy",
+      "name": "Net Ball",
+      "multi": 1.1,
+      "rarity": 0.5
+    },
+    {
+      "name": "Cherish Ball",
+      "multi": 1.1,
+      "rarity": 0.5
+    },
+    {
+      "name": "Dive Ball",
+      "multi": 1.1,
+      "rarity": 0.5
+    },
+    {
+      "name": "Potion",
+      "rarity": 0.5
+    },
+    {
+      "name": "Revive",
       "rarity": 0.3
     },
     {
-      "name": "Antidote"
+      "name": "Ice Heal"
     },
     {
       "name": "Burn Heal"
     },
     {
-      "name": "EnergyRoot"
-    },
-    {
-      "name": "Will-O-Wisp",
-      "rarity": 0.2
+      "name": "Hp Up",
+      "rarity": 0.7
     }
     {
-      "name": "Acrobatics",
-      "rarity": 0.2
+      "name": "Iron",
+      "multi": 1.1
     },
     {
-      "name": "Exp. Share,"
+      "name": "Calcium",
+      "multi": 1.1
+    },
+    {
+      "name": "Carbos",
+      "multi": 1.1
+    },
+    {
+      "name": "Thunder Stone",
       "multi": 1.2
     },
     {
-      "name": "Toxic",
-      "rarity": 0.3
+      "name": "Leaf Stone",
+      "multi": 1.2
     },
     {
-      "name": "DragonGem,"
-      "multi": 1.1
+      "name": "Explosion"
     },
     {
-      "name": "FireGem,"
-      "multi": 1.1
+      "name": "Thunder Wave"
     },
     {
-      "name": "Flying Gem,"
-      "multi": 1.1
-    },
-    {
-      "name": "XSpecialAttack"
+      "name": "Payback"
     }
   ]
 }
