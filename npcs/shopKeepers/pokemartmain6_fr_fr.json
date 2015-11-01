@@ -114,13 +114,17 @@
       "multi": 1.2
     },
     {
-      "name": "Explosion"
+    {
+      "name": "TM5 - Roar"
     },
     {
-      "name": "Thunder Wave"
+      "name": "TM2 - Dragon Claw"
     },
     {
-      "name": "Payback"
+      "name": "TM23 - Smack Down"
+    },
+    {
+      "name": "TM15 - Hyper Beam"
     }
   ]
 }

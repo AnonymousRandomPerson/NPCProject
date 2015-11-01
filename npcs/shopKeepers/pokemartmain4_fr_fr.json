@@ -42,7 +42,7 @@
       "multi": 1.2
     },
     {
-      "name": "Fast Ball,"
+      "name": "Repeat Ball,"
       "multi": 1.1
     },
     {
@@ -51,15 +51,15 @@
       "rarity": 0.5
     },
     {
-      "name": "Timer Ball",
+      "name": "Level Ball",
       "rarity": 0.4
     },
     {
-      "name": "Sport Ball",
+      "name": "Moon Ball",
       "rarity": 0.4
     },
     {
-      "name": "Lure Ball",
+      "name": "Quick Ball",
       "rarity": 0.4
     },
     {
@@ -67,43 +67,44 @@
       "rarity": 0.3
     },
     {
-      "name": "Hyper Potion"
+      "name": "Antidote"
     },
     {
-      "name": "Soda Pop"
+      "name": "Burn Heal"
     },
     {
-      "name": "Moomoo Milk"
+      "name": "EnergyRoot"
     },
     {
-      "name": "Awakening",
+      "name": "Will-O-Wisp",
       "rarity": 0.2
     }
     {
-      "name": "Full Heal",
+      "name": "Acrobatics",
       "rarity": 0.2
     },
     {
-      "name": "Protein,"
+      "name": "Exp. Share,"
       "multi": 1.2
     },
     {
-      "name": "ArmorFossil"
+      "name": "Toxic",
+      "rarity": 0.3
     },
     {
-      "name": "Sun Stone,"
+      "name": "DragonGem,"
       "multi": 1.1
     },
     {
-      "name": "Water Stone,"
+      "name": "FireGem,"
       "multi": 1.1
     },
     {
-      "name": "Fire Stone,"
+      "name": "Flying Gem,"
       "multi": 1.1
     },
     {
-      "name": "RazorClaw"
+      "name": "XSpecialAttack"
     }
   ]
 }

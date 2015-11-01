@@ -39,7 +39,7 @@
   "items": [
     {
       "name": "Poke Ball",
-      "multi": 1.2
+      "multi": 1.1
     },
     {
       "name": "Friend Ball,"
@@ -52,14 +52,22 @@
     },
     {
       "name": "Luxury Ball",
+      "multi": 1.1
       "rarity": 0.4
     },
     {
       "name": "Heal Ball",
+      "multi": 1.1
       "rarity": 0.4
     },
     {
-      "name": "Premier Ball",
+      "name": "Safari Ball",
+      "multi": 1.1
+      "rarity": 0.4
+    },
+    {
+      "name": "Timer Ball",
+      "multi": 1.1
       "rarity": 0.4
     },
     {
@@ -71,22 +79,22 @@
       "rarity": 0.3
     },
     {
-      "name": "Old Amber",
+      "name": "Awakening",
       "rarity": 0.3
     },
     {
       "name": "EnergyRoot"
     },
     {
-      "name": "CoveredFossil1",
-      "rarity": 0.2
+      "name": "TM3 - Psyshock",
+      "rarity": 0.3
     }
     {
-      "name": "CoveredFossil3",
-      "rarity": 0.2
+      "name": "TM5 - Roar",
+      "rarity": 0.3
     },
     {
-      "name": "Thunder Stone,"
+      "name": "Thunder Stone",
       "multi": 1.2
     },
     {
@@ -94,20 +102,20 @@
       "multi": 1.2
     },
     {
-      "name": "Power Anklet,"
-      "multi": 1.2
-    },
-    {
-      "name": "Ghost Gem,"
+      "name": "XAccuracy",
       "multi": 1.1
     },
     {
-      "name": "Fighting Gem,"
-      "multi": 1.1
+      "name": "TM39 - Rock Tomb",
+      "rarity": 0.5
     },
     {
-      "name": "Normal Gem,"
-      "multi": 1.1
+      "name": "TM25 - Thunder",
+      "rarity": 0.5
+    },
+    {
+      "name": "TM1 - Hone Claws",
+      "rarity": 0.5
     },
     {
       "name": "XSpeed",

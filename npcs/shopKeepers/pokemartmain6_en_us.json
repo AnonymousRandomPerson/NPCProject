@@ -114,13 +114,16 @@
       "multi": 1.2
     },
     {
-      "name": "Explosion"
+      "name": "TM34 - Sludge Wave"
     },
     {
-      "name": "Thunder Wave"
+      "name": "TM24 - Thunderbolt"
     },
     {
-      "name": "Payback"
+      "name": "TM2 - Dragon Claw"
+    },
+    {
+      "name": "TM13 - Ice Beam"
     }
   ]
 }
