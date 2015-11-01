@@ -34,97 +34,96 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
       "multi": 1.1
     },
     {
-      "name": "Ultra Ball,
-      "multi": 1.2"
+      "name": "pixelmon:item.Ultra_Ball",
+      "multi": 1.2
     },
     {
-      "name": "Friend Ball",
+      "name": "pixelmon:item.Friend_Ball",
       "multi": 1.1
     },
     {
-      "name": "Love Ball",
+      "name": "pixelmon:item.Love_Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Moon Ball",
+      "name": "pixelmon:item.Moon_Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Nest Ball",
+      "name": "pixelmon:item.Nest_Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Net Ball",
+      "name": "pixelmon:item.Net_Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Cherish Ball",
+      "name": "pixelmon:item.Cherish_Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Dive Ball",
+      "name": "pixelmon:item.Dive_Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Potion",
+      "name": "pixelmon:item.Potion",
       "rarity": 0.5
     },
     {
-      "name": "Revive",
+      "name": "pixelmon:item.Revive",
       "rarity": 0.3
     },
     {
-      "name": "Ice Heal"
+      "name": "pixelmon:item.Ice_Heal"
     },
     {
-      "name": "Burn Heal"
+      "name": "pixelmon:item.Burn_Heal"
     },
     {
-      "name": "Hp Up",
+      "name": "pixelmon:item.Hp_Up",
       "rarity": 0.7
     }
     {
-      "name": "Iron",
+      "name": "pixelmon:item.Iron",
       "multi": 1.1
     },
     {
-      "name": "Calcium",
+      "name": "pixelmon:item.Calcium",
       "multi": 1.1
     },
     {
-      "name": "Carbos",
+      "name": "pixelmon:item.Carbos",
       "multi": 1.1
     },
     {
-      "name": "Thunder Stone",
+      "name": "pixelmon:item.Thunder_Stone",
       "multi": 1.2
     },
     {
-      "name": "Leaf Stone",
+      "name": "pixelmon:item.Leaf_Stone",
       "multi": 1.2
     },
     {
-    {
-      "name": "TM5 - Roar"
+      "name": "pixelmon:TM34_-_Sludge Wave"
     },
     {
-      "name": "TM2 - Dragon Claw"
+      "name": "pixelmon:TM24_-_Thunderbolt"
     },
     {
-      "name": "TM23 - Smack Down"
+      "name": "pixelmon:TM2_-_Dragon Claw"
     },
     {
-      "name": "TM15 - Hyper Beam"
+      "name": "pixelmon:TM13_-_Ice Beam"
     }
   ]
 }

@@ -38,73 +38,73 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
       "multi": 1.2
     },
     {
-      "name": "Repeat Ball,"
+      "name": "pixelmon:item.Repeat_Ball,"
       "multi": 1.1
     },
     {
-      "name": "Ultra Ball",
+      "name": "pixelmon:item.Ultra_Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Level Ball",
+      "name": "pixelmon:item.Level_Ball",
       "rarity": 0.4
     },
     {
-      "name": "Moon Ball",
+      "name": "pixelmon:item.Moon_Ball",
       "rarity": 0.4
     },
     {
-      "name": "Quick Ball",
+      "name": "pixelmon:item.Quick_Ball",
       "rarity": 0.4
     },
     {
-      "name": "Rare Candy",
+      "name": "pixelmon:item.Rare_Candy",
       "rarity": 0.3
     },
     {
-      "name": "Antidote"
+      "name": "pixelmon:item.Antidote"
     },
     {
-      "name": "Burn Heal"
+      "name": "pixelmon:item.Burn_Heal"
     },
     {
-      "name": "EnergyRoot"
+      "name": "pixelmon:item.Protein"
     },
     {
-      "name": "Will-O-Wisp",
+      "name": "pixelmon:TM105_-_Water_Gun",
       "rarity": 0.2
     }
     {
-      "name": "Acrobatics",
+      "name": "pixelmon:TM28_-_Dig",
       "rarity": 0.2
     },
     {
-      "name": "Exp. Share,"
+      "name": "pixelmon:HM2_-_Fly",
       "multi": 1.2
     },
     {
-      "name": "Toxic",
+      "name": "TM1_-_Hone_Claws",
       "rarity": 0.3
     },
     {
-      "name": "DragonGem,"
-      "multi": 1.1
+      "name": "pixelmon:TM6_-_Toxic",
+      "rarity": 0.3
     },
     {
-      "name": "FireGem,"
-      "multi": 1.1
+      "name": "pixelmon:TM54_-_False_Swipe",
+      "rarity": 0.3
     },
     {
-      "name": "Flying Gem,"
-      "multi": 1.1
+      "name": "pixelmon:TM94_-_Rock_Smash",
+      "rarity": 0.3
     },
     {
-      "name": "XSpecialAttack"
+      "name": "pixelmon:item.XSpecialAttack"
     }
   ]
 }

@@ -34,66 +34,66 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
       "multi": 1.2
     },
     {
-      "name": "Great Ball"
+      "name": "pixelmon:item.Great_Ball"
     },
     {
-      "name": "Ultra Ball",
+      "name": "pixelmon:item.Ultra_Ball",
       "multi": 1.1,
       "rarity": 0.5
     },
     {
-      "name": "Friend Ball",
+      "name": "pixelmon:item.Friend_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Heal Ball",
+      "name": "pixelmon:item.Heal_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Luxury Ball",
+      "name": "pixelmon:item.Luxury_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Moomoo Milk",
+      "name": "pixelmon:item.Moomoo_Milk",
       "rarity": 0.5
     },
     {
-      "name": "HealPowder"
+      "name": "pixelmon:item.HealPowder"
     },
     {
-      "name": "EnergyPowder"
+      "name": "pixelmon:item.EnergyPowder"
     },
     {
-      "name": "EnergyRoot"
+      "name": "pixelmon:item.EnergyRoot"
     },
     {
-      "name": "RevivalHerb",
+      "name": "pixelmon:item.RevivalHerb",
       "rarity": 0.7
-    }
-    {
-      "name": "XAttack"
     },
     {
-      "name": "XDefence"
+      "name": "pixelmon:item.XAttack"
     },
     {
-      "name": "XSpecialAttack"
+      "name": "pixelmon:item.XDefence"
     },
     {
-      "name": "XSpecialDefence"
+      "name": "pixelmon:item.XSpecialAttack"
     },
     {
-      "name": "XSpeed"
+      "name": "pixelmon:item.XSpecialDefence"
     },
     {
-      "name": "XAccuracy"
+      "name": "pixelmon:item.XSpeed"
     },
     {
-      "name": "DireHit"
+      "name": "pixelmon:item.XAccuracy"
+    },
+    {
+      "name": "pixelmon:item.DireHit"
     }
   ]
 }
