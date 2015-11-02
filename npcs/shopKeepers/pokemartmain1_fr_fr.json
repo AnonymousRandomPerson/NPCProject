@@ -16,6 +16,9 @@
     {
       "name": "shopman2.png"
     }
+    {
+      "name": "shopman.png"
+    }
   ],
   "names": [
     {
@@ -23,16 +26,34 @@
     },
     {
       "name": "Eito"
+    },
+    {
+      "name": "M. Bonard"
+    },
+    {
+      "name": "M. Wong"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome to my Poké Mart. I hope you find something you like!",
-      "goodbye": "See you next time."
+      "hello": "Bonjour, bien venu au Pokémart! Nous avons tant de bonnes affaires aujourd'hui!",
+      "goodbye": "Venez nous voir à nouveau!"
     },
     {
       "hello": "Bonjour, bien venu au Pokémart. Comment puis-je vous aider?",
       "goodbye": "Merci pour le shopping au Pokémart. Bonne journée."
+    },
+    {
+      "hello": "Bonjour, bien venu au Pokémart! Nous avons tant de bonnes affaires aujourd'hui!",
+      "goodbye": "Venez nous voir à nouveau!"
+    },
+    {
+      "hello": "Bonjour! Bien venu à mon Poké Mart. J'ai seuls les meilleurs Pokémon produits à vendre.",
+      "goodbye": "Merci pour le shopping à mon magasin."
+    },
+    {
+      "hello": "Bien venu à mon Poké Mart. C'est une belle journée pour faire du shopping, n'est-ce pas?",
+      "goodbye": "Revenez bientôt, ok?"
     }
   ],
   /*

@@ -11,18 +11,36 @@
   },
   "textures": [
     {
-      "name": "shopgirl.png"
+      "name": "shopboy.png"
+    },
+    {
+      "name": "shopboy2.png"
     }
   ],
   "names": [
     {
-      "name": "Babbette"
+      "name": "Christian"
+    },
+    {
+      "name": "Denis"
     }
   ],
   "chat": [
     {
-      "hello": "Salut! Voulez-vous de l'aide? Nous avons des objets cool!",
-      "goodbye": "Ciaou!"
+      "hello": "Bonjour, bien venu au Poké Mart. Vous recherchez quelque chose de spécial?",
+      "goodbye": "Ok, vous voir la prochain fois."
+    }
+    {
+      "hello": "Salût! Bien venu à notre Poké Mart trés cool! Nous avons des équipement fantastiques pour tes Pokémons.",
+      "goodbye": "Ciaou, mon ami. Revenis à tout moment."
+    },
+    {
+      "hello": "Bonjour, visez notre PokéMart! Nous avons des cools équipement de Pokémon à vendre!",
+      "goodbye": "Revenez bientôt, ok?"
+    },
+    {
+      "hello": "Hi, looking for the best Poké Mart? Well, you just found it!",
+      "goodbye": "Leaving so soon? Well, make sure you come back even sooner!"
     }
   ],
   /*
@@ -35,10 +53,11 @@
   "items": [
     {
       "name": "pixelmon:item.Poke_Ball",
-      "multi": 1.2
+      "multi": 0.9
     },
     {
-      "name": "pixelmon:item.Great_Ball"
+      "name": "pixelmon:item.Repeat_Ball,"
+      "multi": 1.1
     },
     {
       "name": "pixelmon:item.Ultra_Ball",
@@ -46,54 +65,32 @@
       "rarity": 0.5
     },
     {
-      "name": "pixelmon:item.Friend_Ball",
+      "name": "pixelmon:item.Level_Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Moon_Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Quick_Ball",
+      "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Rare_Candy",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Heal_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.Antidote"
     },
     {
-      "name": "pixelmon:item.Luxury_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.Burn_Heal"
     },
     {
-      "name": "pixelmon:item.Moomoo_Milk",
-      "rarity": 0.5
-    },
-    {
-      "name": "pixelmon:item.HealPowder"
-    },
-    {
-      "name": "pixelmon:item.EnergyPowder"
-    },
-    {
-      "name": "pixelmon:item.EnergyRoot"
-    },
-    {
-      "name": "pixelmon:item.RevivalHerb",
-      "rarity": 0.7
-    },
-    {
-      "name": "pixelmon:item.XAttack"
-    },
-    {
-      "name": "pixelmon:item.XDefence"
+      "name": "pixelmon:item.Protein"
     },
     {
       "name": "pixelmon:item.XSpecialAttack"
-    },
-    {
-      "name": "pixelmon:item.XSpecialDefence"
-    },
-    {
-      "name": "pixelmon:item.XSpeed"
-    },
-    {
-      "name": "pixelmon:item.XAccuracy"
-    },
-    {
-      "name": "pixelmon:item.DireHit"
     }
   ]
 }

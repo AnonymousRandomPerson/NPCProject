@@ -12,17 +12,27 @@
   "textures": [
     {
       "name": "shoplady.png"
+    },
+    {
+      "name": "shoplady2.png"
     }
   ],
   "names": [
     {
       "name": "Mme. Contraire"
+    },
+    {
+      "name": "Mme. Benoit"
     }
   ],
   "chat": [
     {
       "hello": "Bien venu à notre belle boutique. La qualité de nos produits vous plaira.",
       "goodbye": "Ravi d'avoir fait votre connaissance. Au revoir."
+    },
+    {
+      "hello": "Bien venu à notre belle magasin. La qualité de ce Pokémart est insurpassable.",
+      "goodbye": "Je vous remercie pour le shopping à Pokémart."
     }
   ],
   /*

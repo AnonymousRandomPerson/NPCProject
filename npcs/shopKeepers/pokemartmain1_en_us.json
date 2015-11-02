@@ -13,6 +13,12 @@
     {
       "name": "shopman2.png"
     }
+    {
+      "name": "shopman.png"
+    }
+    {
+      "name": "shopman3.png"
+    }
   ],
   "names": [
     {
@@ -20,6 +26,12 @@
     },
     {
       "name": "Eito"
+    }
+    {
+      "name": "Mr. Benson"
+    }
+    {
+      "name": "Mr. Wong"
     }
   ],
   "chat": [
@@ -30,6 +42,18 @@
     {
       "hello": "Hello, welcome to the Pokémart. How may I help you?",
       "goodbye": "Thank you for shopping at the Pokémart. Have a nice day."
+    }
+    {
+      "hello": "Hello there! Welcome to my Poké Mart. I have only the best Pokémon products for sale.",
+      "goodbye": "Thank you for shopping at my store."
+    }
+    {
+      "hello": "Welcome to my Poké Mart. Nice day for shopping, isn't it?",
+      "goodbye": "Come back soon, won't you?"
+    }
+    {
+      "hello": "Hello there, welcome to the Poké Mart! We have many specials today!",
+      "goodbye": "Come see us again, won't you?"
     }
   ],
   /*

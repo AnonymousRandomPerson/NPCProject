@@ -11,18 +11,28 @@
   },
   "textures": [
     {
-      "name": "shopman.png"
+      "name": "shopgirl.png"
+    },
+    {
+      "name": "shopgirl2.png"
     }
   ],
   "names": [
     {
-      "name": "M. Bonard"
+      "name": "Babbette"
+    },
+    {
+      "name": "Sophie"
     }
   ],
   "chat": [
     {
-      "hello": "Bonjour, bien venu au Pokémart! Nous avons tant de bonnes affaires aujourd'hui!",
-      "goodbye": "Venez nous voir à nouveau!"
+      "hello": "Salut! Voulez-vous de l'aide? Nous avons des objets cool!",
+      "goodbye": "Ciaou!"
+    },
+    {
+      "hello": "Salût, comment ça va? Bien venu au PokéMart. Juste appelez si vous avez besion d'aide.",
+      "goodbye": "Ciaou. Bonne journée!"
     }
   ],
   /*
@@ -34,23 +44,16 @@
   */
   "items": [
     {
-      "name": "pixelmon:item.Poke_Ball"
+      "name": "pixelmon:item.Poke_Ball",
+      "multi": 0.9
     },
     {
-      "name": "pixelmon:item.Great_Ball",
-      "multi": 1.1
+      "name": "pixelmon:item.Great_Ball"
     },
     {
-      "name": "pixelmon:item.Dive_Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "pixelmon:item.Dusk_Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "pixelmon:item.Fast_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.Ultra_Ball",
+      "multi": 1.1,
+      "rarity": 0.5
     },
     {
       "name": "pixelmon:item.Friend_Ball",
@@ -61,91 +64,46 @@
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Heavy_Ball",
+      "name": "pixelmon:item.Luxury_Ball",
       "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.Level_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.Moomoo_Milk",
+      "rarity": 0.5
     },
     {
-      "name": "pixelmon:item.Love_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.HealPowder"
     },
     {
-      "name": "pixelmon:item.Lure_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.EnergyPowder"
     },
     {
-      "name": "pixelmon:item.Moon_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.EnergyRoot"
     },
     {
-      "name": "pixelmon:item.Nest_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.RevivalHerb",
+      "rarity": 0.7
     },
     {
-      "name": "pixelmon:item.Net_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.XAttack"
     },
     {
-      "name": "pixelmon:item.Quick_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.XDefence"
     },
     {
-      "name": "pixelmon:item.Repeat_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.XSpecialAttack"
     },
     {
-      "name": "pixelmon:item.Sport_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.XSpecialDefence"
     },
     {
-      "name": "pixelmon:item.Timer_Ball",
-      "rarity": 0.3
+      "name": "pixelmon:item.XSpeed"
     },
     {
-      "name": "pixelmon:item.Fresh_Water"
+      "name": "pixelmon:item.XAccuracy"
     },
     {
-      "name": "pixelmon:item.Soda_Pop"   
-    },
-    {
-      "name": "pixelmon:item.Lemonade"
-    },
-    {
-      "name": "pixelmon:item.Moomoo_Milk"
-    },
-    {
-      "name": "pixelmon:item.Full_Restore",
-      "rarity": 0.1
-    },
-    {
-      "name": "pixelmon:item.Full_Heal"
-    },
-    {
-      "name": "pixelmon:item.Antidote",
-      "rarity": 0.5      
-    },
-    {
-      "name": "pixelmon:item.Awakening",
-      "rarity": 0.5     
-    },
-    {
-      "name": "pixelmon:item.Burn_Heal",
-      "rarity": 0.5     
-    },
-    {
-      "name": "pixelmon:item.Ice_Heal",
-      "rarity": 0.5     
-    },
-    {
-      "name": "pixelmon:item.Paralyze_Heal",
-      "rarity": 0.5     
-    },
-    {
-      "name": "pixelmon:item.Revive",
-      "rarity": 0.5     
+      "name": "pixelmon:item.DireHit"
     }
   ]
 }
