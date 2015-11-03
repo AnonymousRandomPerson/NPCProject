@@ -6,59 +6,65 @@
     ],
     "names": [
         {
-            "name": "Christian"
+            "name": "Aldebert"
         },
         {
-            "name": "Pierre"
+            "name": "Pierre-Marie"
         },
         {
-            "name": "Francois"
+            "name": "Charles-Antoine"
         },
         {
-            "name": "Gaston"
+            "name": "Jean-Eudes"
         },
         {
-            "name": "Gilbert"
+            "name": "Philibert"
+        },
+        {
+            "name": "Armand"
+        },
+        {
+            "name": "Nicolas d'Aulnay des Charentes du Ventou"
         }
     ],
     "chat": [
         {
             "lines": [
                 {
-                    "text": "Mes Pokémons méritent le meilleur. S'il un deux est rayé, je restaure sa sante en pleinne."
+                    "text": "Mes Pokémon méritent le meilleur. Si l'un d'eux a une égratignure, je lui donne une Guérison."
                 },
                 {
-                    "text": "Je ne me soucie pas pour rien d'autre."
+                    "text": "Je n'exige rien de moins."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Mes Pokémons duvent être les plus forts, à cause de l'argent que j'ai depensé pour leurs Pokéballs."
+                    "text": "J'ai dépensé tellement d'argent en Pokéballs que mes Pokémon doivent être les plus puissants."
                 },
                 {
-                    "text": "Placez votre argent en valeur, recevez un retour. Prouvez que je me trompe."
+                    "text": "Tout placement intelligent génère un retour sur investissement. Je vous défie de me prouver que j'ai tort."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Comment si je ne me dérange pas d'aller à la chasse pour les Pokémons, et au lieu acheter le Pokédex plien d'un enfant qui est plus pauvre que moi."
+                    "text": "Supposons que je ne prenne pas la peine d'aller à la chasse aux Pokémon, et que je rachète le Pokédex complet d'un enfant plus démuni."
                 },
                 {
-                    "text": "Aurais-je alors un Entraîneur bien accompli sans effort?"
+                    "text": "Deviendrais-je alors un Dresseur accompli, et ce, sans effort ?"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Mon père m'a envoyé au monde pour devinir un Entraîneur éprouvé."
+                    "text": "Père m'a envoyé faire le tour du monde pour faire de moi un Dresseur chevronné."
                 },
                 {
-                    "text": "J'ai perdu tous mes battailles mais je suis encore plus riche que vous. Hm!"
+                    "text": "Jusqu'ici, j'ai perdu tous mes combats, mais je suis quand même plus riche que vous. Hm !"
                 }
             ]
         }
