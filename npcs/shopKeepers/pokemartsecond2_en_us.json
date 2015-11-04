@@ -11,12 +11,12 @@
   },
   "textures": [
     {
-      "name": "pixelmon:shoplady2.png"
+      "name": "shoplady2.png"
     }
   ],
   "names": [
     {
-      "name": "pixelmon:Mrs. Finnegan"
+      "name": "Mrs. Finnegan"
     }
   ],
   "chat": [
