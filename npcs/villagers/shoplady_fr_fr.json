@@ -6,69 +6,69 @@
     ],
     "names": [
         {
-            "name": "Mme Verte"
+            "name": "Mme Loseille"
         },
         {
-            "name": "Margaritte"
+            "name": "Marguerite"
         },
         {
-            "name": "Mlle Filigree"
+            "name": "Mlle Filigrane"
         },
         {
-            "name": "Mme Économie"
+            "name": "Mme Peuchère"
         },
         {
-            "name": "Mme Blanche"
+            "name": "Mme Leblanc"
         }
     ],
     "chat": [
         {
             "lines": [
                 {
-                    "text": "Bonjour, je peux vous aider?"
+                    "text": "Bonjour, en quoi puis-je vous aider?"
                 },
                 {
-                    "text": "Mon Dieu, non, nous n'avons pas un quelconque de ceux!"
+                    "text": "Grands dieux, non ! Nous ne vendons rien de tel ! Adieu !"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Bien venu a notre magasin. Y at-il quelquechose d'éspecial que vous désirez?"
+                    "text": "Bienvenue dans notre magasin. Désirez-vous quelque chose en particulier ?"
                 },
                 {
-                    "text": "En fait je ne suis pas sûre que nous pouvons vous aider du tout."
+                    "text": "Eh bien, je ne suis pas sûre de pouvoir vous aider. Bonne journée."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Est-ce que je peux être de service à vous?"
+                    "text": "Puis-je vous aider ?"
                 },
                 {
-                    "text": "Faites le moi savoir lorsque vous êtes prêt à prendre une décision. Je suis occupée."
+                    "text": "Quand vous vous serez décidé, faites-moi signe. J'ai beaucoup à faire."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Oui, oui? Vous êtes le prochain? Dépêchez-vous, alors, d'autres sont en attente!"
+                    "text": "Oui, oui ? C'est à vous ? Dépêchez-vous alors, il y en a qui attendent après vous !"
                 },
                 {
-                    "text": "Trop cher? Bien, vous êtes venu à le magasin mauvais, je croix."
+                    "text": "Trop cher ? J'ai l'impression que vous vous êtes trompé de magasin."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Salut, vous voudriez acheter çela?"
+                    "text": "Bonjour, vous comptez acheter ça?"
                 },
                 {
-                    "text": "Bien, vous devez le remettre. vous ne devez pas endommager la marchandise."
+                    "text": "Alors remettez-le à sa place. Je ne vous laisserai pas abîmer la marchandise."
                 }
             ]
         }
