@@ -11,15 +11,15 @@
   },
   "textures": [
     {
-      "name": "shopgirl.png"
+      "name": "shoplady3.png"
     },
     {
-      "name": "shopgirl2.png"
+      "name": "shoplady4.png"
     }
   ],
   "names": [
     {
-      "name": "Babbette"
+      "name": "Bernice"
     },
     {
       "name": "Sophie"

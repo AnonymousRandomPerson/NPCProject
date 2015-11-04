@@ -7,22 +7,22 @@
 
       More will be added as new shop types are added.
     */
-    "type": "PokemartMain"
+    "type": "Spawn"
   },
   "textures": [
     {
-      "name": "shopgirl.png"
+      "name": "gnome_trader.png"
     }
   ],
   "names": [
     {
-      "name": "Babs"
+      "name": "Jorlen"
     }
   ],
   "chat": [
     {
-      "hello": "Hola, bienvenido a la Poké Tienda. ¿Necesitas algo?",
-      "goodbye": "Adiós."
+      "hello": "Vous y! Chasseur de Pokémon! J'ai des affaires precieux à vous offrir!",
+      "goodbye": "Si vous êtes chanceux, vous me reverrez, chasseur de Pokémon."
     }
   ],
   /*
@@ -35,65 +35,18 @@
   "items": [
     {
       "name": "Poke Ball",
-      "multi": 1.2
+      "multi": 0.9
     },
     {
       "name": "Great Ball"
     },
     {
-      "name": "Ultra Ball",
-      "multi": 1.1,
-      "rarity": 0.5
+      "name": "Max Potion",
+      "multi": 1.1
     },
     {
-      "name": "Friend Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Heal Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Luxury Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Moomoo Milk",
-      "rarity": 0.5
-    },
-    {
-      "name": "HealPowder"
-    },
-    {
-      "name": "EnergyPowder"
-    },
-    {
-      "name": "EnergyRoot"
-    },
-    {
-      "name": "RevivalHerb",
-      "rarity": 0.7
-    }
-    {
-      "name": "XAttack"
-    },
-    {
-      "name": "XDefence"
-    },
-    {
-      "name": "XSpecialAttack"
-    },
-    {
-      "name": "XSpecialDefence"
-    },
-    {
-      "name": "XSpeed"
-    },
-    {
-      "name": "XAccuracy"
-    },
-    {
-      "name": "DireHit"
+      "name": "Rare Candy",
+      "rarity": 0.2
     }
   ]
 }

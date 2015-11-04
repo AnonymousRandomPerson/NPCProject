@@ -11,18 +11,18 @@
   },
   "textures": [
     {
-      "name": "shopman.png"
+      "name": "shoplady3.png"
     }
   ],
   "names": [
     {
-      "name": "Sr. Benson"
+      "name": "Babette"
     }
   ],
   "chat": [
     {
-      "hello": "¡Hola, bienvenido a la Poké Tienda! ¡Hoy tenemos muchos especiales!",
-      "goodbye": "Volverémos a vernos, ¿verdad?"
+      "hello": "Hola, bienvenido a la Poké Tienda. ¿Necesitas algo?",
+      "goodbye": "Adiós."
     }
   ],
   /*
@@ -34,23 +34,16 @@
   */
   "items": [
     {
-      "name": "Poke Ball"
+      "name": "Poke Ball",
+      "multi": 1.2
     },
     {
-      "name": "Great Ball",
-      "multi": 1.1
+      "name": "Great Ball"
     },
     {
-      "name": "Dive Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Dusk Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Fast Ball",
-      "rarity": 0.3
+      "name": "Ultra Ball",
+      "multi": 1.1,
+      "rarity": 0.5
     },
     {
       "name": "Friend Ball",
@@ -61,91 +54,46 @@
       "rarity": 0.3
     },
     {
-      "name": "Heavy Ball",
+      "name": "Luxury Ball",
       "rarity": 0.3
     },
     {
-      "name": "Level Ball",
-      "rarity": 0.3
+      "name": "Moomoo Milk",
+      "rarity": 0.5
     },
     {
-      "name": "Love Ball",
-      "rarity": 0.3
+      "name": "HealPowder"
     },
     {
-      "name": "Lure Ball",
-      "rarity": 0.3
+      "name": "EnergyPowder"
     },
     {
-      "name": "Moon Ball",
-      "rarity": 0.3
+      "name": "EnergyRoot"
     },
     {
-      "name": "Nest Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Net Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Quick Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Repeat Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Sport Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "Timer Ball",
-      "rarity": 0.3
+      "name": "RevivalHerb",
+      "rarity": 0.7
     }
     {
-      "name": "Fresh Water"
+      "name": "XAttack"
     },
     {
-      "name": "Soda Pop"   
+      "name": "XDefence"
     },
     {
-      "name": "Lemonade"
+      "name": "XSpecialAttack"
     },
     {
-      "name": "Moomoo Milk"
+      "name": "XSpecialDefence"
     },
     {
-      "name": "Full Restore",
-      "rarity": 0.1,
+      "name": "XSpeed"
     },
     {
-      "name": "Full Heal"
+      "name": "XAccuracy"
     },
     {
-      "name": "Antidote",
-      "rarity": 0.5      
-    },
-    {
-      "name": "Awakening",
-      "rarity": 0.5     
-    },
-    {
-      "name": "Burn Heal",
-      "rarity": 0.5     
-    },
-    {
-      "name": "Ice Heal",
-      "rarity": 0.5     
-    },
-    {
-      "name": "Paralyze Heal",
-      "rarity": 0.5     
-    },
-    {
-      "name": "Revive",
-      "rarity": 0.5     
+      "name": "DireHit"
     }
   ]
 }
