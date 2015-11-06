@@ -13,16 +13,40 @@
     {
       "name": "shoplady2.png"
     }
+    {
+      "name": "pixelmon:shoplady2.png"
+    }
+    {
+      "name": "pixelmon:shopsecondman.png"
+    }
   ],
   "names": [
     {
       "name": "Mrs. Hammersmith"
+    }
+    {
+      "name": "pixelmon:Mrs. Finnegan"
+    }
+    {
+      "name": "pixelmon:Mr. Prendergast"
     }
   ],
   "chat": [
     {
       "hello": "Welcome to our lovely store. I am sure the quality of our goods will please you.",
       "goodbye": "Delighted to have met you. Good day."
+    }
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    }
+    {
+      "hello": "Bien venu! Our Poké Mart has fine quality merchandise to offer you.",
+      "goodbye": "It was indeed a privelege to do business with you."
+    }
+    {
+      "hello": "Welcome to our fine Poké Mart. Enjoy browsing our luxury range.",
+      "goodbye": "Good day to you, and thank you for shopping at our store."
     }
   ],
   /*

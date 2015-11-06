@@ -7,22 +7,22 @@
 
       More will be added as new shop types are added.
     */
-    "type": "PokemartSecond"
+    "type": "Spawn"
   },
   "textures": [
     {
-      "name": "shoplady2.png"
+      "name": "gnome_trader.png"
     }
   ],
   "names": [
     {
-      "name": "Mme. Benoit"
+      "name": "Jorlen"
     }
   ],
   "chat": [
     {
-      "hello": "Bien venu à notre belle magasin. La qualité de ce Pokémart est insurpassable.",
-      "goodbye": "Je vous remercie pour le shopping à Pokémart."
+      "hello": "Vous y! Chasseur de Pokémon! J'ai des affaires precieux à vous offrir!",
+      "goodbye": "Si vous êtes chanceux, vous me reverrez, chasseur de Pokémon."
     }
   ],
   /*
@@ -34,42 +34,19 @@
   */
   "items": [
     {
-      "name": "TM9 - Venoshock",
-      "multi": 1.2
+      "name": "Poke Ball",
+      "multi": 0.9
     },
     {
-      "name": "EnergyPowder",
-      "multi": 1.1
+      "name": "Great Ball"
     },
     {
-      "name": "EnergyRoot",
-      "rarity": 0.3,
-      "multi": 1.1
-    },
-    {
-      "name": "HealPowder",
+      "name": "Max Potion",
       "multi": 1.1
     },
     {
-      "name": "RevivalHerb",
-      "rarity": 0.3,
-      "multi": 1.1
-    },
-    {
-      "name": "Fire Stone",
-      "multi": 1.1
-    }
-    {
-      "name": "Leaf Stone",
-      "multi": 1.1
-    }
-    {
-      "name": "Thunder Stone",
-      "multi": 1.1
-    }
-    {
-      "name": "Water Stone",
-      "multi": 1.1
+      "name": "Rare Candy",
+      "rarity": 0.2
     }
   ]
 }

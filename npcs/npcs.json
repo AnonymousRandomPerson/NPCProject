@@ -112,6 +112,9 @@
       "name": "scientist_m"
     },
     {
+      "name": "shopboy"
+    },
+    {
       "name": "shoplady"
     },
     {
@@ -289,9 +292,6 @@
     },
     {
       "name": "pokemartsecond1"
-    },
-    {
-      "name": "pokemartsecond2"
     }
   ]
 }

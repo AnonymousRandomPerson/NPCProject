@@ -11,18 +11,22 @@
   },
   "textures": [
     {
-      "name": "shopgirl.png"
+      "name": "shoplady4.png"
     }
   ],
   "names": [
     {
-      "name": "Babs"
+      "name": "Suki"
     }
   ],
   "chat": [
     {
-      "hello": "Hiya, welcome to the Poké Mart. Want any help?",
-      "goodbye": "Bye then."
+      "hello": "Hello, may I help you find your Pokémon equipment? We have some great bargains.",
+      "goodbye": "Thank you for your custom. We look forward to serving you again."
+    },
+    {
+      "hello": "Welcome to the Poké Mart. Is there anything special you're looking for?",
+      "goodbye": "Bye! Come and see us again soon!"
     }
   ],
   /*
@@ -32,7 +36,7 @@
     multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
     rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
   */
-  "items": [
+ "items": [
     {
       "name": "pixelmon:item.Poke_Ball",
       "multi": 1.2

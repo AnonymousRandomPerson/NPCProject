@@ -12,27 +12,74 @@
   "textures": [
     {
       "name": "shopkeeper.png"
-    },
+    }
     {
       "name": "shopman2.png"
+    }
+    {
+      "name": "shopman.png"
+    }
+    {
+      "name": "shopman3.png"
+    }
+    {
+      "name": "shopman4.png"
+    }
+    {
+      "name": "shopman5.png"
     }
   ],
   "names": [
     {
       "name": "Charles"
-    },
+    }
     {
       "name": "Eito"
+    }
+    {
+      "name": "M. Bonard"
+    }
+    {
+      "name": "M. Wong"
+    }
+    {
+      "name": "Christian"
+    }
+    {
+      "name": "Denis"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome to my Poké Mart. I hope you find something you like!",
-      "goodbye": "See you next time."
-    },
+      "hello": "Bonjour, bien venu au Pokémart! Nous avons tant de bonnes affaires aujourd'hui!",
+      "goodbye": "Venez nous voir à nouveau!"
+    }
     {
       "hello": "Bonjour, bien venu au Pokémart. Comment puis-je vous aider?",
       "goodbye": "Merci pour le shopping au Pokémart. Bonne journée."
+    },
+    {
+      "hello": "Bonjour, bien venu au Pokémart! Nous avons tant de bonnes affaires aujourd'hui!",
+      "goodbye": "Venez nous voir à nouveau!"
+    }
+    {
+      "hello": "Bonjour! Bien venu à mon Poké Mart. J'ai seuls les meilleurs Pokémon produits à vendre.",
+      "goodbye": "Merci pour le shopping à mon magasin."
+    }
+    {
+      "hello": "Bien venu à mon Poké Mart. C'est une belle journée pour faire du shopping, n'est-ce pas?",
+      "goodbye": "Revenez bientôt, ok?"
+    }
+      "hello": "Bonjour, bien venu au Poké Mart. Vous recherchez quelque chose de spécial?",
+      "goodbye": "Ok, vous voir la prochain fois."
+    }
+    {
+      "hello": "Salût! Bien venu à notre nouveau Poké Mart! Nous avons des équipement fantastiques pour tes Pokémons.",
+      "goodbye": "Ciaou, mon ami. Revenis à tout moment."
+    }
+    {
+      "hello": "Bonjour, visez notre PokéMart! Nous avons des cools équipement de Pokémon à vendre!",
+      "goodbye": "Revenez bientôt, ok?"
     }
   ],
   /*
@@ -44,65 +91,65 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
       "multi": 0.9
     },
     {
-      "name": "Great Ball"
+      "name": "pixelmon:item.Great_Ball"
     },
     {
-      "name": "Ultra Ball",
+      "name": "pixelmon:item.Ultra_Ball",
       "multi": 1.1,
       "rarity": 0.7
     },
     {
-      "name": "Luxury Ball",
+      "name": "pixelmon:item.Luxury_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Potion"
+      "name": "pixelmon:item.Potion"
     },
     {
-      "name": "Super Potion"
+      "name": "pixelmon:item.Super_Potion"
     },
     {
-      "name": "Hyper Potion",
+      "name": "pixelmon:item.Hyper_Potion",
       "rarity": 0.5
     },
     {
-      "name": "Max Potion",
+      "name": "pixelmon:item.Max_Potion",
       "rarity": 0.1,
       "multi": 0.8
     },
     {
-      "name": "Full Restore",
+      "name": "pixelmon:item.Full_Restore",
       "rarity": 0.1
     },
     {
-      "name": "Full Heal"
+      "name": "pixelmon:item.Full_Heal"
     },
     {
-      "name": "Antidote",
+      "name": "pixelmon:item.Antidote",
       "rarity": 0.5
     },
     {
-      "name": "Awakening",
+      "name": "pixelmon:item.Awakening",
       "rarity": 0.5
     },
     {
-      "name": "Burn Heal",
+      "name": "pixelmon:item.Burn_Heal",
       "rarity": 0.5
     },
     {
-      "name": "Ice Heal",
+      "name": "pixelmon:item.Ice_Heal",
       "rarity": 0.5
     },
     {
-      "name": "Paralyze Heal",
+      "name": "pixelmon:item.Paralyze_Heal",
       "rarity": 0.5
     },
     {
-      "name": "Revive",
+      "name": "pixelmon:item.Revive",
       "rarity": 0.8
     }
   ]
