@@ -11,28 +11,22 @@
   },
   "textures": [
     {
-      "name": "shoplady3.png"
-    }
-    {
       "name": "shoplady4.png"
     }
   ],
   "names": [
     {
-      "name": "Janet"
-    }
-    {
-      "name": "Sally"
+      "name": "Suki"
     }
   ],
   "chat": [
     {
-      "hello": "Hi, welcome to the Poké Mart. Would you like any help?",
-      "goodbye": "Bye then, visit us again soon."
-    }
+      "hello": "Hello, may I help you find your Pokémon equipment? We have some great bargains.",
+      "goodbye": "Thank you for your custom. We look forward to serving you again."
+    },
     {
-      "hello": "Hi, how are you? Welcome to the PokéMart. Just call out if you need any help.",
-      "goodbye": "Nice to see you. Have a great day!"
+      "hello": "Welcome to the Poké Mart. Is there anything special you're looking for?",
+      "goodbye": "Bye! Come and see us again soon!"
     }
   ],
   /*
@@ -53,57 +47,49 @@
     {
       "name": "pixelmon:item.Ultra_Ball",
       "multi": 1.1,
-      "rarity": 0.5
-    },
-    {
-      "name": "pixelmon:item.Friend_Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "pixelmon:item.Heal_Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "pixelmon:item.Heavy_Ball",
-      "rarity": 0.3
-    },
-    {
-      "name": "pixelmon:item.Moomoo_Milk",
-      "rarity": 0.5
-    },
-    {
-      "name": "pixelmon:item.HealPowder"
-    },
-    {
-      "name": "pixelmon:item.EnergyPowder"
-    },
-    {
-      "name": "pixelmon:item.EnergyRoot"
-    },
-    {
-      "name": "pixelmon:item.RevivalHerb",
       "rarity": 0.7
     },
     {
-      "name": "pixelmon:item.XAttack"
+      "name": "pixelmon:item.Level_Ball",
+      "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.XDefence"
+      "name": "pixelmon:item.Premier_Ball",
+      "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.XSpecialAttack"
+      "name": "pixelmon:item.Safari_Ball",
+      "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.XSpecialDefence"
+      "name": "pixelmon:item.Repeat_Ball",
+      "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.XSpeed"
+      "name": "pixelmon:item.Net_Ball",
+      "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.XAccuracy"
+      "name": "pixelmon:item.Dusk_Ball",
+      "rarity": 0.3
     },
     {
-      "name": "pixelmon:item.DireHit"
+      "name": "pixelmon:item.HP_Up"
+    },
+    {
+      "name": "pixelmon:item.Protein"
+    },
+    {
+      "name": "pixelmon:item.Iron"
+    },
+    {
+      "name": "pixelmon:item.Calcium"
+    },
+    {
+      "name": "pixelmon:item.Zinc"
+    },
+    {
+      "name": "pixelmon:item.Carbos"
     }
   ]
 }
