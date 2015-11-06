@@ -12,7 +12,7 @@
             "name": "Mr. Souffle"
         },
         {
-            "name": "Bertie Boulanger"
+            "name": "Bertie le Boulanger"
         },
         {
             "name": "M. Tarte"
@@ -25,50 +25,50 @@
         {
             "lines": [
                 {
-                    "text": "Si vous avez besoin du pain, vener à mon boulangerie."
+                    "text": "Si vous avez besoin de pain, passez donc à ma boulangerie."
                 },
                 {
-                    "text": "Je n'utilise que la farine la plus fine."
+                    "text": "Je n'utilise que la farine de qualité supérieure."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Bonjour, nous vendons les pains très frais cet après-midi pour demi-prix."
+                    "text": "Bonjour, cet après-midi, nous vendons du pain frais et croustillant à moitié prix."
                 },
                 {
-                    "text": "Voudriez-vous une douzaine?"
+                    "text": "Vous en prendrez bien une douzaine ?"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "J'ai le sentiment de descente lorsque je voix un gateau qui est à plat."
+                    "text": "Quand mes gâteaux ne lèvent pas, je me sens raplapla."
                 },
                 {
-                    "text": "Cuisson pâtisserie c'est un art exigeant! Il est pas pour les timides! "
+                    "text": "La pâtisserie, c'est un art exigeant ! Il faut du cran ! "
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Tu dois engraisser! Tiens, viens acheter des délicieuses tartes."
+                    "text": "Il faudrait que tu grossisses un peu ! Allez, viens acheter de délicieuses tartes à ma boulangerie."
                 },
                 {
-                    "text": "Tu n'aimes pas les tartes? Plus pour moi, alors!"
+                    "text": "Tu n'aimes pas les tartes ? Alors ça en fera plus pour moi !"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Je veux que je pourrais arrête de manger tant du pain que je cuisine."
+                    "text": "Si seulement je pouvais m'empêcher de manger une si grande part du pain que je prépare."
                 },
                 {
-                    "text": "Croix-tu que je dois faire un régime?"
+                    "text": "Tu crois que je devrais me mettre au régime?"
                 }
             ]
         }

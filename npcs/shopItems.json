@@ -2157,7 +2157,14 @@
       "name": "pixelmon:PokeMail-wood",
       "buy": 50,
       "sell": 25
+    },
+    {
+      "id": "sprucePlanksLore",
+      "name": "minecraft:planks",
+      "itemData": 1, //itemData:30 = spruce wood planks
+      "nbtData": "{display:{Lore:[\"Wooden planks\"]}}",
+      "buy": 5,
+      "sell": 2
     }
-
   ]
 }

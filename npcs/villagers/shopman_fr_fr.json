@@ -6,69 +6,69 @@
     ],
     "names": [
         {
-            "name": "M. Pomme"
+            "name": "M. Patate"
         },
         {
             "name": "Edmund l'Épicier"
         },
         {
-            "name": "M. Coin"
+            "name": "M. Dublé"
         },
         {
-            "name": "Magasinier Maurice"
+            "name": "Maurice le Maraîcher"
         },
         {
-            "name": "M. Vert"
+            "name": "M. Laverdure"
         }
     ],
     "chat": [
         {
             "lines": [
                 {
-                    "text": "Bonjour, voudriez-vous du brocoli frais?"
+                    "text": "Bonjour, ça vous dit d'acheter des brocolis frais ?"
                 },
                 {
-                    "text": "Vous n'aimez pas le brocoli? Je n'ai jamais entendu cela auparavant!"
+                    "text": "Comment ça, vous n'aimez pas les brocolis ? C'est la première fois que j'entends ça !"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Bien venu au marché. Puis-je vous aider à trouver ce que vous voulez?"
+                    "text": "Bienvenue au marché. Je peux vous aider à trouver votre bonheur ?"
                 },
                 {
-                    "text": "Pokémon? Non, ceci est un marché d'alimentation. On ne mange pas les Pokémons!"
+                    "text": "Des Pokémon ? Non, ici, c'est une épicerie. Les Pokémon, ça ne se mange pas, pas vrai ?"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Quelle belle journée! Voudriez-vous acheter des bananes?"
+                    "text": "Quelle belle journée ! Et si vous achetiez des bananes ?"
                 },
                 {
-                    "text": "Vous savez, les bananes nourissent le cerveau! Voilà pourquoi je suis si intelligent!"
+                    "text": "Vous savez, les bananes, c'est bon pour le cerveau ! C'est pour ça que je suis aussi intelligent !"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Dépêchez-vous!Beaucoup de bonnes affaires à notre magasin aujourd'hui!"
+                    "text": "Vite, vite ! Aujourd'hui, on fait le plein de bonnes affaires dans notre magasin !"
                 },
                 {
-                    "text": "Trop cher? Pah! Il est une bonne affaire rapport avec le prix d'hier!"
+                    "text": "C'est trop cher ? Pff ! Par rapport à hier, ce sont de bonnes affaires !"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Bonjour, nous avons des pommes très sucrés aujourd'hui."
+                    "text": "Bonjour, nous avons de délicieuses pommes bien sucrées aujourd'hui."
                 },
                 {
-                    "text": "Non, vous ne pouvez pas le goût de les tester d'abord!"
+                    "text": "Non, vous ne pouvez pas goûter avant d'acheter !"
                 }
             ]
         }

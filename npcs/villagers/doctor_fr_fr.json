@@ -6,59 +6,59 @@
     ],
     "names": [
         {
-            "name": "Le Doctor"
+            "name": "Le Docteur"
         },
         {
-            "name": "Dr.Pilule"
+            "name": "Dr. Pilule"
         },
         {
-            "name": "Dr.Joubert"
+            "name": "Dr. Smith"
         },
         {
-            "name": "Dr.Vacance"
+            "name": "Dr. Holiday"
         },
         {
-            "name": "Dr.Bien"
+            "name": "Dr. Frappadingue"
         }
     ],
     "chat": [
         {
             "lines": [
                 {
-                    "text": "Lancer la langue et dîtes, Aah."
+                    "text": "Tirez la langue et dites aaaah."
                 },
                 {
-                    "text": "Vous semblez up peu malaise. Vous avez besoin d'un tonique."
+                    "text": "Vous avez l'air un peu pâle. Besoin d'un remontant ?"
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Alors,vous devrais sortir plus au soleil. Il est bon pour les os,vous savez."
+                    "text": "Houlala, vous devriez prendre le soleil plus souvent. C'est bon pour les os, vous savez."
                 },
                 {
-                    "text": "Vous êtes mon prochain malade? C'est tant occupé aujourd'hui."
+                    "text": "Vous êtes mon prochain patient ? Il y a tellement de monde aujourd'hui, pfff..."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "Je n'ai que le médicine le plus délicieux. Je le prépare moi-même!"
+                    "text": "Je n'utilise que les médicaments les plus savoureux. Je les prépare moi-même !"
                 },
                 {
-                    "text": "J'aurais du étudier devenir docteur de Pokémon. Ça c'est tant plus intéressant."
+                    "text": "J'aurais dû étudier pour devenir médecin pour Pokémon. Tellement plus intéressant."
                 }
             ]
         },
         {
             "lines": [
                 {
-                    "text": "N'oubliez pas de prendre vôtre tonique deux foix par jour. Peut-être trois foix. Ou quartre..."
+                    "text": "N'oubliez pas de prendre votre fortifiant deux foix par jour. Peut-être trois fois. Ou quatre..."
                 },
                 {
-                    "text": "Le meiux tonique par tout, c'est à rire! Saviez-vous des bons blagues?"
+                    "text": "Le meilleur fortifiant, c'est le rire ! Vous connaissez de bonnes blagues ?"
                 }
             ]
         }
