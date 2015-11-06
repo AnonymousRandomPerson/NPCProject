@@ -7,32 +7,22 @@
 
       More will be added as new shop types are added.
     */
-    "type": "Spawn"
+    "type": "PokemartMain"
   },
   "textures": [
     {
-      "name": "gnome_trader.png"
-    },
-    {
-      "name": "spawntrader.png"
+      "name": "shopgirl.png"
     }
   ],
   "names": [
     {
-      "name": "Jorlen"
-    },
-    {
-      "name": "Vincent"
+      "name": "Babbette"
     }
   ],
   "chat": [
     {
-      "hello": "You there! Pokémon hunter! I have precious items to offer you!",
-      "goodbye": "If you are lucky, you might see me again, Pokémon hunter."
-    },
-    {
-      "hello": "Hello! I see you are a connoisseur of fine Pokémon ware! I have some rare treasures for sale here.",
-      "goodbye": "It's been a pleasure doing business with you."
+      "hello": "Salut! Voulez-vous de l'aide? Nous avons des objets cool!",
+      "goodbye": "Ciaou!"
     }
   ],
   /*
@@ -48,15 +38,20 @@
       "multi": 0.9
     },
     {
-      "name": "Great Ball"
-    },
-    {
-      "name": "Max Potion",
+      "name": "Friend Ball",
       "multi": 1.1
     },
     {
-      "name": "Rare Candy",
-      "rarity": 0.2
+      "name": "Love Ball",
+      "multi": 1.1
+    },
+    {
+      "name": "Fast Ball",
+      "multi": 1.1
+    },
+    {
+      "name": "Potion",
+      "rarity": 0.4
     }
   ]
 }

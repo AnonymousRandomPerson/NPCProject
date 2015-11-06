@@ -11,42 +11,18 @@
   },
   "textures": [
     {
-      "name": "shoplady.png"
-    },
-    {
       "name": "shoplady2.png"
-    },
-    {
-      "name": "shopsecondman.png"
     }
   ],
   "names": [
     {
-      "name": "Mme. Contraire"
-    },
-    {
       "name": "Mme. Benoit"
-    },
-    {
-      "name": "M. Pincenez"
     }
   ],
   "chat": [
     {
-      "hello": "Bien venu à notre belle boutique. La qualité de nos produits vous plaira.",
-      "goodbye": "Ravi d'avoir fait votre connaissance. Au revoir."
-    },
-    {
       "hello": "Bien venu à notre belle magasin. La qualité de ce Pokémart est insurpassable.",
       "goodbye": "Je vous remercie pour le shopping à Pokémart."
-    },
-    {
-      "hello": "Bien venu! Notre Poké Mart a marchandise de qualité bien à vous offrir.",
-      "goodbye": "Il était en effet un privilège de faire affaire avec vous."
-    },
-    {
-      "hello": "Bienvenue à notre bien Poké Mart. Profitez de la navigation de notre gamme de luxe.",
-      "goodbye": "Bonne journée à vous, et je vous remercie pour le shopping à notre magasin."
     }
   ],
   /*
@@ -58,24 +34,42 @@
   */
   "items": [
     {
-      "name": "XAttack",
+      "name": "TM9 - Venoshock",
+      "multi": 1.2
+    },
+    {
+      "name": "EnergyPowder",
       "multi": 1.1
     },
     {
-      "name": "XDefence",
+      "name": "EnergyRoot",
+      "rarity": 0.3,
       "multi": 1.1
     },
     {
-      "name": "TM5 - Roar",
+      "name": "HealPowder",
       "multi": 1.1
     },
     {
-      "name": "TM13 - Ice Beam",
+      "name": "RevivalHerb",
+      "rarity": 0.3,
       "multi": 1.1
     },
     {
-      "name": "Rare Candy",
-      "rarity": 0.2
+      "name": "Fire Stone",
+      "multi": 1.1
+    }
+    {
+      "name": "Leaf Stone",
+      "multi": 1.1
+    }
+    {
+      "name": "Thunder Stone",
+      "multi": 1.1
+    }
+    {
+      "name": "Water Stone",
+      "multi": 1.1
     }
   ]
 }

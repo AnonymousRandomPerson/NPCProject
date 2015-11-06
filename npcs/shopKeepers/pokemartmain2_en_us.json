@@ -12,7 +12,7 @@
   "textures": [
     {
       "name": "shoplady3.png"
-    }
+    },
     {
       "name": "shoplady4.png"
     }
@@ -20,7 +20,7 @@
   "names": [
     {
       "name": "Janet"
-    }
+    },
     {
       "name": "Sally"
     }
@@ -29,7 +29,7 @@
     {
       "hello": "Hi, welcome to the Poké Mart. Would you like any help?",
       "goodbye": "Bye then, visit us again soon."
-    }
+    },
     {
       "hello": "Hi, how are you? Welcome to the PokéMart. Just call out if you need any help.",
       "goodbye": "Nice to see you. Have a great day!"
