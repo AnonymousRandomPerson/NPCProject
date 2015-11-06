@@ -5,7 +5,7 @@
         "maxLevel": 25,
         "minPartyPokemon": 1,
         "maxPartyPokemon": 4,
-        "winnings": 10
+        "winnings": 16
     },
     "pokemon": [
         {

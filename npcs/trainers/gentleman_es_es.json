@@ -5,7 +5,7 @@
         "maxLevel": 12,
         "minPartyPokemon": 1,
         "maxPartyPokemon": 2,
-        "winnings": 110,
+        "winnings": 200,
         "rarity": 6,
         "spawnBiomes": "Plains"
     },
@@ -25,7 +25,31 @@
             "name": "Winston"
         },
         {
-            "name": "Robert"
+            "name": "Roberto"
+		},        
+        {
+            "name": "Ruperto"
+        },        
+        {
+            "name": "Hienrich"
+        },        
+        {
+            "name": "Bertram"
+        },        
+        {
+            "name": "Montague"
+        },        
+        {
+            "name": "Kenneth"
+        },        
+        {
+            "name": "Wallice"
+        },        
+        {
+            "name": "Randolf"
+        },        
+        {
+            "name": "Wilfred"
         },
         {
             "name": "William"
@@ -42,6 +66,16 @@
             "opening": "Tengo una mansión.",
             "win": "Fue una batalla muy gentil.",
             "lose": "Que grosero es usted..."
+		},        
+        {
+            "opening": "Buenos días.",
+            "win": "Parece que va a ser un gran día para mí.",
+            "lose": "Que grosero por tu parte no contestarme."
+        },        
+        {
+            "opening": "¿Te apetece un duelo caballeresco?",
+            "win": "Parece que te he superado.",
+            "lose": "Que bruto es usted."
         },
         {
             "opening": "Hacer dinero no es mi única hablidad.",

@@ -34,117 +34,117 @@
   */
   "items": [
     {
-      "name": "Poke Ball"
+      "name": "pixelmon:item.Poke_Ball"
     },
     {
-      "name": "Great Ball",
+      "name": "pixelmon:item.Great_Ball",
       "multi": 1.1
     },
     {
-      "name": "Dive Ball",
+      "name": "pixelmon:item.Dive_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Dusk Ball",
+      "name": "pixelmon:item.Dusk_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Fast Ball",
+      "name": "pixelmon:item.Fast_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Friend Ball",
+      "name": "pixelmon:item.Friend_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Heal Ball",
+      "name": "pixelmon:item.Heal_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Heavy Ball",
+      "name": "pixelmon:item.Heavy_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Level Ball",
+      "name": "pixelmon:item.Level_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Love Ball",
+      "name": "pixelmon:item.Love_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Lure Ball",
+      "name": "pixelmon:item.Lure_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Moon Ball",
+      "name": "pixelmon:item.Moon_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Nest Ball",
+      "name": "pixelmon:item.Nest_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Net Ball",
+      "name": "pixelmon:item.Net_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Quick Ball",
+      "name": "pixelmon:item.Quick_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Repeat Ball",
+      "name": "pixelmon:item.Repeat_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Sport Ball",
+      "name": "pixelmon:item.Sport_Ball",
       "rarity": 0.3
     },
     {
-      "name": "Timer Ball",
+      "name": "pixelmon:item.Timer_Ball",
       "rarity": 0.3
-    }
-    {
-      "name": "Fresh Water"
     },
     {
-      "name": "Soda Pop"   
+      "name": "pixelmon:item.Fresh_Water"
+    },
+    {  
+      "name": "pixelmon:item.Soda_Pop"   
     },
     {
-      "name": "Lemonade"
+      "name": "pixelmon:item.Lemonade"
     },
     {
-      "name": "Moomoo Milk"
+      "name": "pixelmon:item.Moomoo_Milk"
     },
     {
-      "name": "Full Restore",
-      "rarity": 0.1,
+      "name": "pixelmon:item.Full_Restore",
+      "rarity": 0.1
     },
     {
-      "name": "Full Heal"
+      "name": "pixelmon:item.Full_Heal"
     },
     {
-      "name": "Antidote",
+      "name": "pixelmon:item.Antidote",
       "rarity": 0.5      
     },
     {
-      "name": "Awakening",
+      "name": "pixelmon:item.Awakening",
       "rarity": 0.5     
     },
     {
-      "name": "Burn Heal",
+      "name": "pixelmon:item.Burn_Heal",
       "rarity": 0.5     
     },
     {
-      "name": "Ice Heal",
+      "name": "pixelmon:item.Ice_Heal",
       "rarity": 0.5     
     },
     {
-      "name": "Paralyze Heal",
+      "name": "pixelmon:item.Paralyze_Heal",
       "rarity": 0.5     
     },
     {
-      "name": "Revive",
+      "name": "pixelmon:item.Revive",
       "rarity": 0.5     
     }
   ]
