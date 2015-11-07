@@ -12,6 +12,9 @@
   "textures": [
     {
       "name": "shopman2.png"
+    },
+    {
+      "name": "shopman.png"
     }
   ],
   "names": [
@@ -20,6 +23,9 @@
     },
     {
       "name": "Eito"
+    },
+    {
+      "name": "Sr. Benson"
     }
   ],
   "chat": [
@@ -30,6 +36,10 @@
     {
       "hello": "Hola, bienvenido al Pokémart. ¿Cómo podría ayudarte?",
       "goodbye": "Gracias por comprar en Pokémart. Que tengas un buen día."
+    },
+    {
+      "hello": "¡Hola, bienvenido a la Poké Tienda! ¡Hoy tenemos muchos especiales!",
+      "goodbye": "Volverémos a vernos, ¿verdad?"
     }
   ],
   /*

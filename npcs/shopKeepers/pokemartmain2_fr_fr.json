@@ -11,18 +11,28 @@
   },
   "textures": [
     {
-      "name": "shopman.png"
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
     }
   ],
   "names": [
     {
-      "name": "M. Bonard"
+      "name": "Bernice"
+    },
+    {
+      "name": "Sophie"
     }
   ],
   "chat": [
     {
-      "hello": "Bonjour, bien venu au Pokémart! Nous avons tant de bonnes affaires aujourd'hui!",
-      "goodbye": "Venez nous voir à nouveau!"
+      "hello": "Salut! Voulez-vous de l'aide? Nous avons des objets cool!",
+      "goodbye": "Ciaou!"
+    },
+    {
+      "hello": "Salût, comment ça va? Bien venu au PokéMart. Juste appelez si vous avez besion d'aide.",
+      "goodbye": "Ciaou. Bonne journée!"
     }
   ],
   /*
@@ -34,18 +44,66 @@
   */
   "items": [
     {
-      "name": "Heavy Ball"
-    },
-    {
-      "name": "Dusk Ball"
-    },
-    {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
       "multi": 0.9
     },
     {
-      "name": "Moomoo Milk",
-      "multi": 0.9
+      "name": "pixelmon:item.Great_Ball"
+    },
+    {
+      "name": "pixelmon:item.Ultra_Ball",
+      "multi": 1.1,
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:item.Friend_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Heal_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Luxury_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Moomoo_Milk",
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:item.HealPowder"
+    },
+    {
+      "name": "pixelmon:item.EnergyPowder"
+    },
+    {
+      "name": "pixelmon:item.EnergyRoot"
+    },
+    {
+      "name": "pixelmon:item.RevivalHerb",
+      "rarity": 0.7
+    },
+    {
+      "name": "pixelmon:item.XAttack"
+    },
+    {
+      "name": "pixelmon:item.XDefence"
+    },
+    {
+      "name": "pixelmon:item.XSpecialAttack"
+    },
+    {
+      "name": "pixelmon:item.XSpecialDefence"
+    },
+    {
+      "name": "pixelmon:item.XSpeed"
+    },
+    {
+      "name": "pixelmon:item.XAccuracy"
+    },
+    {
+      "name": "pixelmon:item.DireHit"
     }
   ]
 }

@@ -17,12 +17,20 @@
   "names": [
     {
       "name": "Sra. Hammersmith"
+    },
+    {
+      "name": "Sra. Finnegan"
     }
+
   ],
   "chat": [
     {
       "hello": "Bienvenido a nuestra encantadora tienda. Estoy segura de que la calidad de nuestros productos te va a encantar.",
       "goodbye": "Encantada de haberte conocido. Buenos días."
+    },
+    {
+      "hello": "Hola, y bienvenido a la Poké Tienda. Tenemos una amplia gamma de productos lujosos.",
+      "goodbye": "Gracias por comprar en la Poké Tienda."
     }
   ],
   /*
