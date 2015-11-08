@@ -11,12 +11,24 @@
   },
   "textures": [
     {
-      "name": "shoplady4.png"
+      "name": "shoplady5.png"
+    }
+    {
+      "name": "shoplady6.png"
+    }
+    {
+      "name": "shoplady7.png"
     }
   ],
   "names": [
     {
       "name": "Suki"
+    }
+    {
+      "name": "Giselle"
+    }
+    {
+      "name": "Aimée"
     }
   ],
   "chat": [
@@ -27,6 +39,14 @@
     {
       "hello": "Bien venu au Poké Mart. Y at-il quelque chose de spécial que vous cherchez?",
       "goodbye": "Au revoir! Venez nous voir bientôt!"
+    }
+    {
+      "hello": "Salût, bien venu à notre Poké Mart. Puis-je vous aider à rechercher des éléments?",
+      "goodbye": "Merci pour faire des emplettes ici! je l'espère, nous vous voir bientôt."
+    }
+    {
+      "hello": "Bonjour, belle journée pour Poké Mart achats. Nos promotions devraient vous intéresser.",
+      "goodbye": "À la prochaine!"
     }
   ],
   /*
