@@ -87,6 +87,10 @@
       "rarity": 0.3
     },
     {
+      "name": "pixelmon:item.Luxury_Ball",
+      "rarity": 0.3
+    },
+    {
       "name": "pixelmon:item.Moon_Ball",
       "rarity": 0.3
     },
