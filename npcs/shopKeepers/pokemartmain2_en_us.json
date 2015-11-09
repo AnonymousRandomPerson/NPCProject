@@ -51,6 +51,9 @@
       "multi": 1.1
     },
     {
+      "name": "pixelmon:item.Ultra_Ball"
+    },
+    {
       "name": "pixelmon:item.Dive_Ball",
       "rarity": 0.3
     },
