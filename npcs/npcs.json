@@ -237,7 +237,7 @@
         "name": "pokemaniac"
       },
       {
-        "name": "pokemonbreederwoman"
+        "name": "pkmnbreeder_f"
       },
       {
         "name": "policeman"
@@ -271,6 +271,9 @@
       },
       {
         "name": "youngster"
+      },
+      {
+        "name": "steve"
       }
     ]
   },
@@ -286,9 +289,6 @@
     },
     {
       "name": "pokemartsecond1"
-    },
-    {
-      "name": "pokemartsecond2"
     }
   ]
 }

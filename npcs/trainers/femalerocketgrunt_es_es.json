@@ -5,7 +5,7 @@
         "maxLevel": 40,
         "minPartyPokemon": 1,
         "maxPartyPokemon": 6,
-        "winnings": 40
+        "winnings": 60
     },
     "models":[
         {
@@ -111,9 +111,14 @@
     ],
     "chat": [
         {
-            "opening": "¡Oye chaval, trae aquí tus Pokémon!",
+            "opening": "¡Oye chaval, trae aquí a tus Pokémon!",
             "win": "He ganado. Ahora dame tus Pokémon.",
             "lose": "¡Urgh, como me has derrotado!"
+	    },        
+        {
+            "opening": "¡No puedes pasar sin derrotarme!",
+            "win": "¡No te permitiré pasar!",
+            "lose": "Sigue tu camino, si te atreves."
         },
         {
             "opening": "¡¿Qué estás haciendo aquí?!",
@@ -122,8 +127,13 @@
         },
         {
             "opening": "Esta es una operación importante. ¡No queremos que estés husmeando por aquí!",
-            "win": "¡Fuera ahora mismo!",
+            "win": "¡Fuera de mi vista ahora mismo!",
             "lose": "¡Imposible!"
+        },
+        {
+            "opening": "¡El Team Rocket es el mejor!",
+            "win": "¡Te advertí de que somos los mejores!",
+            "lose": "Tendría que haberme unido al Equipo Magma."
         },
         {
             "opening": "¡Preparate para los problemas!",
@@ -154,11 +164,21 @@
             "opening": "¡Tienes valor si piensas que puedes derrotarme!",
             "win": "Nunca me vas a vencer.",
             "lose": "¡¿Me has ganado!? ¡Noooooo!"
+	    },       
+        {
+            "opening": "No puedes derrotarme. ¡Estoy en el puesto 27 de los soldados más fuertes!",
+            "win": "¡Si, ahora seguramente estaré en el puesto 26 de los más fuertes!",
+            "lose": "¡Oh no, ahora me llamarán el 28 de los más fuertes!"
         },
         {
-            "opening": "¡Tus Pokémon serán vendidos muy baratos en el mercado negro!",
+            "opening": "¡Tus Pokémon valdrán muy baratos en el mercado negro!",
             "win": "¡Tus Pokémon son muy malos!",
             "lose": "¡Puede que merezcan más la pena de lo que pensaba!"
+	    },       
+        {
+            "opening": "No hay nada sospechoso por aquí. ¡Muevete!",
+            "win": "¡No tienes ni idea de con quien estás tratando chaval!",
+            "lose": "El jefe no estará contento contigo."
         },
     ]
 }

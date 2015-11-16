@@ -34,109 +34,94 @@
   */
   "items": [
     {
-      "name": "PokeMail-air"
+      "name": "pixelmon:PokeMail-air"
     },
     {
-      "name": "PokeMail-bloom"
+      "name": "pixelmon:PokeMail-bloom"
     },
     {
-      "name": "PokeMail-brick"
+      "name": "pixelmon:PokeMail-brick"
     },
     {
-      "name": "PokeMail-bridged"
+      "name": "pixelmon:PokeMail-bridged"
     },
     {
-      "name": "PokeMail-bridgem"
+      "name": "pixelmon:PokeMail-bridgem"
     },
     {
-      "name": "PokeMail-bridges"
+      "name": "pixelmon:PokeMail-bridges"
     },
     {
-      "name": "PokeMail-bridget"
+      "name": "pixelmon:PokeMail-bridgev"
     },
     {
-      "name": "PokeMail-bridgev"
+      "name": "pixelmon:PokeMail-bubble"
     },
     {
-      "name": "PokeMail-bubble"
+      "name": "pixelmon:PokeMail-dream"
     },
     {
-      "name": "PokeMail-dream"
+      "name": "pixelmon:PokeMail-fab"
     },
     {
-      "name": "PokeMail-fab"
+      "name": "pixelmon:PokeMail-favored"
     },
     {
-      "name": "PokeMail-favored"
+      "name": "pixelmon:PokeMail-flame"
     },
     {
-      "name": "PokeMail-flame"
+      "name": "pixelmon:PokeMail-glitter"
     },
     {
-      "name": "PokeMail-glitter"
+      "name": "pixelmon:PokeMail-grass"
     },
     {
-      "name": "PokeMail-grass"
+      "name": "pixelmon:PokeMail-greet"
     },
     {
-      "name": "PokeMail-greet"
+      "name": "pixelmon:PokeMail-heart"
     },
     {
-      "name": "PokeMail-harbor"
+      "name": "pixelmon:PokeMail-inquiry"
     },
     {
-      "name": "PokeMail-heart"
+      "name": "pixelmon:PokeMail-like"
     },
     {
-      "name": "PokeMail-inquiry"
+      "name": "pixelmon:PokeMail-mech"
     },
     {
-      "name": "PokeMail-like"
+      "name": "pixelmon:PokeMail-mosaic"
     },
     {
-      "name": "PokeMail-mech"
+      "name": "pixelmon:PokeMail-orange"
     },
     {
-      "name": "PokeMail-mosaic"
+      "name": "pixelmon:PokeMail-reply"
     },
     {
-      "name": "PokeMail-orange"
+      "name": "pixelmon:PokeMail-retro"
     },
     {
-      "name": "PokeMail-reply"
+      "name": "pixelmon:PokeMail-rsvp"
     },
     {
-      "name": "PokeMail-retro"
+      "name": "pixelmon:PokeMail-snow"
     },
     {
-      "name": "PokeMail-rsvp"
+      "name": "pixelmon:PokeMail-space"
     },
     {
-      "name": "PokeMail-shadown"
+      "name": "pixelmon:PokeMail-steel"
     },
     {
-      "name": "PokeMail-snow"
+      "name": "pixelmon:PokeMail-thanks"
     },
     {
-      "name": "PokeMail-space"
+      "name": "pixelmon:PokeMail-wave"
     },
     {
-      "name": "PokeMail-steel"
-    },
-    {
-      "name": "PokeMail-thanks"
-    },
-    {
-      "name": "PokeMail-tropic"
-    },
-    {
-      "name": "PokeMail-tunnel"
-    },
-    {
-      "name": "PokeMail-wave"
-    },
-    {
-      "name": "PokeMail-wood"
+      "name": "pixelmon:PokeMail-wood"
     }
   ]
 }
