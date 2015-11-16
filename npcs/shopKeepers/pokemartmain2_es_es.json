@@ -11,18 +11,28 @@
   },
   "textures": [
     {
-      "name": "shopman.png"
-    }
+      "name": "shoplady3.png"
+    },
+    {
+	  "name": "shoplady4.png"
+	}
   ],
   "names": [
     {
-      "name": "Sr. Benson"
+      "name": "Janet"
+    },
+    {
+      "name": "Sally"
     }
   ],
   "chat": [
     {
-      "hello": "¡Hola, bienvenido a la Poké Tienda! ¡Hoy tenemos muchos especiales!",
-      "goodbye": "Volverémos a vernos, ¿verdad?"
+      "hello": "Hola, bienvenido a la Tienda Pokémon. ¿Necesitas ayuda?",
+      "goodbye": "Adiós, vuelve a visitarnos pronto."
+    },
+    {
+      "hello": "Hola, ¿cómo estás? Bienvenido a la Tienda Pokémon. Avisanos si necesitas ayuda.",
+      "goodbye": "Me alegro de verte. ¡Qué tengas un buen día!"
     }
   ],
   /*

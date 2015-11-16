@@ -11,18 +11,22 @@
   },
   "textures": [
     {
-      "name": "shopgirl.png"
+      "name": "shoplady4.png"
     }
   ],
   "names": [
     {
-      "name": "Babs"
+      "name": "Suki"
     }
   ],
   "chat": [
     {
-      "hello": "Hola, bienvenido a la Poké Tienda. ¿Necesitas algo?",
-      "goodbye": "Adiós."
+      "hello": "Hola, ¿puedo ayudarte a encontrar tu equipamiento Pokémon? Tenemos muy buenas ofertas.",
+      "goodbye": "Gracias por tus compras. Esperamos poder servirle de nuevo."
+    },
+    {
+      "hello": "Bienvenido a la Tienda PokéMon. ¿Hay algo en especial que estés buscando?",
+      "goodbye": "¡Adiós! ¡Vuelve a visitarnos pronto!"
     }
   ],
   /*
