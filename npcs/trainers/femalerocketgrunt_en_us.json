@@ -116,7 +116,7 @@
             "lose": "Urgh, how did you beat me!"
         },        
         {
-            "opening": "You can't pass with out beating me!",
+            "opening": "You can't pass without beating me!",
             "win": "You shall not pass!",
             "lose": "Go on through, if you dare."
         },
@@ -166,7 +166,7 @@
             "lose": "You beat me!? Noooooo!"
         },       
         {
-            "opening": "You can't beat me, I'm the 27th strongest Grunt!",
+            "opening": "You can't beat me. I'm the 27th strongest grunt!",
             "win": "Yes, now I'm sure to be made the 26th strongest!",
             "lose": "Oh no, now I will called the 28th strongest!"
         },
@@ -176,7 +176,7 @@
             "lose": "They may be worth more than I thought!"
         },       
         {
-            "opening": "Nothing suspicious here, move along!",
+            "opening": "Nothing suspicious here. Move along!",
             "win": "You don't know who you're dealing with kid!",
             "lose": "The boss will not be happy with you."
         }
