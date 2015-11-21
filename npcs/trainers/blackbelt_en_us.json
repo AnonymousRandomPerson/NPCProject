@@ -1,0 +1,91 @@
+{
+    "data": {
+        "trainerType": "BlackBelt",
+        "minLevel": 30,
+        "maxLevel": 55,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 5,
+        "winnings": 50
+    },
+    "pokemon": [
+        {
+            "name": "Primeape"
+        },
+        {
+            "name": "Poliwrath"
+        },
+        {
+            "name": "Machoke"
+        },
+        {
+            "name": "Machamp"
+        },
+        {
+            "name": "Hitmonlee"
+        },
+        {
+            "name": "Hitmonchan"
+        },
+        {
+            "name": "Heracross"
+        },
+        {
+            "name": "Tyrogue"
+        },
+        {
+            "name": "Hitmontop"
+        },
+        {
+            "name": "Blaziken"
+        },
+        {
+            "name": "Breloom"
+        },
+        {
+            "name": "Infernape"
+        },
+        {
+            "name": "Lucario"
+        },
+        {
+            "name": "Gallade"
+        },
+        {
+            "name": "Emboar"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bruce"
+        },
+        {
+            "name": "Jackie"
+        },
+        {
+            "name": "Jet"
+        },
+        {
+            "name": "Jean-Claude"
+        },
+        {
+            "name": "Steven"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Prepare yourself!",
+            "win": "You were not ready. Train more, and return.",
+            "lose": "Your skill surpasses mine. Impressive."
+        },
+        {
+            "opening": "Let the fight begin.",
+            "win": "You lack discipline.",
+            "lose": "I acknowledge your skill."
+        },
+        {
+            "opening": "Are you asking for a challenge?",
+            "win": "Disappointing.",
+            "lose": "So I have been defeated. Keep this up and you can become a champion."
+        }
+    ]
+}

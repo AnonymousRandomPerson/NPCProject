@@ -191,6 +191,26 @@
         "textures": [ "scientist_m" ]
       },
       {
+        "name": "HexManiac",
+        "textures": [ "hexmaniac" ]
+      },
+      {
+        "name": "BlackBelt",
+        "textures": [ "blackbelt" ]
+      },
+      {
+        "name": "BattleGirl",
+        "textures": [ "battlegirl" ]
+      },
+      {
+        "name": "FemaleRanger",
+        "textures": [ "ranger_f" ]
+      },
+      {
+        "name": "MaleRanger",
+        "textures": [ "ranger_m" ]
+      },
+      {
         "name": "Swimmer",
         "textures": [ "swimmer_m" ]
       },
@@ -205,11 +225,11 @@
       {
         "name": "Blacksmith",
         "textures": [ "blacksmith" ]
-      } /*,
-            {
-                "name": "Mountaineer",
-                "textures":[ "mountaineer" ]
-            }*/
+      }, 
+	  {
+        "name": "Mountaineer",
+        "textures":[ "hiker" ]
+      }
     ],
     "list": [
       {
@@ -229,6 +249,9 @@
       },
       {
         "name": "lass"
+      },
+      {
+        "name": "mountaineer"
       },
       {
         "name": "ornithologist"
@@ -259,6 +282,21 @@
       },
       {
         "name": "scientist"
+      },
+      {
+        "name": "hexmaniac"
+      },
+      {
+        "name": "battlegirl"
+      },
+      {
+        "name": "blackbelt"
+      },
+      {
+        "name": "ranger_f"
+      },
+      {
+        "name": "ranger_m"
       },
       {
         "name": "swimmer"
