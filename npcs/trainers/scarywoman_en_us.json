@@ -1,0 +1,121 @@
+{
+    "data": {
+        "trainerType": "ScaryWoman",
+        "minLevel": 15,
+        "maxLevel": 30,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 30
+    },
+    "pokemon": [		
+		{
+            "name": "Umbreon"
+        },
+        {
+            "name": "Murkrow"
+        },
+        {
+            "name": "Sneasel"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        },
+        {
+            "name": "Tyranitar"
+        },
+        {
+            "name": "Poochyena"
+        },
+        {
+            "name": "Mightyena"
+        },
+        {
+            "name": "Nuzleaf"
+        },
+        {
+            "name": "Shiftry"
+        },
+        {
+            "name": "Sableye"
+        },
+        {
+            "name": "Carvanha"
+        },
+        {
+            "name": "Sharpedo"
+        },
+        {
+            "name": "Crawdaunt"
+        },
+		{
+            "name": "Absol"
+        },
+        {
+            "name": "Honchkrow"
+        },
+        {
+            "name": "Drapion"
+        },
+        {
+            "name": "Weavile"
+        },
+        {
+            "name": "Sandile"
+        },
+        {
+            "name": "Krokorok"
+        },
+        {
+            "name": "Krookodile"
+        },
+        {
+            "name": "Zorua"
+        },
+        {
+            "name": "Zoroark"
+        },
+        {
+            "name": "Pawniard"
+        },
+        {
+            "name": "Bisharp"
+        }
+    ],
+    "names": [
+        {
+            "name": "Nightshade"
+        },
+        {
+            "name": "Sally the Scourge"
+        },
+        {
+            "name": "Holly Gan"
+        },
+        {
+            "name": "The Smirk"
+        },
+        {
+            "name": "Ear-Gobbler"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "That place ain't safe, you know...",
+            "win": "That's what you get for messing with me!",
+            "lose": "What are you, a vigilante?!"
+        },
+        {
+            "opening": "Going somewhere?",
+            "win": "Heheheheh... now give me your money.",
+            "lose": "I give up! I give up! Here, take my stuff!"
+        },
+        {
+            "opening": "Hey you! You lookin' for a fight?",
+            "win": "You're not tough enough!",
+            "lose": "I can already hear my pals makin' fun of me..."
+        }
+    ]
+}

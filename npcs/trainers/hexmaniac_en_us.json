@@ -1,0 +1,117 @@
+{
+    "data": {
+        "trainerType": "HexManiac",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 6,
+        "winnings": 20
+    },
+    "pokemon": [
+        {
+            "name": "Gastly"
+        },
+        {
+            "name": "Haunter"
+        },
+        {
+            "name": "Gengar"
+        },
+        {
+            "name": "Misdreavus"
+        },
+        {
+            "name": "Sableye"
+        },
+        {
+            "name": "Drifloon"
+        },
+        {
+            "name": "Drifblim"
+        },
+        {
+            "name": "Mismagius"
+        },
+        {
+            "name": "Litwick"
+        },
+        {
+            "name": "Lampent"
+        },
+        {
+            "name": "Chandelure"
+        },
+        {
+            "name": "Golett"
+        },
+        {
+            "name": "Golurk"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bellatrix"
+        },
+        {
+            "name": "Gytha"
+        },
+        {
+            "name": "Samantha"
+        },
+        {
+            "name": "Piper"
+        },
+        {
+            "name": "Sabrina"
+        },
+        {
+            "name": "Magica"
+        },
+        {
+            "name": "Luna"
+        },
+        {
+            "name": "Hermione"
+        },
+        {
+            "name": "Magrat"
+        },
+        {
+            "name": "Esmeralda"
+        },
+        {
+            "name": "Ursula"
+        },
+        {
+            "name": "Prue"
+        },
+        {
+            "name": "Phoebe"
+        },
+        {
+            "name": "Paige"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "With my magic, I can win any battle!",
+            "win": "Do you believe me now?",
+            "lose": "Argghhhhh! Jinxed it!"
+        },
+        {
+            "opening": "BOO!",
+            "win": "Haha! Wimp.",
+            "lose": "Wow, you have nerves of steel..."
+        },
+        {
+            "opening": "Wing of Crobat, hair of Skitty...",
+            "win": "... you beat my pets, it's a pity.",
+            "lose": "... I'm banishing you to Defeat City!"
+        },
+        {
+            "opening": "Soon my ritual will be complete!",
+            "win": "Hahahahahahaaaaa wait, what was I doing again?",
+            "lose": "Nooooo you ruined it!"
+        }
+    ]
+}

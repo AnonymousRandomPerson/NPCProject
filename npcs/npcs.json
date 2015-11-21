@@ -139,6 +139,10 @@
         "textures": [ "bugcatchergirl" ]
       },
       {
+        "name": "Engineer",
+        "textures": [ "engineer", "supernerd" ]
+      },
+      {
         "name": "FemaleRocketGrunt",
         "textures": [ "rocketgruntfemale1", "rocketgruntfemale2", "rocketgruntfemale3", "rocketgruntfemale4", "rocketgruntfemale5", "rocketgruntfemale6" ]
       },
@@ -156,7 +160,7 @@
       },
       {
         "name": "PkmnBreederWoman",
-        "textures": [ "pkmn_breeder_f", "pkmn_breeder_f2" ]
+        "textures": [ "pkmn_breeder_f", "pkmn_breeder_f2", "breedergreen_f" ]
       },
       {
         "name": "Pokemaniac",
@@ -183,12 +187,40 @@
         "textures": [ "richboy" ]
       },
       {
+        "name": "ScaryMan",
+        "textures": [ "streetthug", "cueball" ]
+      },
+      {
+        "name": "ScaryWoman",
+        "textures": [ "delinquent" ]
+      },
+      {
         "name": "FemaleScientist",
         "textures": [ "scientist_f" ]
       },
       {
         "name": "MaleScientist",
         "textures": [ "scientist_m" ]
+      },
+      {
+        "name": "HexManiac",
+        "textures": [ "hexmaniac" ]
+      },
+      {
+        "name": "BlackBelt",
+        "textures": [ "blackbelt" ]
+      },
+      {
+        "name": "BattleGirl",
+        "textures": [ "battlegirl" ]
+      },
+      {
+        "name": "FemaleRanger",
+        "textures": [ "ranger_f" ]
+      },
+      {
+        "name": "MaleRanger",
+        "textures": [ "ranger_m" ]
       },
       {
         "name": "Swimmer",
@@ -205,11 +237,11 @@
       {
         "name": "Blacksmith",
         "textures": [ "blacksmith" ]
-      } /*,
-            {
-                "name": "Mountaineer",
-                "textures":[ "mountaineer" ]
-            }*/
+      }, 
+	  {
+        "name": "Mountaineer",
+        "textures":[ "hiker" ]
+      }
     ],
     "list": [
       {
@@ -217,6 +249,9 @@
       },
       {
         "name": "bugmaniac"
+      },
+      {
+        "name": "engineer"
       },
       {
         "name": "femalerocketgrunt"
@@ -229,6 +264,9 @@
       },
       {
         "name": "lass"
+      },
+      {
+        "name": "mountaineer"
       },
       {
         "name": "ornithologist"
@@ -259,6 +297,21 @@
       },
       {
         "name": "scientist"
+      },
+      {
+        "name": "hexmaniac"
+      },
+      {
+        "name": "battlegirl"
+      },
+      {
+        "name": "blackbelt"
+      },
+      {
+        "name": "ranger_f"
+      },
+      {
+        "name": "ranger_m"
       },
       {
         "name": "swimmer"

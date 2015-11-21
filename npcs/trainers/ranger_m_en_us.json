@@ -1,0 +1,175 @@
+{
+    "data": {
+        "trainerType": "MaleRanger",
+        "minLevel": 20,
+        "maxLevel": 45,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 5,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Bulbasaur"
+        },
+        {
+            "name": "Ivysaur"
+        },
+        {
+            "name": "Venusaur"
+        },
+        {
+            "name": "Oddish"
+        },
+        {
+            "name": "Gloom"
+        },
+        {
+            "name": "Vileplume"
+        },
+        {
+            "name": "Paras"
+        },
+        {
+            "name": "Parasect"
+        },
+        {
+            "name": "Bellsprout"
+        },
+        {
+            "name": "Weepinbell"
+        },
+        {
+            "name": "Victreebel"
+        },
+        {
+            "name": "Exeggcute"
+        },
+        {
+            "name": "Exeggutor"
+        },
+        {
+            "name": "Tangela"
+        },
+		{
+            "name": "Chikorita"
+        },
+        {
+            "name": "Bayleef"
+        },
+        {
+            "name": "Meganium"
+        },
+        {
+            "name": "Bellossom"
+        },
+        {
+            "name": "Hoppip"
+        },
+        {
+            "name": "Skiploom"
+        },
+        {
+            "name": "Jumpluff"
+        },
+        {
+            "name": "Sunkern"
+        },
+        {
+            "name": "Sunflora"
+        },
+        {
+            "name": "Grovyle"
+        },
+        {
+            "name": "Sceptile"
+        },
+        {
+            "name": "Seedot"
+        },
+        {
+            "name": "Nuzleaf"
+        },
+		{
+            "name": "Shiftry"
+        },
+        {
+            "name": "Shroomish"
+        },
+        {
+            "name": "Breloom"
+        },
+        {
+            "name": "Tropius"
+        },
+        {
+            "name": "Turtwig"
+        },
+        {
+            "name": "Grotle"
+        },
+        {
+            "name": "Torterra"
+        },
+        {
+            "name": "Leafeon"
+        },
+        {
+            "name": "Snivy"
+        },
+        {
+            "name": "Servine"
+        },
+        {
+            "name": "Serperior"
+        },
+        {
+            "name": "Sewaddle"
+        },
+        {
+            "name": "Swadloon"
+        },
+        {
+            "name": "Leavanny"
+        },
+        {
+            "name": "Cottonee"
+        },
+        {
+            "name": "Whimsicott"
+        }
+    ],
+    "names": [
+        {
+            "name": "Woody"
+        },
+        {
+            "name": "Cody"
+        },
+        {
+            "name": "Smith"
+        },
+        {
+            "name": "Rubeus"
+        },
+        {
+            "name": "Ursaring Grylls"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Are you lost?",
+            "win": "You should really make your way back to a town, kid.",
+            "lose": "No, no. You knew exactly what you were doing."
+        },
+        {
+            "opening": "Grass Pokémon are the best.",
+            "win": "See? That's the power of plant life.",
+            "lose": "Ah, I hope you didn't scare the wildlife away..."
+        },
+        {
+            "opening": "Be careful where you tread, you could get hurt!",
+            "win": "But really, there could be a ravine around here.",
+            "lose": "Next time, I'll take my own advice. Ouch..."
+        }
+    ]
+}
