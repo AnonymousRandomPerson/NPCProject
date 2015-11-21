@@ -1,6 +1,6 @@
 {
     "data": {
-        "trainerType": "FemaleRanger",
+        "trainerType": "MaleRanger",
         "minLevel": 20,
         "maxLevel": 45,
         "minPartyPokemon": 2,
@@ -76,9 +76,6 @@
         },
         {
             "name": "Sunflora"
-        },
-        {
-            "name": "Celebi"
         },
         {
             "name": "Grovyle"

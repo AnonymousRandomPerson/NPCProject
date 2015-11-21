@@ -139,6 +139,10 @@
         "textures": [ "bugcatchergirl" ]
       },
       {
+        "name": "Engineer",
+        "textures": [ "engineer", "supernerd" ]
+      },
+      {
         "name": "FemaleRocketGrunt",
         "textures": [ "rocketgruntfemale1", "rocketgruntfemale2", "rocketgruntfemale3", "rocketgruntfemale4", "rocketgruntfemale5", "rocketgruntfemale6" ]
       },
@@ -181,6 +185,14 @@
       {
         "name": "RichBoy",
         "textures": [ "richboy" ]
+      },
+      {
+        "name": "ScaryMan",
+        "textures": [ "streetthug", "cueball" ]
+      },
+      {
+        "name": "ScaryWoman",
+        "textures": [ "delinquent" ]
       },
       {
         "name": "FemaleScientist",
@@ -237,6 +249,9 @@
       },
       {
         "name": "bugmaniac"
+      },
+      {
+        "name": "engineer"
       },
       {
         "name": "femalerocketgrunt"
