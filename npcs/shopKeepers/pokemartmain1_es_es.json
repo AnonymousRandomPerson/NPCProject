@@ -15,6 +15,15 @@
     },
     {
       "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
     }
   ],
   "names": [
@@ -26,20 +35,53 @@
     },
     {
       "name": "Sr. Benson"
+    },
+    {
+      "name": "Sr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
     }
   ],
   "chat": [
     {
-      "hello": "Bienvenido a mi Poké Tienda. ¡Espero que encuentres algo que te guste!",
+      "hello": "Bienvenido a mi Tienda Pokémon. ¡Espero que encuentres algo que te interese!",
       "goodbye": "Hasta la próxima."
     },
     {
-      "hello": "Hola, bienvenido al Pokémart. ¿Cómo podría ayudarte?",
-      "goodbye": "Gracias por comprar en Pokémart. Que tengas un buen día."
+      "hello": "Hola, bienvenido a la Tienda Pokémon. ¿En qué puedo ayudarte?",
+      "goodbye": "Gracias por comprar en mi Tienda Pokémon. Que tengas un buen día."
     },
     {
-      "hello": "¡Hola, bienvenido a la Poké Tienda! ¡Hoy tenemos muchos especiales!",
+      "hello": "¡Hola! Bienvenido a mi Tienda Pokémon. Sólo tengo los mejores podructos Pokémon a la venta.",
+      "goodbye": "Gracias por comprar en mi tienda."
+    },
+    {
+      "hello": "Bienvenido a mi Tienda Pokémon. Hace un buen día para comprar, ¿no?",
+      "goodbye": "Volverás pronto, ¿no?"
+    },
+    {
+      "hello": "¡Hola, bienvenido a la Tienda Pokémon! ¡Hoy tenemos muchos productos especiales!",
       "goodbye": "Volverémos a vernos, ¿verdad?"
+    },
+    {
+      "hello": "Buenas, bienvenido a la Tienda Pokémon. ¿Buscas algo en especial?",
+      "goodbye": "Muy bien, hasta la próxima."
+    },
+    {
+      "hello": "¿Qué tal estás? ¡Bienvenido a nuestra Tienda Pokémon! Tenemos muy buenos productos para tus Pokémon.",
+      "goodbye": "Chao, amigo mío. Vuelve cuando quieras."
+    },
+    {
+      "hello": "Hola, ¡echa un vistazo en nuestra Tienda Pokémon! Hoy tenemos productos muy útiles para tus Pokémon.",
+      "goodbye": "Vuelve pronto, ¿de acuerdo?"
+    },
+    {
+      "hello": "Hola, ¿buscas la mejor Tienda Pokémon? Muy bien, ¡acabas de encontrarla!",
+      "goodbye": "¿Te vas tan pronto? Bueno, ¡asegurate de volver pronto!"
     }
   ],
   /*
