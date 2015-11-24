@@ -11,18 +11,42 @@
   },
   "textures": [
     {
-      "name": "shopgirl.png"
+      "name": "shoplady5.png"
+    }
+    {
+      "name": "shoplady6.png"
+    }
+    {
+      "name": "shoplady7.png"
     }
   ],
   "names": [
     {
-      "name": "Babbette"
+      "name": "Suki"
+    }
+    {
+      "name": "Giselle"
+    }
+    {
+      "name": "Aimée"
     }
   ],
   "chat": [
     {
-      "hello": "Salut! Voulez-vous de l'aide? Nous avons des objets cool!",
-      "goodbye": "Ciaou!"
+      "hello": "Bonjour, puis-je vous aider à trouver votre équipement de Pokémon? Nous avons des marchés formidables.",
+      "goodbye": "Merci pour vos achats ici. Nous sommes impatients de vous servir à nouveau."
+    },
+    {
+      "hello": "Bien venu au Poké Mart. Y at-il quelque chose de spécial que vous cherchez?",
+      "goodbye": "Au revoir! Venez nous voir bientôt!"
+    }
+    {
+      "hello": "Salût, bien venu à notre Poké Mart. Puis-je vous aider à rechercher des éléments?",
+      "goodbye": "Merci pour faire des emplettes ici! je l'espère, nous vous voir bientôt."
+    }
+    {
+      "hello": "Bonjour, belle journée pour Poké Mart achats. Nos promotions devraient vous intéresser.",
+      "goodbye": "À la prochaine!"
     }
   ],
   /*
@@ -34,24 +58,58 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
       "multi": 0.9
     },
     {
-      "name": "Friend Ball",
-      "multi": 1.1
+      "name": "pixelmon:item.Great_Ball"
     },
     {
-      "name": "Love Ball",
-      "multi": 1.1
+      "name": "pixelmon:item.Ultra_Ball",
+      "multi": 1.1,
+      "rarity": 0.7
     },
     {
-      "name": "Fast Ball",
-      "multi": 1.1
+      "name": "pixelmon:item.Level_Ball",
+      "rarity": 0.3
     },
     {
-      "name": "Potion",
-      "rarity": 0.4
+      "name": "pixelmon:item.Premier_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Safari_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Repeat_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Net_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Dusk_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.HP_Up"
+    },
+    {
+      "name": "pixelmon:item.Protein"
+    },
+    {
+      "name": "pixelmon:item.Iron"
+    },
+    {
+      "name": "pixelmon:item.Calcium"
+    },
+    {
+      "name": "pixelmon:item.Zinc"
+    },
+    {
+      "name": "pixelmon:item.Carbos"
     }
   ]
 }
