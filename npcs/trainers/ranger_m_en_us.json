@@ -167,7 +167,7 @@
             "lose": "Ah, I hope you didn't scare the wildlife away..."
         },
         {
-            "opening": "Be careful where you tread, you could get hurt!",
+            "opening": "Be careful where you tread. You could get hurt!",
             "win": "But really, there could be a ravine around here.",
             "lose": "Next time, I'll take my own advice. Ouch..."
         }

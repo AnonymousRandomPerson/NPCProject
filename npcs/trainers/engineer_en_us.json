@@ -125,12 +125,12 @@
         {
             "opening": "Can I get your INPUT on my Electric Pokémon? ... Get it?",
             "win": "I HAVE THE POWEEEEEEEEEEEEEER",
-            "lose": "... Shocking!"
+            "lose": "...Shocking!"
         },
         {
             "opening": "With a little tweaking, I've made my Pokémon 50% more efficient.",
             "win": "Heh, faster than greased lightning.",
-            "lose": "Argh, no, the readings are all wrong!"
+            "lose": "Argh, no! The readings are all wrong!"
         }
     ]
 }
