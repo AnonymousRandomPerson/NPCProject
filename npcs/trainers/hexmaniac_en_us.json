@@ -105,13 +105,13 @@
         },
         {
             "opening": "Wing of Crobat, hair of Skitty...",
-            "win": "... you beat my pets, it's a pity.",
-            "lose": "... I'm banishing you to Defeat City!"
+            "win": "...You beat my pets. It's a pity.",
+            "lose": "...I'm banishing you to Defeat City!"
         },
         {
             "opening": "Soon my ritual will be complete!",
-            "win": "Hahahahahahaaaaa wait, what was I doing again?",
-            "lose": "Nooooo you ruined it!"
+            "win": "Hahahahahahaaaaa! Wait, what was I doing again?",
+            "lose": "Nooooo, you ruined it!"
         }
     ]
 }
