@@ -525,10 +525,6 @@
       "sell": 2000
     },
     {
-      "name": "pixelmon:item.RootFossil",
-      "sell": 2000
-    },
-    {
       "name": "pixelmon:item.ClawFossil",
       "sell": 2000
     },
@@ -558,10 +554,6 @@
     },
     {
       "name": "pixelmon:item.coveredFossil2",
-      "sell": 1000
-    },
-    {
-      "name": "pixelmon:item.coveredFossil3",
       "sell": 1000
     },
     {
