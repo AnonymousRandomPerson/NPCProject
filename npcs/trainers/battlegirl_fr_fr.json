@@ -1,0 +1,93 @@
+{
+    "data": {
+        "trainerType": "BattleGirl",
+        "minLevel": 10,
+        "maxLevel": 35,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 30
+    },
+    "pokemon": [
+        {
+            "name": "Mankey"
+        },
+        {
+            "name": "Machop"
+        },
+        {
+            "name": "Machoke"
+        },
+        {
+            "name": "Hitmonlee"
+        },
+        {
+            "name": "Hitmonchan"
+        },
+        {
+            "name": "Heracross"
+        },
+        {
+            "name": "Tyrogue"
+        },
+        {
+            "name": "Hitmontop"
+        },
+        {
+            "name": "Combusken"
+        },
+        {
+            "name": "Breloom"
+        },
+        {
+            "name": "Monferno"
+        },
+        {
+            "name": "Riolu"
+        },
+        {
+            "name": "Gallade"
+        },
+        {
+            "name": "Pignite"
+        }
+    ],
+    "names": [
+        {
+            "name": "Yuen"
+        },
+        {
+            "name": "JeeJa"
+        },
+        {
+            "name": "Ronda"
+        },
+        {
+            "name": "Graciella"
+        },
+        {
+            "name": "Lucia"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Je vais te botter le cul tellement fort !",
+            "win": "Boom! dans ta mouise !",
+            "lose": "Mais... comment ?"
+        },
+        {
+            "opening": "Je suis prête pour combattre. Viens, je t'attends !",
+            "win": "Mon maitre serait fier...",
+            "lose": "Je me suis pourtant entrainée si dûrement !"
+        },
+        {
+            "opening": "Challenge accepted !",
+            "win": "Encore un qui mord la poussière !",
+            "lose": "Grrrrrrr !"
+        },
+        {
+            "opening": "Baston ! Baston ! Baston ! Baston !",
+            "win": "Je l'ai fait ! Je suis le plus fort dresseur dans le coin !",
+            "lose": "Je vais m'entrainer encore plus. Et quand je reviendrais ... !"
+        }
+    ]
+}
