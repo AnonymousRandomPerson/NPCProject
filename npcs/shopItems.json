@@ -617,6 +617,11 @@
       "sell": 1050
     },
     {
+      "name": "pixelmon:item.Shiny_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
       "name": "pixelmon:item.Ever_Stone",
       "sell": 100
     },
