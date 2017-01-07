@@ -33,20 +33,20 @@
   ],
   "chat": [
     {
-      "hello": "Bonjour, puis-je vous aider à trouver votre équipement de Pokémon? Nous avons des marchés formidables.",
-      "goodbye": "Merci pour vos achats ici. Nous sommes impatients de vous servir à nouveau."
+      "hello": "Bonjour, puis-je vous aider à trouver votre équipement de Pokémon? Nous avons des marchandises formidables.",
+      "goodbye": "Merci pour vos achats. Nous sommes impatients de vous servir à nouveau."
     },
     {
-      "hello": "Bien venu au Poké Mart. Y at-il quelque chose de spécial que vous cherchez?",
-      "goodbye": "Au revoir! Venez nous voir bientôt!"
+      "hello": "Bienvenue au PokéMart. Y at-il quelque chose de spécial que vous cherchez?",
+      "goodbye": "Au revoir ! Venez nous revoir vite!"
     }
     {
-      "hello": "Salût, bien venu à notre Poké Mart. Puis-je vous aider à rechercher des éléments?",
-      "goodbye": "Merci pour faire des emplettes ici! je l'espère, nous vous voir bientôt."
+      "hello": "Salut, bienvenue dans notre PokéMart. Puis-je vous aider à trouver les objets que vous désirez ?",
+      "goodbye": "Merci pour d'avoir fait vos emplettes ici ! J'espère vous revoir bientôt !"
     }
     {
-      "hello": "Bonjour, belle journée pour Poké Mart achats. Nos promotions devraient vous intéresser.",
-      "goodbye": "À la prochaine!"
+      "hello": "Bonjour, c'est une belle journée pour faire ses achats au PokéMart. Nos promotions devraient vous intéresser.",
+      "goodbye": "À la prochaine !"
     }
   ],
   /*

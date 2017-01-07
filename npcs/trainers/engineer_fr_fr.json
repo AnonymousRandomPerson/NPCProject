@@ -1,0 +1,136 @@
+{
+    "data": {
+        "trainerType": "Engineer",
+        "minLevel": 20,
+        "maxLevel": 50,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 40
+    },
+    "pokemon": [		
+		{
+            "name": "Pikachu"
+        },
+        {
+            "name": "Raichu"
+        },
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Magneton"
+        },
+        {
+            "name": "Magnezone"
+        },
+        {
+            "name": "Voltorb"
+        },
+        {
+            "name": "Electrode"
+        },
+        {
+            "name": "Elekid"
+        },
+        {
+            "name": "Electabuzz"
+        },
+        {
+            "name": "Electivire"
+        },
+        {
+            "name": "Jolteon"
+        },
+        {
+            "name": "Chinchou"
+        },
+        {
+            "name": "Lanturn"
+        },
+        {
+            "name": "Pichu"
+        },
+		{
+            "name": "Mareep"
+        },
+        {
+            "name": "Flaaffy"
+        },
+        {
+            "name": "Ampharos"
+        },
+        {
+            "name": "Plusle"
+        },
+        {
+            "name": "Minun"
+        },
+        {
+            "name": "Shinx"
+        },
+        {
+            "name": "Luxio"
+        },
+        {
+            "name": "Luxray"
+        },
+        {
+            "name": "Pachirisu"
+        },
+        {
+            "name": "Emolga"
+        },
+        {
+            "name": "Galvantula"
+        }
+    ],
+    "names": [
+        {
+            "name": "Gustave"
+        },
+        {
+            "name": "Graham"
+        },
+        {
+            "name": "Seymour"
+        },
+        {
+            "name": "Thomas"
+        },
+        {
+            "name": "Kees"
+        },
+		{
+            "name": "Sheldon"
+        },
+        {
+            "name": "Steve"
+        },
+        {
+            "name": "Bernard"
+        },
+        {
+            "name": "Bill"
+        },
+        {
+            "name": "Gabe"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Je fais une pause déjeuner. Que dirrais-tu de combattre ?",
+            "win": "Maintenant je peux retourner au travail avec le sourir !",
+            "lose": "Je devrais trouver de meilleurs choses à faire de mon temps"
+        },
+        {
+            "opening": "Tu es au COURANT pour mon pokémon électrique ? ... T'as compris ?",
+            "win": "J'AI LA PUUIIIIISSAAAAANCE !!!",
+            "lose": "...Electrisant !"
+        },
+        {
+            "opening": "Avec quelques petits réglages, j'ai rendu mon Pokémon 50% plus efficace.",
+            "win": "Heh, plus rapide qu'un éclair huilé.",
+            "lose": "Argh, non ! The résultats sont complètement faux !"
+        }
+    ]
+}

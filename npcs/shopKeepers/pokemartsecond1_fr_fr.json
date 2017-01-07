@@ -33,20 +33,20 @@
   ],
   "chat": [
     {
-      "hello": "Bien venu à notre belle boutique. La qualité de nos produits vous plaira.",
+      "hello": "Bienvenue dans notre belle boutique. La qualité de nos produits vous plaira.",
       "goodbye": "Ravi d'avoir fait votre connaissance. Au revoir."
     },
     {
-      "hello": "Bien venu à notre belle magasin. La qualité de ce Pokémart est insurpassable.",
-      "goodbye": "Je vous remercie pour le shopping à Pokémart."
+      "hello": "Bienvenue dans notre beeau magasin. La qualité de ce Pokémart est insurpassable.",
+      "goodbye": "Je vous remercie pour votre visite au Pokémart."
     },
     {
-      "hello": "Bien venu! Notre Poké Mart a marchandise de qualité bien à vous offrir.",
-      "goodbye": "Il était en effet un privilège de faire affaire avec vous."
+      "hello": "Bienvenue ! Notre PokéMart a des marchandises de bonne qualité à vous offrir.",
+      "goodbye": "C'était un privilège de faire affaire avec vous."
     },
     {
-      "hello": "Bienvenue à notre bien Poké Mart. Profitez de la navigation de notre gamme de luxe.",
-      "goodbye": "Bonne journée à vous, et je vous remercie pour le shopping à notre magasin."
+      "hello": "Bienvenue dans notre joli PokéMart. Profitez-en pour jeter un coup d'oeil à notre gamme de luxe.",
+      "goodbye": "Bonne journée à vous, et je vous remercie pour votre visite dans notre magasin."
     }
   ],
   /*

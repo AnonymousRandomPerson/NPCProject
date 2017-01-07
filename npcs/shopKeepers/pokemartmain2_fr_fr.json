@@ -27,12 +27,12 @@
   ],
   "chat": [
     {
-      "hello": "Salut! Voulez-vous de l'aide? Nous avons des objets cool!",
-      "goodbye": "Ciaou!"
+      "hello": "Salut! Voulez-vous de l'aide ? Nous avons des objets cool !",
+      "goodbye": "Ciao!"
     },
     {
-      "hello": "Salût, comment ça va? Bien venu au PokéMart. Juste appelez si vous avez besion d'aide.",
-      "goodbye": "Ciaou. Bonne journée!"
+      "hello": "Salut, comment ça va ? Bienvenue au PokéMart. Appelez-moi si vous avez besion d'aide.",
+      "goodbye": "Ciao ! Bonne journée !"
     }
   ],
   /*
